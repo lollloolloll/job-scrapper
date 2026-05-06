@@ -2,8 +2,8 @@ name: scrape
 
 on:
   schedule:
-    # 매일 09:00 KST = 00:00 UTC
-    - cron: "0 0 * * *"
+    # 매일 07:00 KST = 22:00 UTC (전일)
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 permissions:

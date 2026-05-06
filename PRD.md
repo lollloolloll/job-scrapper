@@ -181,7 +181,7 @@ Claude Code Routines는 `data/jobs.json`을 읽고 공고별 분석 결과를 `d
 
 트리거:
 
-- schedule: 매일 09:00 KST = UTC 00:00
+- schedule: 매일 07:00 KST = UTC 22:00 (전일)
 - workflow_dispatch: 수동 실행
 
 스텝:
@@ -226,8 +226,8 @@ Claude Code Routines는 `data/jobs.json`을 읽고 공고별 분석 결과를 `d
 - 경력 3년 이상 필수, 시니어/리드, 프론트 비중 약함, 퍼블리싱만, 과도한 백엔드 단독 요구는 낮게.
 
 index.html 요구사항:
-- 다크 테마 (#0f0f0f 배경, indigo 포인트)
-- 카드형 UI
+- 라이트 테마 (#f7f8fb 배경, indigo(#6366f1) 포인트, 본문 #1f2937, 카드 #ffffff)
+- 카드형 UI (border #e2e8f0, soft shadow)
 - 적합도 점수 내림차순 정렬
 - 상단 필터: 전체 / 사람인 / 원티드 / 잡코리아 / 강력 추천 / 보류
 - 각 카드에 원본 링크 버튼
