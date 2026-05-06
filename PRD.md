@@ -227,13 +227,20 @@ Claude Code Routines는 `data/jobs.json`을 읽고 공고별 분석 결과를 `d
 
 index.html 요구사항:
 - 라이트 테마 (#f7f8fb 배경, indigo(#6366f1) 포인트, 본문 #1f2937, 카드 #ffffff)
-- 카드형 UI (border #e2e8f0, soft shadow)
-- 적합도 점수 내림차순 정렬
-- 상단 필터: 전체 / 사람인 / 원티드 / 잡코리아 / 강력 추천 / 보류
-- 각 카드에 원본 링크 버튼
-- 수집 시각 표시
+- 단순 목록이 아니라 `Frontend Job Radar` 대시보드로 생성할 것
+- 상단 Hero에는 `Generated from data/jobs.json`, 마지막 수집 시각, 점수 기준 안내를 표시할 것
+- KPI 카드: 전체 공고 수 / 강력 추천 수 / 보류+비추천 수 / 마지막 수집 시각
+- Top Skills 인사이트 패널: 공고에서 감지된 핵심 스택 빈도 막대 표시
+- 카드형 UI (border #e2e8f0, soft shadow, hover elevation)
+- 적합도 점수 내림차순 기본 정렬
+- 상단 컨트롤: 통합 검색, 출처 필터(전체/사람인/원티드/잡코리아), 추천 단계 필터(전체/강력 추천/추천/보류/비추천), 정렬(점수 높은순/낮은순/회사명/마감일 텍스트순)
+- 검색/필터 결과 수와 empty state를 표시할 것
+- 각 카드에는 출처, 점수 배지, 추천 단계, 제목/회사, 위치/경력/마감일/수집시각, 핵심 태그, 추천 이유, 위험 요소, 앞세울 프로젝트, 보완 학습 포인트, 지원동기 한 줄, 원본 링크 버튼을 포함할 것
+- 원본 링크는 새 탭으로 열고 `rel="noopener noreferrer"`를 포함할 것
 - 모바일 반응형
 - 민감정보 또는 비공개 고객사 상세 정보는 출력하지 말 것
+- generator(`generate_html.cjs`)에서 HTML escaping/safe URL 처리를 적용해 공고 데이터가 HTML/스크립트로 실행되지 않게 할 것
+- 생성 결과는 `scripts/validate-dashboard.cjs` 같은 정적 검증으로 핵심 UI 요소와 카드 메타데이터 존재를 확인할 것
 
 커밋 메시지: chore: AI 분석 결과 업데이트 YYYY-MM-DD
 ```

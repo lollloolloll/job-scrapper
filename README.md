@@ -37,11 +37,13 @@ npm run install:browsers
 ## 실행
 
 ```bash
-npm run scrape            # 3개 사이트 통합 수집 → data/jobs.json
-npm run scrape:saramin    # 단독 실행 (stdout으로 JSON)
+npm run scrape              # 3개 사이트 통합 수집 → data/jobs.json
+npm run generate:html       # data/jobs.json → docs/index.html 대시보드 생성
+npm run validate:dashboard  # 생성된 대시보드 핵심 UI/메타데이터 검증
+npm run scrape:saramin      # 단독 실행 (stdout으로 JSON)
 npm run scrape:wanted
 npm run scrape:jobkorea
-npm run check             # 모든 스크립트 syntax 검증
+npm run check               # 모든 스크립트 syntax 검증
 ```
 
 각 사이트 실패는 격리되어 한 사이트가 죽어도 나머지는 진행됩니다.
