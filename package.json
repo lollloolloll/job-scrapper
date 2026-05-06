@@ -1,0 +1,39 @@
+{
+  "name": "job-scraper",
+  "version": "0.1.0",
+  "description": "사람인, 원티드, 잡코리아 채용공고 자동 수집 및 사용자 맞춤 AI 분석 대시보드 생성 시스템",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node scripts/run-all.js",
+    "scrape:saramin": "node scrapers/saramin.js",
+    "scrape:wanted": "node scrapers/wanted.js",
+    "scrape:jobkorea": "node scrapers/jobkorea.js",
+    "install:browsers": "playwright install chromium",
+    "check": "node --check src/config.js && node --check src/scrape-utils.js && node --check scripts/run-all.js && node --check scrapers/saramin.js && node --check scrapers/wanted.js && node --check scrapers/jobkorea.js",
+    "test": "npm run check"
+  },
+  "keywords": [
+    "job-scraper",
+    "playwright",
+    "career",
+    "frontend",
+    "react",
+    "nextjs",
+    "github-actions",
+    "claude-code-routines"
+  ],
+  "author": "skdhu",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  }
+}

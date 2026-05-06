@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(/c/nvm4w/nodejs/node.exe --check src/config.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe --check src/scrape-utils.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe --check scripts/run-all.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe --check scrapers/saramin.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe --check scrapers/wanted.js)",
+      "Bash(/c/nvm4w/nodejs/npm.cmd run *)",
+      "Bash(/c/nvm4w/nodejs/node.exe scrapers/saramin.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe -e 'console.log\\('\\\\''url:'\\\\'', import.meta.url\\); console.log\\('\\\\''argv1:'\\\\'', process.argv[1]\\);' scrapers/saramin.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe --input-type=module -e 'import {pathToFileURL} from '\\\\''node:url'\\\\''; console.log\\(pathToFileURL\\(process.argv[1]\\).href\\);' scrapers/saramin.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe scrapers/wanted.js)",
+      "Bash(echo \"exit=$?\")",
+      "Read(//tmp/**)",
+      "Bash(curl -sS -o /dev/null -w \"saramin: %{http_code} %{time_total}s\\\\n\" --max-time 30 -A \"Mozilla/5.0\" \"https://www.saramin.co.kr/zf_user/search/recruit?searchword=React\")",
+      "Bash(curl -sS -o /dev/null -w \"wanted: %{http_code} %{time_total}s\\\\n\" --max-time 30 -A \"Mozilla/5.0\" \"https://www.wanted.co.kr/wdlist/518\")",
+      "Bash(curl -sS -o /dev/null -w \"jobkorea: %{http_code} %{time_total}s\\\\n\" --max-time 30 -A \"Mozilla/5.0\" \"https://www.jobkorea.co.kr/Search/?stext=React\")",
+      "Bash(/c/nvm4w/nodejs/node.exe scripts/debug-dom.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe scripts/run-all.js)",
+      "Bash(/c/nvm4w/nodejs/node.exe -e ' *)",
+      "Bash(curl -sS -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0.0.0 Safari/537.36\" -H \"Accept-Language: ko-KR,ko;q=0.9\" \"https://www.saramin.co.kr/zf_user/search/recruit?searchword=React&recruitPage=1&recruitPageCount=10\")",
+      "Bash(curl -sS -o /tmp/saramin.html -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0.0.0 Safari/537.36\" -H \"Accept-Language: ko-KR,ko;q=0.9\" \"https://www.saramin.co.kr/zf_user/search/recruit?searchword=React&recruitPage=1&recruitPageCount=10\" -w \"code=%{http_code} bytes=%{size_download}\\\\n\")"
+    ]
+  }
+}
