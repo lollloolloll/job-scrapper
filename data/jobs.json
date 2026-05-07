@@ -559,19 +559,6 @@
     "scraped_at": "2026-05-06T22:40:39.310Z"
   },
   {
-    "id": "wanted_353860",
-    "source": "wanted",
-    "title": "[미리캔버스] Product Engineer",
-    "company": "미리디",
-    "location": "서울 구로구",
-    "experience": "경력 1년 이상",
-    "stack": "",
-    "salary": "",
-    "url": "https://www.wanted.co.kr/wd/353860",
-    "deadline": "",
-    "scraped_at": "2026-05-06T22:40:39.310Z"
-  },
-  {
     "id": "wanted_347499",
     "source": "wanted",
     "title": "[병역특례] 미리캔버스 에디터 엔지니어 [전문연구요원]",
@@ -581,6 +568,19 @@
     "stack": "",
     "salary": "",
     "url": "https://www.wanted.co.kr/wd/347499",
+    "deadline": "",
+    "scraped_at": "2026-05-06T22:40:39.310Z"
+  },
+  {
+    "id": "wanted_353860",
+    "source": "wanted",
+    "title": "[미리캔버스] Product Engineer",
+    "company": "미리디",
+    "location": "서울 구로구",
+    "experience": "경력 1년 이상",
+    "stack": "",
+    "salary": "",
+    "url": "https://www.wanted.co.kr/wd/353860",
     "deadline": "",
     "scraped_at": "2026-05-06T22:40:39.310Z"
   },
@@ -806,13 +806,26 @@
     "scraped_at": "2026-05-06T22:40:37.743Z"
   },
   {
-    "id": "jobkorea_49089841",
+    "id": "jobkorea_49113362",
     "source": "jobkorea",
-    "title": "UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차)",
-    "company": "오션유아이",
-    "location": "대전 중구",
+    "title": "제조 솔루션 개발자 채용",
+    "company": "㈜케이솔루션즈",
+    "location": "서울 금천구",
     "experience": "신입",
-    "stack": "솔루션·SI·CRM·ERP, 프론트엔드개발자, 웹퍼블리셔",
+    "stack": "솔루션·SI·CRM·ERP, 백엔드개발자, 프론트엔드개발자, 웹개발자",
+    "salary": "",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49113362?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&listno=1&sc=552",
+    "deadline": "19시간 전 등록",
+    "scraped_at": "2026-05-07T00:39:27.752Z"
+  },
+  {
+    "id": "jobkorea_49080607",
+    "source": "jobkorea",
+    "title": "SAP B1 기술리더 (프로젝트PM)",
+    "company": "브이엔티지",
+    "location": "서울 마포구",
+    "experience": "신입",
+    "stack": "솔루션·SI·CRM·ERP, 소프트웨어개발자, 클라우드엔지니어, IT컨설팅",
     "salary": "",
     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49089841?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&listno=2&sc=552",
     "deadline": "04/30(목) 등록",
@@ -1144,15 +1157,15 @@
     "scraped_at": "2026-05-06T22:40:41.582Z"
   },
   {
-    "id": "jobkorea_49080607",
+    "id": "jobkorea_49089841",
     "source": "jobkorea",
-    "title": "SAP B1 기술리더 (프로젝트PM)",
-    "company": "브이엔티지",
-    "location": "서울 마포구",
+    "title": "UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차)",
+    "company": "오션유아이",
+    "location": "대전 중구",
     "experience": "신입",
-    "stack": "솔루션·SI·CRM·ERP, 소프트웨어개발자, 클라우드엔지니어, IT컨설팅",
+    "stack": "솔루션·SI·CRM·ERP, 프론트엔드개발자, 웹퍼블리셔",
     "salary": "",
-    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49080607?Oem_Code=C1&logpath=1&stext=%EC%9B%B9%EA%B0%9C%EB%B0%9C&listno=2&sc=552",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49089841?Oem_Code=C1&logpath=1&stext=%EC%9B%B9%EA%B0%9C%EB%B0%9C&listno=2&sc=552",
     "deadline": "04/30(목) 등록",
     "scraped_at": "2026-05-06T22:40:41.582Z"
   },
