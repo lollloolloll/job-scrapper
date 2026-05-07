@@ -53,6 +53,7 @@
     .card-head { display: flex; justify-content: space-between; gap: 18px; align-items: flex-start; }
     .source-badge, .recommend, .chip { display: inline-flex; align-items: center; border-radius: 999px; font-weight: 800; }
     .source-badge { background: #eef2ff; color: #4338ca; padding: 5px 9px; font-size: .75rem; margin-bottom: 10px; }
+    .new-badge { display: inline-flex; margin-left: 6px; padding: 4px 8px; border-radius: 999px; background: #ecfdf5; color: #047857; font-size: .7rem; font-weight: 900; letter-spacing: .04em; vertical-align: middle; }
     .card-head h2 { margin: 0; font-size: 1.22rem; line-height: 1.35; letter-spacing: -0.025em; }
     .company-line { margin: 6px 0 0; color: var(--muted); font-weight: 700; }
     .score-badge { flex: 0 0 auto; min-width: 68px; min-height: 68px; border-radius: 22px; display: grid; place-items: center; align-content: center; border: 1px solid currentColor; }
@@ -104,26 +105,26 @@
           <li class="skill-row">
             <span>AI Workflow</span>
             <div class="skill-track" aria-hidden="true"><i style="width:100%"></i></div>
-            <b>17</b>
+            <b>34</b>
           </li>
           <li class="skill-row">
             <span>React</span>
-            <div class="skill-track" aria-hidden="true"><i style="width:35%"></i></div>
-            <b>6</b>
+            <div class="skill-track" aria-hidden="true"><i style="width:21%"></i></div>
+            <b>7</b>
+          </li>
+          <li class="skill-row">
+            <span>JavaScript</span>
+            <div class="skill-track" aria-hidden="true"><i style="width:9%"></i></div>
+            <b>3</b>
           </li>
           <li class="skill-row">
             <span>Docker</span>
-            <div class="skill-track" aria-hidden="true"><i style="width:12%"></i></div>
+            <div class="skill-track" aria-hidden="true"><i style="width:8%"></i></div>
             <b>2</b>
           </li>
           <li class="skill-row">
             <span>MVP/Startup</span>
-            <div class="skill-track" aria-hidden="true"><i style="width:12%"></i></div>
-            <b>2</b>
-          </li>
-          <li class="skill-row">
-            <span>JavaScript</span>
-            <div class="skill-track" aria-hidden="true"><i style="width:12%"></i></div>
+            <div class="skill-track" aria-hidden="true"><i style="width:8%"></i></div>
             <b>2</b>
           </li>
           <li class="skill-row">
@@ -138,27 +139,27 @@
     <section class="kpi-grid" aria-label="공고 요약">
 
         <article class="kpi-card">
-          <span class="kpi-label">전체 공고</span>
-          <strong>90</strong>
-          <small>수집된 총 공고 수</small>
+          <span class="kpi-label">전체 active</span>
+          <strong>125</strong>
+          <small>오늘 신규 36건</small>
         </article>
 
         <article class="kpi-card">
           <span class="kpi-label">강력 추천</span>
-          <strong>14</strong>
+          <strong>15</strong>
           <small>우선 검토 후보</small>
         </article>
 
         <article class="kpi-card">
           <span class="kpi-label">보류/비추천</span>
-          <strong>20</strong>
+          <strong>32</strong>
           <small>조건 확인 필요</small>
         </article>
 
         <article class="kpi-card">
           <span class="kpi-label">마지막 수집</span>
-          <strong>2026. 05. 06. 오후 07:23</strong>
-          <small>Asia/Seoul 기준</small>
+          <strong>2026. 05. 08. 오전 12:13</strong>
+          <small>LLM 분석 0/125</small>
         </article>
     </section>
 
@@ -181,8 +182,8 @@
         </select>
       </label>
       <div class="result-line">
-        <span id="resultCount">총 90개 중 90개 표시 중</span>
-        <span>사람인 30 · 원티드 30 · 잡코리아 30</span>
+        <span id="resultCount">총 125개 중 125개 표시 중</span>
+        <span>사람인 33 · 원티드 58 · 잡코리아 34</span>
       </div>
     </section>
 
@@ -194,7 +195,7 @@
           data-fit-score="10"
           data-search="[캐시워크] 프론트엔드개발 채용전환형 인턴 넛지헬스케어(주) 서울 강남구 신입 프론트엔드, 웹개발, 앱개발, react, 유지보수 외 등록일 26/04/08 react frontend web service junior-friendly 강력 추천 신입/주니어 또는 채용전환형으로 검토 가능 · react/next.js/typescript 중심 포지셔닝과 연결 가능 큰 위험 신호 없음"
           data-company="넛지헬스케어(주)"
-          data-deadline="~ 05/08(금)">
+          data-deadline="오늘마감">
           <header class="card-head">
             <div>
               <span class="source-badge">사람인</span>
@@ -209,7 +210,7 @@
           <div class="meta-grid">
             <span>📍 서울 강남구</span>
             <span>🧭 신입</span>
-            <span>⏰ ~ 05/08(금)</span>
+            <span>⏰ 오늘마감</span>
             <span>🕒 2026. 05. 06. 오후 07:23</span>
           </div>
 
@@ -229,7 +230,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53570567&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53570567&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -274,7 +275,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48810522?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=10&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48810522?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=9&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -319,7 +320,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53700352&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53700352&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -409,7 +410,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53649667&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53649667&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -454,7 +455,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53804394&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53804394&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -499,7 +500,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53772391&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53772391&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -509,7 +510,7 @@
           data-fit-score="8"
           data-search="웹퍼블리셔 정규직 채용 (신입) (주)엠투커뮤니티 서울 성동구 신입 프론트엔드, 웹개발, javascript, 퍼블리셔, 반응형웹 외 수정일 26/04/09 javascript frontend web service junior-friendly 강력 추천 신입/주니어 또는 채용전환형으로 검토 가능 단순 퍼블리싱 업무일 수 있음"
           data-company="(주)엠투커뮤니티"
-          data-deadline="~ 05/08(금)">
+          data-deadline="오늘마감">
           <header class="card-head">
             <div>
               <span class="source-badge">사람인</span>
@@ -524,7 +525,7 @@
           <div class="meta-grid">
             <span>📍 서울 성동구</span>
             <span>🧭 신입</span>
-            <span>⏰ ~ 05/08(금)</span>
+            <span>⏰ 오늘마감</span>
             <span>🕒 2026. 05. 06. 오후 07:23</span>
           </div>
 
@@ -544,7 +545,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53569345&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53569345&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -589,7 +590,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53632447&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53632447&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -769,7 +770,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48865608?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=9&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48865608?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=8&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -814,7 +815,52 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49043052?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=18&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49043052?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=16&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-high"
+          data-source="saramin"
+          data-recommendation="강력 추천"
+          data-fit-score="8"
+          data-search="신입 앱 개발자(flutter,react native),앱운영,잠실역,연봉3천 (주)웰브릿지 서울 송파구 신입 프론트엔드, 백엔드/서버개발, 웹개발, java, javascript 외 수정일 26/05/07 react javascript frontend web service junior-friendly 강력 추천 신입/주니어 또는 채용전환형으로 검토 가능 · react/next.js/typescript 중심 포지셔닝과 연결 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성 · react native 단독 포지션 가능성"
+          data-company="(주)웰브릿지"
+          data-deadline="~ 06/06(토)">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">사람인</span><span class="new-badge">NEW</span>
+              <h2 title="신입 앱 개발자(Flutter,React Native),앱운영,잠실역,연봉3천">신입 앱 개발자(Flutter,React Native),앱운영,잠실역,연봉3천</h2>
+              <p class="company-line">(주)웰브릿지</p>
+            </div>
+            <div class="score-badge status-strong">
+              <strong>8</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 송파구</span>
+            <span>🧭 신입</span>
+            <span>⏰ ~ 06/06(토)</span>
+            <span>🕒 2026. 05. 08. 오전 12:12</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-strong">강력 추천</span>
+            <p>(주)웰브릿지 · 신입 앱 개발자(Flutter,React Native),앱운영,잠실역,연봉3천 · 강력 추천 8/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">React</span><span class="chip">JavaScript</span><span class="chip">Frontend</span><span class="chip">Web Service</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · React/Next.js/TypeScript 중심 포지셔닝과 연결 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>프론트 비중이 낮은 백엔드 중심 공고 가능성 · React Native 단독 포지션 가능성</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인 · 백엔드 비중과 프론트엔드 업무 범위 질문 준비</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>React 기반 사용자 웹 구현 경험을 바탕으로 제품 품질과 개발 속도에 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53815009&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -824,7 +870,7 @@
           data-fit-score="7"
           data-search="프론트엔드 개발자(신입) (주)네비웍스 경기 안양시 동안구 신입 풀스택, 소프트웨어개발 등록일 26/04/09 frontend junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 큰 위험 신호 없음"
           data-company="(주)네비웍스"
-          data-deadline="~ 05/09(토)">
+          data-deadline="내일마감">
           <header class="card-head">
             <div>
               <span class="source-badge">사람인</span>
@@ -839,7 +885,7 @@
           <div class="meta-grid">
             <span>📍 경기 안양시 동안구</span>
             <span>🧭 신입</span>
-            <span>⏰ ~ 05/09(토)</span>
+            <span>⏰ 내일마감</span>
             <span>🕒 2026. 05. 06. 오후 07:23</span>
           </div>
 
@@ -859,7 +905,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53582273&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53582273&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -904,7 +950,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53719593&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53719593&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -914,7 +960,7 @@
           data-fit-score="7"
           data-search="2026년 상반기 아이타이쿤 개발자 채용(정규직-신입) (주)아이타이쿤 서울 영등포구 신입 프론트엔드, 백엔드/서버개발, 웹개발, java, 풀스택 외 등록일 26/03/09 frontend web service junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성"
           data-company="(주)아이타이쿤"
-          data-deadline="~ 05/08(금)">
+          data-deadline="오늘마감">
           <header class="card-head">
             <div>
               <span class="source-badge">사람인</span>
@@ -929,7 +975,7 @@
           <div class="meta-grid">
             <span>📍 서울 영등포구</span>
             <span>🧭 신입</span>
-            <span>⏰ ~ 05/08(금)</span>
+            <span>⏰ 오늘마감</span>
             <span>🕒 2026. 05. 06. 오후 07:23</span>
           </div>
 
@@ -949,7 +995,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53277896&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53277896&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -994,7 +1040,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53607336&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53607336&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1084,7 +1130,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49001912?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=4&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49001912?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=3&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1129,7 +1175,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49022467?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=7&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49022467?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=6&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1174,7 +1220,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49043614?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=8&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49043614?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=7&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1219,7 +1265,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49004376?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=13&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49004376?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=11&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1264,7 +1310,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49003637?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=14&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49003637?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=12&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1309,7 +1355,97 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49065821?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=15&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49065821?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=13&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="jobkorea"
+          data-recommendation="추천"
+          data-fit-score="7"
+          data-search="idc 서버 엔지니어 채용 ㈜아이티칸 경기 성남시 신입 네트워크·통신서비스, 시스템엔지니어, 보안엔지니어, it·기술영업 web service junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 큰 위험 신호 없음"
+          data-company="㈜아이티칸"
+          data-deadline="7시간 전 등록">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">잡코리아</span><span class="new-badge">NEW</span>
+              <h2 title="IDC 서버 엔지니어 채용">IDC 서버 엔지니어 채용</h2>
+              <p class="company-line">㈜아이티칸</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>7</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 경기 성남시</span>
+            <span>🧭 신입</span>
+            <span>⏰ 7시간 전 등록</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>㈜아이티칸 · IDC 서버 엔지니어 채용 · 추천 7/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Web Service</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49125410?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=1&amp;sc=552" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="jobkorea"
+          data-recommendation="추천"
+          data-fit-score="7"
+          data-search="[서비스점검] 원활한 서비스를 위한 테스트 공고12 서비스점검22 강원 화천군 외 3 신입 유아·유치원·어린이집, 사서 web service junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 큰 위험 신호 없음"
+          data-company="서비스점검22"
+          data-deadline="04/20(월) 등록">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">잡코리아</span><span class="new-badge">NEW</span>
+              <h2 title="[서비스점검] 원활한 서비스를 위한 테스트 공고12">[서비스점검] 원활한 서비스를 위한 테스트 공고12</h2>
+              <p class="company-line">서비스점검22</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>7</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 강원 화천군 외 3</span>
+            <span>🧭 신입</span>
+            <span>⏰ 04/20(월) 등록</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>서비스점검22 · [서비스점검] 원활한 서비스를 위한 테스트 공고12 · 추천 7/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Web Service</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49020925?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=19&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1317,14 +1453,14 @@
           data-source="saramin"
           data-recommendation="추천"
           data-fit-score="6"
-          data-search="(주)에이블인사이트 백엔드 개발자 신입 채용 공고 (주)이안하이텍 서울 서초구 신입 프론트엔드, 백엔드/서버개발, ai(인공지능), 반도체, lcd 외 등록일 26/04/29 frontend ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성"
-          data-company="(주)이안하이텍"
+          data-search="(주)에이블인사이트 백엔드 개발자 신입 채용 공고 (주)에이블인사이트 서울 서초구 신입 프론트엔드, 백엔드/서버개발, ai(인공지능), 반도체, lcd 외 등록일 26/04/29 frontend ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성"
+          data-company="(주)에이블인사이트"
           data-deadline="~ 05/29(금)">
           <header class="card-head">
             <div>
               <span class="source-badge">사람인</span>
               <h2 title="(주)에이블인사이트 백엔드 개발자 신입 채용 공고">(주)에이블인사이트 백엔드 개발자 신입 채용 공고</h2>
-              <p class="company-line">(주)이안하이텍</p>
+              <p class="company-line">(주)에이블인사이트</p>
             </div>
             <div class="score-badge status-good">
               <strong>6</strong><span>/10</span>
@@ -1340,7 +1476,7 @@
 
           <div class="recommend-line">
             <span class="recommend status-good">추천</span>
-            <p>(주)이안하이텍 · (주)에이블인사이트 백엔드 개발자 신입 채용 공고 · 추천 6/10</p>
+            <p>(주)에이블인사이트 · (주)에이블인사이트 백엔드 개발자 신입 채용 공고 · 추천 6/10</p>
           </div>
 
           <div class="chips"><span class="chip">Frontend</span><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
@@ -1354,7 +1490,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53761042&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53761042&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1364,7 +1500,7 @@
           data-fit-score="6"
           data-search="[신입] 기기제어 앱 개발 - 연구소 인원 모집 (주)지넷시스템 서울 금천구 신입 프론트엔드, 백엔드/서버개발, 앱개발, git, 취약점진단 외 등록일 26/04/08 frontend junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성"
           data-company="(주)지넷시스템"
-          data-deadline="~ 05/08(금)">
+          data-deadline="오늘마감">
           <header class="card-head">
             <div>
               <span class="source-badge">사람인</span>
@@ -1379,7 +1515,7 @@
           <div class="meta-grid">
             <span>📍 서울 금천구</span>
             <span>🧭 신입</span>
-            <span>⏰ ~ 05/08(금)</span>
+            <span>⏰ 오늘마감</span>
             <span>🕒 2026. 05. 06. 오후 07:23</span>
           </div>
 
@@ -1399,7 +1535,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53565556&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53565556&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1444,7 +1580,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53669653&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53669653&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1452,14 +1588,14 @@
           data-source="saramin"
           data-recommendation="추천"
           data-fit-score="6"
-          data-search="(주)에이블인사이트 시스템/연동 개발자 모집 (주)이안하이텍 서울 서초구 신입 프론트엔드, 백엔드/서버개발, ai(인공지능), 반도체, lcd 외 등록일 26/04/29 frontend ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성"
-          data-company="(주)이안하이텍"
+          data-search="(주)에이블인사이트 시스템/연동 개발자 모집 (주)에이블인사이트 서울 서초구 신입 프론트엔드, 백엔드/서버개발, ai(인공지능), 반도체, lcd 외 등록일 26/04/29 frontend ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성"
+          data-company="(주)에이블인사이트"
           data-deadline="~ 05/29(금)">
           <header class="card-head">
             <div>
               <span class="source-badge">사람인</span>
               <h2 title="(주)에이블인사이트 시스템/연동 개발자 모집">(주)에이블인사이트 시스템/연동 개발자 모집</h2>
-              <p class="company-line">(주)이안하이텍</p>
+              <p class="company-line">(주)에이블인사이트</p>
             </div>
             <div class="score-badge status-good">
               <strong>6</strong><span>/10</span>
@@ -1475,7 +1611,7 @@
 
           <div class="recommend-line">
             <span class="recommend status-good">추천</span>
-            <p>(주)이안하이텍 · (주)에이블인사이트 시스템/연동 개발자 모집 · 추천 6/10</p>
+            <p>(주)에이블인사이트 · (주)에이블인사이트 시스템/연동 개발자 모집 · 추천 6/10</p>
           </div>
 
           <div class="chips"><span class="chip">Frontend</span><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
@@ -1489,7 +1625,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53761105&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53761105&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1534,7 +1670,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53786260&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53786260&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1579,7 +1715,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53397797&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53397797&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1589,7 +1725,7 @@
           data-fit-score="6"
           data-search="[캐시워크] 백엔드개발 채용전환형 인턴 넛지헬스케어(주) 서울 강남구 신입 백엔드/서버개발, 웹개발, java, 앱개발, react 외 등록일 26/04/08 react web service junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · react/next.js/typescript 중심 포지셔닝과 연결 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성"
           data-company="넛지헬스케어(주)"
-          data-deadline="~ 05/08(금)">
+          data-deadline="오늘마감">
           <header class="card-head">
             <div>
               <span class="source-badge">사람인</span>
@@ -1604,7 +1740,7 @@
           <div class="meta-grid">
             <span>📍 서울 강남구</span>
             <span>🧭 신입</span>
-            <span>⏰ ~ 05/08(금)</span>
+            <span>⏰ 오늘마감</span>
             <span>🕒 2026. 05. 06. 오후 07:23</span>
           </div>
 
@@ -1624,7 +1760,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53570573&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53570573&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1669,7 +1805,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53749243&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53749243&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1714,7 +1850,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53612996&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53612996&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1759,7 +1895,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53789718&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53789718&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1804,7 +1940,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53772227&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53772227&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -1849,7 +1985,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53649884&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53649884&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -2884,7 +3020,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49081429?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=2&amp;sc=552" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49081429?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=4&amp;sc=552" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3064,7 +3200,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48951530?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=5&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48951530?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=4&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3109,7 +3245,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48975435?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=6&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48975435?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=5&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3154,7 +3290,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48856172?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=11&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48856172?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=10&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3199,7 +3335,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49091198?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=17&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49091198?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=15&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3254,7 +3390,7 @@
           data-fit-score="6"
           data-search="제조 솔루션 개발자 채용 ㈜케이솔루션즈 서울 금천구 신입 솔루션·si·crm·erp, 백엔드개발자, 프론트엔드개발자, 웹개발자 frontend web service junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성 · 파견/si 중심 여부 확인 필요"
           data-company="㈜케이솔루션즈"
-          data-deadline="5시간 전 등록">
+          data-deadline="05/06(수) 등록">
           <header class="card-head">
             <div>
               <span class="source-badge">잡코리아</span>
@@ -3269,7 +3405,7 @@
           <div class="meta-grid">
             <span>📍 서울 금천구</span>
             <span>🧭 신입</span>
-            <span>⏰ 5시간 전 등록</span>
+            <span>⏰ 05/06(수) 등록</span>
             <span>🕒 2026. 05. 06. 오후 07:23</span>
           </div>
 
@@ -3289,7 +3425,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49113362?Oem_Code=C1&amp;logpath=1&amp;stext=%EC%9B%B9%EA%B0%9C%EB%B0%9C&amp;listno=1&amp;sc=552" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49113362?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=2&amp;sc=552" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3335,6 +3471,906 @@
 
           <footer class="card-actions">
             <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49066689?Oem_Code=C1&amp;logpath=1&amp;stext=%EC%9B%B9%EA%B0%9C%EB%B0%9C&amp;listno=3&amp;sc=552" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="saramin"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[한양대학교] 2026년 7월 직원 채용 공고 한양대학교 서울 성동구 신입 프론트엔드, 백엔드/서버개발, 기술지원, 정보보안, 사무직 외 등록일 26/05/06 frontend junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성"
+          data-company="한양대학교"
+          data-deadline="~ 05/18(월)">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">사람인</span><span class="new-badge">NEW</span>
+              <h2 title="[한양대학교] 2026년 7월 직원 채용 공고">[한양대학교] 2026년 7월 직원 채용 공고</h2>
+              <p class="company-line">한양대학교</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 성동구</span>
+            <span>🧭 신입</span>
+            <span>⏰ ~ 05/18(월)</span>
+            <span>🕒 2026. 05. 08. 오전 12:12</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>한양대학교 · [한양대학교] 2026년 7월 직원 채용 공고 · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Frontend</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>프론트 비중이 낮은 백엔드 중심 공고 가능성</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인 · 백엔드 비중과 프론트엔드 업무 범위 질문 준비</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53808724&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="saramin"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="s/w 개발 신입/경력 채용 (주)티미 경기 안양시 만안구 신입 .net, c#, c++, mfc, pytorch 외 등록일 26/05/06 junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 큰 위험 신호 없음"
+          data-company="(주)티미"
+          data-deadline="~ 06/12(금)">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">사람인</span><span class="new-badge">NEW</span>
+              <h2 title="S/W 개발 신입/경력 채용">S/W 개발 신입/경력 채용</h2>
+              <p class="company-line">(주)티미</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 경기 안양시 만안구</span>
+            <span>🧭 신입</span>
+            <span>⏰ ~ 06/12(금)</span>
+            <span>🕒 2026. 05. 08. 오전 12:12</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>(주)티미 · S/W 개발 신입/경력 채용 · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53804424&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="xr/vr 콘텐츠 개발자 렛유인에듀 서울 강남구 신입-경력 10년 junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 큰 위험 신호 없음"
+          data-company="렛유인에듀"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="XR/VR 콘텐츠 개발자">XR/VR 콘텐츠 개발자</h2>
+              <p class="company-line">렛유인에듀</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입-경력 10년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>렛유인에듀 · XR/VR 콘텐츠 개발자 · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360134" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="ai tutor - vietnamese 엑스에이아이 (xai) 서울 강남구 신입 이상 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="엑스에이아이 (xAI)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="AI Tutor - Vietnamese">AI Tutor - Vietnamese</h2>
+              <p class="company-line">엑스에이아이 (xAI)</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입 이상</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>엑스에이아이 (xAI) · AI Tutor - Vietnamese · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/357237" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="ai tutor - italian 엑스에이아이 (xai) 서울 강남구 신입 이상 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="엑스에이아이 (xAI)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="AI Tutor - Italian">AI Tutor - Italian</h2>
+              <p class="company-line">엑스에이아이 (xAI)</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입 이상</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>엑스에이아이 (xAI) · AI Tutor - Italian · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/357214" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="ai tutor - hebrew 엑스에이아이 (xai) 서울 강남구 신입 이상 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="엑스에이아이 (xAI)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="AI Tutor - Hebrew">AI Tutor - Hebrew</h2>
+              <p class="company-line">엑스에이아이 (xAI)</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입 이상</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>엑스에이아이 (xAI) · AI Tutor - Hebrew · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/357211" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="ai tutor - gujarati 엑스에이아이 (xai) 서울 강남구 신입 이상 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="엑스에이아이 (xAI)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="AI Tutor - Gujarati">AI Tutor - Gujarati</h2>
+              <p class="company-line">엑스에이아이 (xAI)</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입 이상</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>엑스에이아이 (xAI) · AI Tutor - Gujarati · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/357210" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="ai tutor - hindi 엑스에이아이 (xai) 서울 강남구 신입 이상 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="엑스에이아이 (xAI)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="AI Tutor - Hindi">AI Tutor - Hindi</h2>
+              <p class="company-line">엑스에이아이 (xAI)</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입 이상</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>엑스에이아이 (xAI) · AI Tutor - Hindi · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/357212" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="기술지원 엔지니어 로그프레소 서울 마포구 경력 1-4년 junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 큰 위험 신호 없음"
+          data-company="로그프레소"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="기술지원 엔지니어">기술지원 엔지니어</h2>
+              <p class="company-line">로그프레소</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 마포구</span>
+            <span>🧭 경력 1-4년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>로그프레소 · 기술지원 엔지니어 · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360104" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="biomedical data scientist [전문연가능] 루닛(lunit) 서울 강남구 신입-경력 10년 junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 큰 위험 신호 없음"
+          data-company="루닛(Lunit)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="Biomedical Data Scientist [전문연가능]">Biomedical Data Scientist [전문연가능]</h2>
+              <p class="company-line">루닛(Lunit)</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입-경력 10년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>루닛(Lunit) · Biomedical Data Scientist [전문연가능] · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359996" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[병역특례 현역/보충역] qa 엔지니어 넛지헬스케어(캐시워크) 서울 강남구 신입 junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 큰 위험 신호 없음"
+          data-company="넛지헬스케어(캐시워크)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[병역특례 현역/보충역] QA 엔지니어">[병역특례 현역/보충역] QA 엔지니어</h2>
+              <p class="company-line">넛지헬스케어(캐시워크)</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>넛지헬스케어(캐시워크) · [병역특례 현역/보충역] QA 엔지니어 · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/126393" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[ai반도체] software engineer (npu sdk) 모빌린트 서울 강남구 신입 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="모빌린트"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[AI반도체] Software Engineer (NPU SDK)">[AI반도체] Software Engineer (NPU SDK)</h2>
+              <p class="company-line">모빌린트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>모빌린트 · [AI반도체] Software Engineer (NPU SDK) · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359963" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[ai반도체] npu compiler engineer 모빌린트 서울 강남구 신입 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="모빌린트"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[AI반도체] NPU Compiler Engineer">[AI반도체] NPU Compiler Engineer</h2>
+              <p class="company-line">모빌린트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>모빌린트 · [AI반도체] NPU Compiler Engineer · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359961" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[ai반도체] npu core engineer (rtl) 모빌린트 서울 강남구 신입 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="모빌린트"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[AI반도체] NPU Core Engineer (RTL)">[AI반도체] NPU Core Engineer (RTL)</h2>
+              <p class="company-line">모빌린트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>모빌린트 · [AI반도체] NPU Core Engineer (RTL) · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359958" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[ai반도체] deep learning research engineer 모빌린트 서울 강남구 신입 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="모빌린트"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[AI반도체] Deep Learning Research Engineer">[AI반도체] Deep Learning Research Engineer</h2>
+              <p class="company-line">모빌린트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>모빌린트 · [AI반도체] Deep Learning Research Engineer · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359956" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[ai반도체] deep learning optimization engineer 모빌린트 서울 강남구 신입 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="모빌린트"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[AI반도체] Deep Learning Optimization Engineer">[AI반도체] Deep Learning Optimization Engineer</h2>
+              <p class="company-line">모빌린트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>모빌린트 · [AI반도체] Deep Learning Optimization Engineer · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359955" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[ai반도체] windows driver engineer 모빌린트 서울 강남구 신입 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="모빌린트"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[AI반도체] Windows Driver Engineer">[AI반도체] Windows Driver Engineer</h2>
+              <p class="company-line">모빌린트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>모빌린트 · [AI반도체] Windows Driver Engineer · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359952" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="wanted"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[ai반도체] software qa engineer 모빌린트 서울 강남구 신입 ai workflow junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="모빌린트"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[AI반도체] Software QA Engineer">[AI반도체] Software QA Engineer</h2>
+              <p class="company-line">모빌린트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>모빌린트 · [AI반도체] Software QA Engineer · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359954" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="jobkorea"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[신입/경력] 풀스택 개발자 ㈜풀링포레스트 서울 강남구 신입 솔루션·si·crm·erp, 백엔드개발자, 프론트엔드개발자, 웹개발자 frontend web service junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성 · 파견/si 중심 여부 확인 필요"
+          data-company="㈜풀링포레스트"
+          data-deadline="04/08(수) 등록">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">잡코리아</span><span class="new-badge">NEW</span>
+              <h2 title="[신입/경력] 풀스택 개발자">[신입/경력] 풀스택 개발자</h2>
+              <p class="company-line">㈜풀링포레스트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 04/08(수) 등록</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>㈜풀링포레스트 · [신입/경력] 풀스택 개발자 · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Frontend</span><span class="chip">Web Service</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>프론트 비중이 낮은 백엔드 중심 공고 가능성 · 파견/SI 중심 여부 확인 필요</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인 · 백엔드 비중과 프론트엔드 업무 범위 질문 준비</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48939328?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=18&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-mid"
+          data-source="jobkorea"
+          data-recommendation="추천"
+          data-fit-score="6"
+          data-search="[신입/경력] full stack developer ㈜풀링포레스트 서울 강남구 신입 솔루션·si·crm·erp, 백엔드개발자, 프론트엔드개발자, 웹개발자 frontend web service junior-friendly 추천 신입/주니어 또는 채용전환형으로 검토 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성 · 파견/si 중심 여부 확인 필요"
+          data-company="㈜풀링포레스트"
+          data-deadline="04/08(수) 등록">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">잡코리아</span><span class="new-badge">NEW</span>
+              <h2 title="[신입/경력] Full Stack Developer">[신입/경력] Full Stack Developer</h2>
+              <p class="company-line">㈜풀링포레스트</p>
+            </div>
+            <div class="score-badge status-good">
+              <strong>6</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 04/08(수) 등록</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-good">추천</span>
+            <p>㈜풀링포레스트 · [신입/경력] Full Stack Developer · 추천 6/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Frontend</span><span class="chip">Web Service</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>프론트 비중이 낮은 백엔드 중심 공고 가능성 · 파견/SI 중심 여부 확인 필요</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인 · 백엔드 비중과 프론트엔드 업무 범위 질문 준비</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/48939304?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=20&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3612,13 +4648,13 @@
           data-source="jobkorea"
           data-recommendation="보류"
           data-fit-score="5"
-          data-search="uiux 퍼블리셔 채용(신입 또는 경력1-2년 차) 오션유아이 대전 중구 신입 솔루션·si·crm·erp, 프론트엔드개발자, 웹퍼블리셔 frontend junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 단순 퍼블리싱 업무일 수 있음 · 파견/si 중심 여부 확인 필요"
+          data-search="uiux 퍼블리셔 채용(신입 또는 경력1-3년 차) 오션유아이 대전 중구 신입 솔루션·si·crm·erp, 프론트엔드개발자, 웹퍼블리셔 frontend junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 단순 퍼블리싱 업무일 수 있음 · 파견/si 중심 여부 확인 필요"
           data-company="오션유아이"
           data-deadline="04/30(목) 등록">
           <header class="card-head">
             <div>
               <span class="source-badge">잡코리아</span>
-              <h2 title="UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차)">UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차)</h2>
+              <h2 title="UIUX 퍼블리셔 채용(신입 또는 경력1-3년 차)">UIUX 퍼블리셔 채용(신입 또는 경력1-3년 차)</h2>
               <p class="company-line">오션유아이</p>
             </div>
             <div class="score-badge status-hold">
@@ -3635,7 +4671,7 @@
 
           <div class="recommend-line">
             <span class="recommend status-hold">보류</span>
-            <p>오션유아이 · UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차) · 보류 5/10</p>
+            <p>오션유아이 · UIUX 퍼블리셔 채용(신입 또는 경력1-3년 차) · 보류 5/10</p>
           </div>
 
           <div class="chips"><span class="chip">Frontend</span><span class="chip">Junior-Friendly</span></div>
@@ -3649,7 +4685,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49089841?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=1&amp;sc=552" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49089841?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=14&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3702,51 +4738,6 @@
           data-source="jobkorea"
           data-recommendation="보류"
           data-fit-score="5"
-          data-search="uiux 퍼블리셔 채용(신입 또는 경력1-2년 차) 오션유아이 대전 중구 신입 솔루션·si·crm·erp, 프론트엔드개발자, 웹퍼블리셔 frontend junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 단순 퍼블리싱 업무일 수 있음 · 파견/si 중심 여부 확인 필요"
-          data-company="오션유아이"
-          data-deadline="04/30(목) 등록">
-          <header class="card-head">
-            <div>
-              <span class="source-badge">잡코리아</span>
-              <h2 title="UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차)">UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차)</h2>
-              <p class="company-line">오션유아이</p>
-            </div>
-            <div class="score-badge status-hold">
-              <strong>5</strong><span>/10</span>
-            </div>
-          </header>
-
-          <div class="meta-grid">
-            <span>📍 대전 중구</span>
-            <span>🧭 신입</span>
-            <span>⏰ 04/30(목) 등록</span>
-            <span>🕒 2026. 05. 06. 오후 07:23</span>
-          </div>
-
-          <div class="recommend-line">
-            <span class="recommend status-hold">보류</span>
-            <p>오션유아이 · UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차) · 보류 5/10</p>
-          </div>
-
-          <div class="chips"><span class="chip">Frontend</span><span class="chip">Junior-Friendly</span></div>
-
-          <dl class="analysis-list">
-            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
-            <div><dt>위험 요소</dt><dd>단순 퍼블리싱 업무일 수 있음 · 파견/SI 중심 여부 확인 필요</dd></div>
-            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
-            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
-            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
-          </dl>
-
-          <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49089841?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=16&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
-          </footer>
-        </article>
-
-        <article class="job-card score-low"
-          data-source="jobkorea"
-          data-recommendation="보류"
-          data-fit-score="5"
           data-search="[티에이케이정보시스템] 2026년 mes팀 모집 티에이케이정보시스템㈜ 경북 구미시 외 2 신입 솔루션·si·crm·erp, 백엔드개발자, 프론트엔드개발자, dba frontend junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 프론트 비중이 낮은 백엔드 중심 공고 가능성 · 파견/si 중심 여부 확인 필요"
           data-company="티에이케이정보시스템㈜"
           data-deadline="04/30(목) 등록">
@@ -3784,7 +4775,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49092193?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=19&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49092193?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=17&amp;sc=630" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3834,6 +4825,276 @@
         </article>
 
         <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="5"
+          data-search="ai tutor - indonesian 엑스에이아이 (xai) 서울 강남구 신입 이상 ai workflow junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 파견/si 중심 여부 확인 필요"
+          data-company="엑스에이아이 (xAI)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="AI Tutor - Indonesian">AI Tutor - Indonesian</h2>
+              <p class="company-line">엑스에이아이 (xAI)</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>5</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입 이상</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>엑스에이아이 (xAI) · AI Tutor - Indonesian · 보류 5/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>파견/SI 중심 여부 확인 필요</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/357213" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="5"
+          data-search="ai agent engineer 인피닉(infiniq) 서울 강남구 경력 1-5년 ai workflow 보류 ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="인피닉(infiniq)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="AI Agent Engineer">AI Agent Engineer</h2>
+              <p class="company-line">인피닉(infiniq)</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>5</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 경력 1-5년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>인피닉(infiniq) · AI Agent Engineer · 보류 5/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360043" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="5"
+          data-search="운영 자동화 엔지니어 (platform operations engineer) 렌트리 서울 마포구 신입-경력 5년 ai workflow junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 5년 이상 경력 요구 가능성"
+          data-company="렌트리"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="운영 자동화 엔지니어 (Platform Operations Engineer)">운영 자동화 엔지니어 (Platform Operations Engineer)</h2>
+              <p class="company-line">렌트리</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>5</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 마포구</span>
+            <span>🧭 신입-경력 5년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>렌트리 · 운영 자동화 엔지니어 (Platform Operations Engineer) · 보류 5/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>5년 이상 경력 요구 가능성</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인 · 주니어 지원 가능 여부와 온보딩 체계 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359276" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="5"
+          data-search="ai 엔지니어 로민 서울 서초구 경력 1-15년 ai workflow 보류 ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 큰 위험 신호 없음"
+          data-company="로민"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="AI 엔지니어">AI 엔지니어</h2>
+              <p class="company-line">로민</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>5</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 서초구</span>
+            <span>🧭 경력 1-15년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>로민 · AI 엔지니어 · 보류 5/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360008" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="5"
+          data-search="[ai반도체] soc design engineer 모빌린트 서울 강남구 신입 ai workflow junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 · ai 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능 파견/si 중심 여부 확인 필요"
+          data-company="모빌린트"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="[AI반도체] SoC Design Engineer">[AI반도체] SoC Design Engineer</h2>
+              <p class="company-line">모빌린트</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>5</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>모빌린트 · [AI반도체] SoC Design Engineer · 보류 5/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">AI Workflow</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능 · AI 활용은 메인 헤드라인이 아니라 문서화/자동화 보조 강점으로 언급 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>파견/SI 중심 여부 확인 필요</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>AI memory workflow</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/359960" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="jobkorea"
+          data-recommendation="보류"
+          data-fit-score="5"
+          data-search="(주)스패셜티 개발자(신입/경력), 기획(연구소) 분야 채용 ㈜스패셜티 전북 전주시 신입 솔루션·si·crm·erp, 웹개발자 web service junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 파견/si 중심 여부 확인 필요"
+          data-company="㈜스패셜티"
+          data-deadline="05/06(수) 등록">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">잡코리아</span><span class="new-badge">NEW</span>
+              <h2 title="(주)스패셜티 개발자(신입/경력), 기획(연구소) 분야 채용">(주)스패셜티 개발자(신입/경력), 기획(연구소) 분야 채용</h2>
+              <p class="company-line">㈜스패셜티</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>5</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 전북 전주시</span>
+            <span>🧭 신입</span>
+            <span>⏰ 05/06(수) 등록</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>㈜스패셜티 · (주)스패셜티 개발자(신입/경력), 기획(연구소) 분야 채용 · 보류 5/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Web Service</span><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>파견/SI 중심 여부 확인 필요</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.jobkorea.co.kr/Recruit/GI_Read/49109013?Oem_Code=C1&amp;logpath=1&amp;stext=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;listno=3&amp;sc=552" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
           data-source="saramin"
           data-recommendation="보류"
           data-fit-score="4"
@@ -3874,7 +5135,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53775089&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53775089&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -3919,7 +5180,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53776259&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53776259&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -4103,6 +5364,276 @@
           </footer>
         </article>
 
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="4"
+          data-search="professional services 신입사원, a2c 아마존(amazon) 서울 강남구 신입 이상 junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 파견/si 중심 여부 확인 필요"
+          data-company="아마존(Amazon)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="Professional Services 신입사원, A2C">Professional Services 신입사원, A2C</h2>
+              <p class="company-line">아마존(Amazon)</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>4</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입 이상</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>아마존(Amazon) · Professional Services 신입사원, A2C · 보류 4/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>파견/SI 중심 여부 확인 필요</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360093" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="4"
+          data-search="솔루션 구축 엔지니어 로그프레소 서울 마포구 경력 1-5년 보류 공고 원문에서 기술스택/역할 범위를 추가 확인해야 함 큰 위험 신호 없음"
+          data-company="로그프레소"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="솔루션 구축 엔지니어">솔루션 구축 엔지니어</h2>
+              <p class="company-line">로그프레소</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>4</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 마포구</span>
+            <span>🧭 경력 1-5년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>로그프레소 · 솔루션 구축 엔지니어 · 보류 4/10</p>
+          </div>
+
+          <div class="chips"><span class="chip muted">태그 없음</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>공고 원문에서 기술스택/역할 범위를 추가 확인해야 함</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360105" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="4"
+          data-search="llm engineer 인피닉(infiniq) 서울 강남구 경력 1-5년 보류 공고 원문에서 기술스택/역할 범위를 추가 확인해야 함 큰 위험 신호 없음"
+          data-company="인피닉(infiniq)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="LLM Engineer">LLM Engineer</h2>
+              <p class="company-line">인피닉(infiniq)</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>4</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 경력 1-5년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>인피닉(infiniq) · LLM Engineer · 보류 4/10</p>
+          </div>
+
+          <div class="chips"><span class="chip muted">태그 없음</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>공고 원문에서 기술스택/역할 범위를 추가 확인해야 함</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360045" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="4"
+          data-search="서버 엔지니어 주드라 서울 강남구 신입-경력 3년 junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 경력 3년 이상 확인 필요"
+          data-company="주드라"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="서버 엔지니어">서버 엔지니어</h2>
+              <p class="company-line">주드라</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>4</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입-경력 3년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>주드라 · 서버 엔지니어 · 보류 4/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>경력 3년 이상 확인 필요</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인 · 주니어 지원 가능 여부와 온보딩 체계 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/319346" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="4"
+          data-search="솔루션운영 엔지니어 로민 서울 서초구 경력 1-15년 보류 공고 원문에서 기술스택/역할 범위를 추가 확인해야 함 큰 위험 신호 없음"
+          data-company="로민"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="솔루션운영 엔지니어">솔루션운영 엔지니어</h2>
+              <p class="company-line">로민</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>4</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 서초구</span>
+            <span>🧭 경력 1-15년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>로민 · 솔루션운영 엔지니어 · 보류 4/10</p>
+          </div>
+
+          <div class="chips"><span class="chip muted">태그 없음</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>공고 원문에서 기술스택/역할 범위를 추가 확인해야 함</dd></div>
+            <div><dt>위험 요소</dt><dd>큰 위험 신호 없음</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360006" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
+        <article class="job-card score-low"
+          data-source="wanted"
+          data-recommendation="보류"
+          data-fit-score="4"
+          data-search="데이터 매니저 로민 서울 서초구 신입-경력 5년 junior-friendly 보류 신입/주니어 또는 채용전환형으로 검토 가능 5년 이상 경력 요구 가능성"
+          data-company="로민"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="데이터 매니저">데이터 매니저</h2>
+              <p class="company-line">로민</p>
+            </div>
+            <div class="score-badge status-hold">
+              <strong>4</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 서초구</span>
+            <span>🧭 신입-경력 5년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-hold">보류</span>
+            <p>로민 · 데이터 매니저 · 보류 4/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>5년 이상 경력 요구 가능성</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인 · 주니어 지원 가능 여부와 온보딩 체계 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/360004" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
+
         <article class="job-card score-no"
           data-source="saramin"
           data-recommendation="비추천"
@@ -4144,7 +5675,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53760580&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53760580&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -4189,7 +5720,7 @@
           </dl>
 
           <footer class="card-actions">
-            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53648953&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=abd7e03d-882e-4765-ac7b-f2e6a6f89c7e" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+            <a href="https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&amp;rec_idx=53648953&amp;location=ts&amp;searchword=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&amp;searchType=search&amp;paid_fl=n&amp;search_uuid=d5d6dabd-6bee-420a-8102-b62bcb811dfb" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
 
@@ -4237,6 +5768,51 @@
             <a href="https://www.wanted.co.kr/wd/222550" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
           </footer>
         </article>
+
+        <article class="job-card score-no"
+          data-source="wanted"
+          data-recommendation="비추천"
+          data-fit-score="3"
+          data-search="associate google cloud learning lead, greach program for people with disabilities or veterans (장애인 or 보훈대상자) (english, korean) 구글(google) 서울 강남구 신입-경력 5년 junior-friendly 비추천 신입/주니어 또는 채용전환형으로 검토 가능 시니어/리드 성격 가능성 · 5년 이상 경력 요구 가능성"
+          data-company="구글(Google)"
+          data-deadline="">
+          <header class="card-head">
+            <div>
+              <span class="source-badge">원티드</span><span class="new-badge">NEW</span>
+              <h2 title="Associate Google Cloud Learning Lead, gReach Program for People with Disabilities or Veterans (장애인 or 보훈대상자) (English, Korean)">Associate Google Cloud Learning Lead, gReach Program for People with Disabilities or Veterans (장애인 or 보훈대상자) (English, Korean)</h2>
+              <p class="company-line">구글(Google)</p>
+            </div>
+            <div class="score-badge status-no">
+              <strong>3</strong><span>/10</span>
+            </div>
+          </header>
+
+          <div class="meta-grid">
+            <span>📍 서울 강남구</span>
+            <span>🧭 신입-경력 5년</span>
+            <span>⏰ 마감 정보 없음</span>
+            <span>🕒 2026. 05. 08. 오전 12:13</span>
+          </div>
+
+          <div class="recommend-line">
+            <span class="recommend status-no">비추천</span>
+            <p>구글(Google) · Associate Google Cloud Learning Lead, gReach Program for People with Disabilities or Veterans (장애인 or 보훈대상자) (English, Korean) · 비추천 3/10</p>
+          </div>
+
+          <div class="chips"><span class="chip">Junior-Friendly</span></div>
+
+          <dl class="analysis-list">
+            <div><dt>추천 이유</dt><dd>신입/주니어 또는 채용전환형으로 검토 가능</dd></div>
+            <div><dt>위험 요소</dt><dd>시니어/리드 성격 가능성 · 5년 이상 경력 요구 가능성</dd></div>
+            <div><dt>앞세울 프로젝트</dt><dd>소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택</dd></div>
+            <div><dt>보완 포인트</dt><dd>TypeScript 요구 수준 확인 · Next.js 사용 여부 확인 · 주니어 지원 가능 여부와 온보딩 체계 확인</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.</dd></div>
+          </dl>
+
+          <footer class="card-actions">
+            <a href="https://www.wanted.co.kr/wd/356868" target="_blank" rel="noopener noreferrer">원본 공고 보기</a>
+          </footer>
+        </article>
     </section>
 
     <section id="emptyState" class="empty-state" hidden>
@@ -4244,7 +5820,7 @@
       <span>검색어를 줄이거나 필터를 전체로 바꿔보세요. data/jobs.json이 비어 있다면 scraper 실행 상태를 확인하세요.</span>
     </section>
 
-    <p class="footer">Generated at 2026. 05. 06. 오후 10:15 · 민감정보/비공개 고객사 상세는 출력하지 않는 것을 원칙으로 합니다.</p>
+    <p class="footer">Generated at 2026. 05. 08. 오전 12:23 · 민감정보/비공개 고객사 상세는 출력하지 않는 것을 원칙으로 합니다.</p>
   </main>
 
   <script>

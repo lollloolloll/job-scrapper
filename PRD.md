@@ -197,7 +197,12 @@ Claude Code Routines는 `data/jobs.json`을 읽고 공고별 분석 결과를 `d
    - token: `${{ secrets.ROUTINE_TOKEN }}`
    - body: `{ "message": "jobs.json 업데이트 완료. data/jobs.json 분석 후 사용자 맞춤 취업 전략 대시보드 docs/index.html 생성해줘" }`
 
-## 10. Claude Code Routines 프롬프트
+## 10. 분석 루틴 프롬프트
+
+> 실제 사용 중인 증분 분석 프롬프트는 [`JULES_PROMPT.md`](./JULES_PROMPT.md)에 있다.
+> 아래는 PRD 시점의 reference 프롬프트이며, 운영 중인 프롬프트와 다를 수 있다.
+
+
 
 ```text
 레포지토리의 data/jobs.json을 읽어서 각 공고를 사용자 맞춤형으로 분석하고 docs/index.html을 생성해서 커밋해줘.

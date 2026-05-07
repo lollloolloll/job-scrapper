@@ -6,13 +6,15 @@
   "private": true,
   "scripts": {
     "scrape": "node scripts/run-all.js",
+    "enrich": "node scripts/enrich-new.js",
     "scrape:saramin": "node scrapers/saramin.js",
     "scrape:wanted": "node scrapers/wanted.js",
     "scrape:jobkorea": "node scrapers/jobkorea.js",
     "install:browsers": "playwright install chromium",
     "generate:html": "node generate_html.cjs",
     "validate:dashboard": "node scripts/validate-dashboard.cjs",
-    "check": "node --check src/config.js && node --check src/scrape-utils.js && node --check scripts/run-all.js && node --check scrapers/saramin.js && node --check scrapers/wanted.js && node --check scrapers/jobkorea.js && node --check generate_html.cjs && node --check scripts/validate-dashboard.cjs",
+    "daily": "npm run scrape && npm run enrich",
+    "check": "node --check src/config.js && node --check src/scrape-utils.js && node --check scripts/run-all.js && node --check scripts/enrich-new.js && node --check scrapers/saramin.js && node --check scrapers/wanted.js && node --check scrapers/jobkorea.js && node --check generate_html.cjs && node --check scripts/validate-dashboard.cjs",
     "test": "npm run check && npm run generate:html && npm run validate:dashboard"
   },
   "keywords": [

@@ -2,7 +2,19 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 const JOBS_PATH = path.join('data', 'jobs.json');
+const ANALYSIS_PATH = path.join('data', 'analysis.json');
 const OUTPUT_PATH = path.join('docs', 'index.html');
+
+function readAnalysis() {
+  if (!fs.existsSync(ANALYSIS_PATH)) return {};
+  try {
+    const raw = fs.readFileSync(ANALYSIS_PATH, 'utf8');
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === 'object' ? parsed : {};
+  } catch {
+    return {};
+  }
+}
 
 const SOURCE_LABELS = {
   saramin: '사람인',
@@ -120,7 +132,50 @@ function getLastScrapedAt(jobs) {
   return formatDateTime(new Date(Math.max(...dates)).toISOString());
 }
 
-function analyzeJob(job) {
+function analyzeJobFromLlm(job, llm) {
+  // LLM 분석 결과를 keyword-rule 결과와 동일한 shape으로 매핑.
+  const score = Math.max(1, Math.min(10, Math.round(Number(llm.fit_score) || 5)));
+  const recommendation = String(llm.recommendation || '').trim() || (
+    score >= 8 ? '강력 추천' : score >= 6 ? '추천' : score >= 4 ? '보류' : '비추천'
+  );
+  const tags = Array.isArray(llm.core_stack_tags) && llm.core_stack_tags.length
+    ? llm.core_stack_tags
+    : Array.isArray(llm.tags) ? llm.tags : [];
+  const reason = String(llm.reason || llm.recommendation_reason || '').trim();
+  const risk = String(llm.risk || llm.risks || '').trim() || '큰 위험 신호 없음';
+  const projectToHighlight = String(llm.feature_project || llm.projectToHighlight || '').trim()
+    || '소상상점 / 쌍청문 실사용 프로젝트 중 공고 상세 확인 후 선택';
+  const learningPoint = String(llm.learning_points || llm.learningPoint || '').trim()
+    || '도메인/제품 이해와 사용자 흐름 분석 준비';
+  const motivation = String(llm.motivation || '').trim()
+    || '웹 개발 경험을 기반으로 공고의 역할 범위를 빠르게 학습해 기여하고 싶습니다.';
+  const summary = String(llm.summary || '').trim() || buildSummary(job, score, recommendation);
+  const questionsToAsk = String(llm.questions_to_ask || '').trim();
+  const portfolioLink = String(llm.portfolio_link_point || '').trim();
+
+  return {
+    ...job,
+    analysis: {
+      score,
+      tags: unique(tags).slice(0, 8),
+      recommendation,
+      reason: reason || '공고 상세 확인 필요',
+      risk,
+      projectToHighlight,
+      learningPoint,
+      motivation,
+      summary,
+      questionsToAsk,
+      portfolioLink,
+      source: 'llm',
+    },
+  };
+}
+
+function analyzeJob(job, analysisMap) {
+  if (analysisMap && analysisMap[job.id]) {
+    return analyzeJobFromLlm(job, analysisMap[job.id]);
+  }
   const corpus = lowerCorpus(job);
   const title = normalizeText(job.title);
   const experience = normalizeText(job.experience);
@@ -313,7 +368,7 @@ function renderJobCard(job) {
           data-deadline="${escapeAttr(job.deadline)}">
           <header class="card-head">
             <div>
-              <span class="source-badge">${escapeHtml(sourceLabel(job.source))}</span>
+              <span class="source-badge">${escapeHtml(sourceLabel(job.source))}</span>${job.is_new ? '<span class="new-badge">NEW</span>' : ''}
               <h2 title="${escapeAttr(job.title)}">${escapeHtml(job.title || '공고명 정보 없음')}</h2>
               <p class="company-line">${escapeHtml(job.company || '회사명 정보 없음')}</p>
             </div>
@@ -341,7 +396,9 @@ function renderJobCard(job) {
             <div><dt>위험 요소</dt><dd>${escapeHtml(analysis.risk)}</dd></div>
             <div><dt>앞세울 프로젝트</dt><dd>${escapeHtml(analysis.projectToHighlight)}</dd></div>
             <div><dt>보완 포인트</dt><dd>${escapeHtml(analysis.learningPoint)}</dd></div>
-            <div><dt>지원동기 한 줄</dt><dd>${escapeHtml(analysis.motivation)}</dd></div>
+            <div><dt>지원동기 한 줄</dt><dd>${escapeHtml(analysis.motivation)}</dd></div>${analysis.questionsToAsk ? `
+            <div><dt>확인할 질문</dt><dd>${escapeHtml(analysis.questionsToAsk)}</dd></div>` : ''}${analysis.portfolioLink ? `
+            <div><dt>포트폴리오 연결</dt><dd>${escapeHtml(analysis.portfolioLink)}</dd></div>` : ''}
           </dl>
 
           <footer class="card-actions">
@@ -351,7 +408,15 @@ function renderJobCard(job) {
 }
 
 function buildHtml() {
-  const analyzedJobs = readJobs().map(analyzeJob).sort((a, b) => b.analysis.score - a.analysis.score);
+  const allJobs = readJobs();
+  const analysisMap = readAnalysis();
+  // expired 공고는 대시보드에서 제외 (status 필드가 없는 레거시 데이터는 active로 간주)
+  const activeJobs = allJobs.filter((j) => j.status !== 'expired');
+  const analyzedJobs = activeJobs
+    .map((job) => analyzeJob(job, analysisMap))
+    .sort((a, b) => b.analysis.score - a.analysis.score);
+  const newCount = analyzedJobs.filter((j) => j.is_new).length;
+  const llmAnalyzed = analyzedJobs.filter((j) => j.analysis.source === 'llm').length;
   const total = analyzedJobs.length;
   const bySource = countBy(analyzedJobs, (job) => job.source);
   const byRecommendation = countBy(analyzedJobs, (job) => job.analysis.recommendation);
@@ -421,6 +486,7 @@ function buildHtml() {
     .card-head { display: flex; justify-content: space-between; gap: 18px; align-items: flex-start; }
     .source-badge, .recommend, .chip { display: inline-flex; align-items: center; border-radius: 999px; font-weight: 800; }
     .source-badge { background: #eef2ff; color: #4338ca; padding: 5px 9px; font-size: .75rem; margin-bottom: 10px; }
+    .new-badge { display: inline-flex; margin-left: 6px; padding: 4px 8px; border-radius: 999px; background: #ecfdf5; color: #047857; font-size: .7rem; font-weight: 900; letter-spacing: .04em; vertical-align: middle; }
     .card-head h2 { margin: 0; font-size: 1.22rem; line-height: 1.35; letter-spacing: -0.025em; }
     .company-line { margin: 6px 0 0; color: var(--muted); font-weight: 700; }
     .score-badge { flex: 0 0 auto; min-width: 68px; min-height: 68px; border-radius: 22px; display: grid; place-items: center; align-content: center; border: 1px solid currentColor; }
@@ -474,10 +540,10 @@ function buildHtml() {
     </section>
 
     <section class="kpi-grid" aria-label="공고 요약">
-      ${renderKpi('전체 공고', String(total), '수집된 총 공고 수')}
+      ${renderKpi('전체 active', String(total), `오늘 신규 ${newCount}건`)}
       ${renderKpi('강력 추천', String(byRecommendation['강력 추천'] || 0), '우선 검토 후보')}
       ${renderKpi('보류/비추천', String((byRecommendation['보류'] || 0) + (byRecommendation['비추천'] || 0)), '조건 확인 필요')}
-      ${renderKpi('마지막 수집', lastScrapedAt, 'Asia/Seoul 기준')}
+      ${renderKpi('마지막 수집', lastScrapedAt, `LLM 분석 ${llmAnalyzed}/${total}`)}
     </section>
 
     <section class="controls" aria-label="검색과 필터">
