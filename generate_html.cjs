@@ -482,6 +482,7 @@ function buildHtml() {
     .result-line { grid-column: 1 / -1; display: flex; justify-content: space-between; gap: 12px; color: var(--muted); font-size: .9rem; }
     .jobs-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
     .job-card { padding: 22px; display: flex; flex-direction: column; min-height: 420px; transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease; }
+    .job-card[hidden] { display: none !important; }
     .job-card:hover { transform: translateY(-3px); box-shadow: 0 24px 60px rgba(15,23,42,.12); border-color: #c7d2fe; }
     .card-head { display: flex; justify-content: space-between; gap: 18px; align-items: flex-start; }
     .source-badge, .recommend, .chip { display: inline-flex; align-items: center; border-radius: 999px; font-weight: 800; }
@@ -624,7 +625,8 @@ ${cards}
         const query = searchInput.value.trim().toLowerCase();
         const source = sourceFilter.value;
         const recommendation = recommendationFilter.value;
-        return (!query || card.dataset.search.includes(query))
+        const haystack = (card.dataset.search || '').toLowerCase();
+        return (!query || haystack.includes(query))
           && (source === 'all' || card.dataset.source === source)
           && (recommendation === 'all' || card.dataset.recommendation === recommendation);
       }
@@ -651,9 +653,13 @@ ${cards}
         const start = (currentPage - 1) * pageSize;
         const pageItems = filtered.slice(start, start + pageSize);
 
-        for (const card of cards) card.hidden = true;
+        for (const card of cards) {
+          card.hidden = true;
+          card.style.display = 'none';
+        }
         for (const card of pageItems) {
           card.hidden = false;
+          card.style.display = '';
           container.appendChild(card);
         }
 
