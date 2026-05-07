@@ -61,8 +61,14 @@ function diffDays(aIso, bIso) {
 
 function mergeJobs(existing, fresh, nowIso) {
   const byId = new Map();
+  // existing에 같은 id 중복이 있으면 description 있는 쪽을 보존
   for (const j of existing) {
-    if (j && j.id) byId.set(j.id, { ...j });
+    if (!j || !j.id) continue;
+    const cur = byId.get(j.id);
+    if (!cur) { byId.set(j.id, { ...j }); continue; }
+    const score = (x) => (x.description ? 10 : 0) + (x.is_new ? 1 : 0)
+      + new Date(x.last_seen || x.scraped_at || 0).getTime() / 1e12;
+    if (score(j) > score(cur)) byId.set(j.id, { ...j });
   }
 
   const seenIds = new Set();

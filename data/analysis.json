@@ -1,1 +1,2729 @@
-{}
+{
+  "saramin_53570567": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "React",
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "넛지헬스케어(주)의 [캐시워크] 프론트엔드개발 채용전환형 인턴 — React·TypeScript / 헬스케어·AI/ML. 오늘 우선 검토할 후보.",
+    "reason": "React와 TypeScript 둘 다 사용자 주력에 포함된 스택이라 넛지헬스케어(주) 환경에서 빠르게 적응 가능. 헬스케어 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "넛지헬스케어(주)의 헬스케어에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제 사용 스택, 코드리뷰 문화, 신입 멘토링 형태",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.688Z"
+  },
+  "saramin_53649667": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML",
+      "게임"
+    ],
+    "summary": "(주)빅파이어게임즈의 [NC자회사][빅파이어게임즈][단기계약직] 프론트엔드 개발자 — TypeScript / AI/ML·게임. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)빅파이어게임즈의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.693Z"
+  },
+  "saramin_53582273": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)네비웍스의 프론트엔드 개발자(신입) — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "(주)네비웍스가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. (주)네비웍스의 AI/ML 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)네비웍스의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.694Z"
+  },
+  "saramin_53775089": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML",
+      "여행/숙박"
+    ],
+    "summary": "한화호텔앤드리조트(주)의 한화호텔앤드리조트/제주 프런트 모집 — TypeScript / AI/ML·여행/숙박. 원본 확인 후 판단 보류.",
+    "reason": "한화호텔앤드리조트(주)가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "한화호텔앤드리조트(주)의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.694Z"
+  },
+  "saramin_53761042": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)에이블인사이트의 (주)에이블인사이트 백엔드 개발자 신입 채용 공고 — TypeScript / AI/ML. 사용자 포지셔닝과 거리 있음.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)에이블인사이트의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.694Z"
+  },
+  "saramin_53719593": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)아티언스의 [AX팀] AI 서비스 개발자(신입) — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript + 추가 스택 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)아티언스의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.695Z"
+  },
+  "saramin_53277896": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Java"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)아이타이쿤의 2026년 상반기 아이타이쿤 개발자 채용(정규직-신입) — TypeScript·Java / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "(주)아이타이쿤가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. (주)아이타이쿤의 AI/ML 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)아이타이쿤의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.695Z"
+  },
+  "saramin_53804394": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Java"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)법틀의 웹/서버 SW 백엔드 개발자 신입 (Legal Startup) — TypeScript·Java / AI/ML. 사용자 포지셔닝과 거리 있음.",
+    "reason": "TypeScript + Java 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. AI/ML 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "백엔드 단독 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)법틀의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.695Z"
+  },
+  "saramin_53565556": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)지넷시스템의 [신입] 기기제어 앱 개발 - 연구소 인원 모집 — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. AI/ML 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)지넷시스템의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.696Z"
+  },
+  "saramin_53669653": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)캐스트이즈의 [캐스트이즈] 2026 신입 DevOps 개발자 모집 — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. (주)캐스트이즈의 AI/ML 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)캐스트이즈의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.696Z"
+  },
+  "saramin_53772391": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Docker"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "유아크 주식회사의 유아크 주식회사에서 플랫폼 신입 개발자를 찾고 있어요 — TypeScript·Docker / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Docker)은 면접에서 확인 필요. AI-native workflow의 운영 정책/사용자 흐름 경험이 유아크 주식회사의 AI/ML 환경에 맞물림. 유아크 주식회사가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "유아크 주식회사의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.696Z"
+  },
+  "saramin_53761105": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)에이블인사이트의 (주)에이블인사이트 시스템/연동 개발자 모집 — TypeScript / AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)에이블인사이트의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.696Z"
+  },
+  "saramin_53700352": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Docker"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)블루핀의 [블루핀] 2026년 AX팀 신입 엔지니어 모집공고 — React·TypeScript·Docker / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "React+TypeScript 조합이 (주)블루핀 요구사항에 들어가 있어 진입 비용이 낮은 편. (주)블루핀의 AI/ML 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. (주)블루핀가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)블루핀의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제 사용 스택, 코드리뷰 문화, 신입 멘토링 형태",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.696Z"
+  },
+  "saramin_53607336": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "FCG의 [인턴] 개발 및 기획 직군 채용 — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript + 추가 스택 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. FCG의 AI/ML 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. FCG가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "FCG의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.696Z"
+  },
+  "saramin_53569345": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "AI/ML",
+      "커뮤니티/소셜"
+    ],
+    "summary": "(주)엠투커뮤니티의 웹퍼블리셔 정규직 채용 (신입) — TypeScript·JavaScript / AI/ML·커뮤니티/소셜. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JavaScript)은 면접에서 확인 필요. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "퍼블리싱만 담당.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)엠투커뮤니티의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.696Z"
+  },
+  "saramin_53560131": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)퀀터라인의 SoC Physical Design/Imp Engineer — TypeScript·Python / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript + Python 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)퀀터라인의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.697Z"
+  },
+  "saramin_53786260": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "(주)연합인포맥스의 IT/AI부문(전문연구요원 포함)신입 — TypeScript / AI/ML·에듀테크. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. AI-native workflow의 운영 정책/사용자 흐름 경험이 (주)연합인포맥스의 AI/ML 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)연합인포맥스의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.697Z"
+  },
+  "saramin_53397797": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "넛지헬스케어(주)의 [캐시워크] 데이터분석 담당 채용전환형 인턴 — TypeScript / 헬스케어·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "넛지헬스케어(주)가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. 헬스케어 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "넛지헬스케어(주)의 헬스케어에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.697Z"
+  },
+  "saramin_53570573": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Java"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "넛지헬스케어(주)의 [캐시워크] 백엔드개발 채용전환형 인턴 — React·TypeScript·Java / 헬스케어·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "React와 TypeScript 둘 다 사용자 주력에 포함된 스택이라 넛지헬스케어(주) 환경에서 빠르게 적응 가능. AI-native workflow의 운영 정책/사용자 흐름 경험이 넛지헬스케어(주)의 헬스케어 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "넛지헬스케어(주)의 헬스케어에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제 사용 스택, 코드리뷰 문화, 신입 멘토링 형태",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.697Z"
+  },
+  "saramin_53749243": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "넛지헬스케어(주)의 [캐시워크] 데이터엔지니어 채용전환형 인턴 — TypeScript / 헬스케어·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. AI-native workflow의 운영 정책/사용자 흐름 경험이 넛지헬스케어(주)의 헬스케어 환경에 맞물림. 넛지헬스케어(주)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "넛지헬스케어(주)의 헬스케어에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.697Z"
+  },
+  "saramin_53632447": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Python",
+      "AWS"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)완드의 [인턴] 데이터 엔지니어 — React·TypeScript·Python / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "React+TypeScript 조합이 (주)완드 요구사항에 들어가 있어 진입 비용이 낮은 편. AI/ML 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)완드의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제 사용 스택, 코드리뷰 문화, 신입 멘토링 형태",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.697Z"
+  },
+  "saramin_53612996": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)애자일소다의 AI 플랫폼 시스템 엔지니어(신입) — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "(주)애자일소다가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. AI-native workflow의 운영 정책/사용자 흐름 경험이 (주)애자일소다의 AI/ML 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)애자일소다의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.697Z"
+  },
+  "saramin_53760580": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Java",
+      "Python"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)플랫폼아이티의 백엔드 개발자를 모집합니다. — TypeScript·Java·Python / AI/ML. 사용자 포지셔닝과 거리 있음.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Java/Python)은 면접에서 확인 필요. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "백엔드 단독 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)플랫폼아이티의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.697Z"
+  },
+  "saramin_53789718": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Java"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "(주)멕아이씨에스의 디지털 헬스케어 개발자(신입) — TypeScript·Java / 헬스케어·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript + Java 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. 헬스케어 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)멕아이씨에스의 헬스케어에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.698Z"
+  },
+  "saramin_53772227": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Java"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "(주)새롬소프트의 의료기관 건강검진프로그램 종합솔루션 소프트웨어 응용프로그램 — TypeScript·Java / 헬스케어·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "(주)새롬소프트가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. (주)새롬소프트의 헬스케어 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. (주)새롬소프트가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)새롬소프트의 헬스케어에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.698Z"
+  },
+  "saramin_53648953": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)아이피아의 (주)아이피아 파이썬 백엔드 및 AI 앱 개발자 신입 채용 공고 — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. AI-native workflow의 운영 정책/사용자 흐름 경험이 (주)아이피아의 AI/ML 환경에 맞물림. (주)아이피아가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)아이피아의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.698Z"
+  },
+  "saramin_53776259": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "위프로커넥티드서비시즈인크의 [신입] PD(Physical Design) Engineer — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "위프로커넥티드서비시즈인크가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. AI/ML 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "위프로커넥티드서비시즈인크의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.698Z"
+  },
+  "saramin_53649884": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "베스핀글로벌(주)의 [베스핀글로벌] GenAI Engineer 인턴 영입 — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "베스핀글로벌(주)가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. 베스핀글로벌(주)의 AI/ML 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 베스핀글로벌(주)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "베스핀글로벌(주)의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.698Z"
+  },
+  "wanted_359767": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "React Native"
+    ],
+    "domains_detected": [],
+    "summary": "에이티씨아이의 React Native 모바일 엔지니어 — React·React Native / 도메인 일반. 원본 확인 후 판단 보류.",
+    "reason": "React + React Native 조합 — React는 익숙하지만 나머지는 학습 필요. 도메인 단서는 약하지만 소상상점 경험을 일반화해 어필 가능한 자리. 에이티씨아이가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구.",
+    "feature_project": "소상상점",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 에이티씨아이의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제 사용 스택, 코드리뷰 문화, 신입 멘토링 형태",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.698Z"
+  },
+  "saramin_53592731": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)보스반도체의 SOC RTL Design Engineer [신입/병특가능] — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "(주)보스반도체가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. AI-native workflow의 운영 정책/사용자 흐름 경험이 (주)보스반도체의 AI/ML 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)보스반도체의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.699Z"
+  },
+  "wanted_134887": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "React Native",
+      "JavaScript",
+      "GraphQL",
+      "REST"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] 풀스택 개발자 — Next.js·React·React Native / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "넛지헬스케어(캐시워크)는 Next.js, React 기반으로 운영되어 사용자 Next.js 경험을 그대로 살릴 수 있음. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 넛지헬스케어(캐시워크)의 커머스/상점 환경에 맞물림. 넛지헬스케어(캐시워크)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "TypeScript 명시 여부 면접 단계 확인 · GraphQL 실전 경험 보강 필요 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 넛지헬스케어(캐시워크)의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.699Z"
+  },
+  "wanted_168259": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "랜딩/마케팅"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] Flutter개발자 — 스택 정보 부족 / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "넛지헬스케어(캐시워크) 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 넛지헬스케어(캐시워크)의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 넛지헬스케어(캐시워크)의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.699Z"
+  },
+  "wanted_180914": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "커머스/상점",
+      "핀테크",
+      "헬스케어"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] 데이터분석가 — Python / 관리자/운영툴·커머스/상점. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 넛지헬스케어(캐시워크)는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 넛지헬스케어(캐시워크)의 관리자/운영툴 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 넛지헬스케어(캐시워크)의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.700Z"
+  },
+  "wanted_168257": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "React Native",
+      "JavaScript",
+      "Python",
+      "AWS"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "랜딩/마케팅"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] 프론트엔드 개발자 — Next.js·React·React Native / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "Next.js+React 조합이 넛지헬스케어(캐시워크) 요구사항에 들어가 있어 진입 비용이 낮은 편. 넛지헬스케어(캐시워크)의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 넛지헬스케어(캐시워크)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "TypeScript 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 넛지헬스케어(캐시워크)의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.700Z"
+  },
+  "wanted_130049": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "랜딩/마케팅"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] iOS 개발자 — React / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "React 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. 넛지헬스케어(캐시워크)의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 넛지헬스케어(캐시워크)의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제 사용 스택, 코드리뷰 문화, 신입 멘토링 형태",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.700Z"
+  },
+  "wanted_85839": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "랜딩/마케팅"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] 안드로이드앱(Kotlin) 개발자 — 스택 정보 부족 / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "넛지헬스케어(캐시워크) 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 넛지헬스케어(캐시워크)의 커머스/상점 환경에 맞물림. 넛지헬스케어(캐시워크)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 넛지헬스케어(캐시워크)의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.701Z"
+  },
+  "wanted_157552": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "커머스/상점",
+      "핀테크",
+      "헬스케어"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 데이터분석가 — Python / 관리자/운영툴·커머스/상점. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 넛지헬스케어(캐시워크)는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 넛지헬스케어(캐시워크)의 관리자/운영툴 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 넛지헬스케어(캐시워크)의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.701Z"
+  },
+  "wanted_359171": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "JavaScript",
+      "Node.js"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "에듀테크",
+      "SaaS/B2B"
+    ],
+    "summary": "히포크랏랩스(Hippocrat Labs)의 Security Engineer — JavaScript·Node.js / 커머스/상점·헬스케어. 조건 확인 후 지원 검토.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 히포크랏랩스(Hippocrat Labs)는 JavaScript/Node.js 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 커머스/상점 성격 — 소상상점 경험에서 끌어올 구체 사례가 있음.",
+    "risk": "경력/스택 매칭이 모호해 원본에서 신입 지원 가능 여부 + 실제 사용 스택 확인 필요",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 히포크랏랩스(Hippocrat Labs)의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.701Z"
+  },
+  "wanted_347157": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점"
+    ],
+    "summary": "우아한형제들(배달의민족)의 QA Engineer(Test) — 스택 정보 부족 / 커머스/상점. 원본 확인 후 판단 보류.",
+    "reason": "우아한형제들(배달의민족) 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 소상상점의 운영 정책/사용자 흐름 경험이 우아한형제들(배달의민족)의 커머스/상점 환경에 맞물림.",
+    "risk": "경력/스택 매칭이 모호해 원본에서 신입 지원 가능 여부 + 실제 사용 스택 확인 필요",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 우아한형제들(배달의민족)의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.701Z"
+  },
+  "wanted_359518": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "REST"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "에듀테크",
+      "SaaS/B2B"
+    ],
+    "summary": "그린튠즈의 AI 기반 개발자 / 식물 생체 초음파 분석 시스템 고도화 … — REST / 커머스/상점·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 그린튠즈는 REST 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 그린튠즈의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능.",
+    "risk": "경력/스택 매칭이 모호해 원본에서 신입 지원 가능 여부 + 실제 사용 스택 확인 필요",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 그린튠즈의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.701Z"
+  },
+  "wanted_359691": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "REST"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "에듀테크",
+      "SaaS/B2B"
+    ],
+    "summary": "그린튠즈의 AI 기반 개발자 / 식물 생체 초음파 분석 시스템 고도화 — REST / 커머스/상점·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 그린튠즈는 REST 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 그린튠즈의 커머스/상점 영역은 사용자가 소상상점로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능.",
+    "risk": "경력/스택 매칭이 모호해 원본에서 신입 지원 가능 여부 + 실제 사용 스택 확인 필요",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 그린튠즈의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.702Z"
+  },
+  "wanted_354807": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "에듀테크",
+      "SaaS/B2B"
+    ],
+    "summary": "딥오토의 AI Engineer 0~3년 — Python / 커머스/상점·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 딥오토는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. AI-native workflow의 운영 정책/사용자 흐름 경험이 딥오토의 커머스/상점 환경에 맞물림. 딥오토가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "딥오토의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.702Z"
+  },
+  "wanted_353860": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "React Native",
+      "TypeScript",
+      "JavaScript",
+      "REST"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "랜딩/마케팅"
+    ],
+    "summary": "미리디의 [미리캔버스] Product Engineer — Next.js·React·React Native / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "미리디의 \"Product Engineer\"는 Next.js/React/TypeScript 3종을 모두 명시 — 사용자 핵심 스택과 그대로 일치. 소상상점의 운영 정책/사용자 흐름 경험이 미리디의 커머스/상점 환경에 맞물림. 경력 조건이 모호 — 신입 지원 가능 여부를 인사 담당자에게 직접 확인 권장.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 미리디의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 신입/주니어 지원 가능 여부와 실제 채용 의지",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.703Z"
+  },
+  "wanted_347499": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "React Native",
+      "JavaScript",
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "랜딩/마케팅"
+    ],
+    "summary": "미리디의 [병역특례] 미리캔버스 에디터 엔지니어 [전문연구요원] — React·React Native·JavaScript / 커머스/상점·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "React 중심 환경 — 나머지 스택(React Native/JavaScript)은 면접에서 확인 필요. 커머스/상점 도메인이라 소상상점에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 미리디의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.703Z"
+  },
+  "wanted_315501": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "소울아트의 AI Research Engineer — 스택 정보 부족 / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "소울아트 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 소상상점의 운영 정책/사용자 흐름 경험이 소울아트의 커머스/상점 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 소울아트의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.703Z"
+  },
+  "wanted_350980": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "React Native",
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "소울아트의 System Software Engineer (Embedde… — React·React Native·Python / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "React + React Native 조합 — React는 익숙하지만 나머지는 학습 필요. 소상상점의 운영 정책/사용자 흐름 경험이 소울아트의 커머스/상점 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 소울아트의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.704Z"
+  },
+  "wanted_352579": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "소울아트의 NPU Software Engineer — 스택 정보 부족 / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "소울아트 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 소울아트의 커머스/상점 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 소울아트의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.704Z"
+  },
+  "wanted_306913": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "AI/ML",
+      "랜딩/마케팅"
+    ],
+    "summary": "미리디의 [커머스 플랫폼] Jr. QA 엔지니어 — 스택 정보 부족 / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "미리디 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 커머스/상점 도메인이라 소상상점에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 미리디의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.704Z"
+  },
+  "wanted_330597": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "미리디의 [미리캔버스] 프롬프트 엔지니어 (Prompt Engineer) — TypeScript·Python / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Python)은 면접에서 확인 필요. 소상상점의 운영 정책/사용자 흐름 경험이 미리디의 커머스/상점 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 미리디의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.705Z"
+  },
+  "wanted_358655": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "클레온의 AI스타트업 Intergration Engineer — Python / 커머스/상점·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 클레온는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 커머스/상점 성격 — 웹에이전시/MVP 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 클레온의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.705Z"
+  },
+  "wanted_348012": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "JavaScript",
+      "Node.js"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "커머스/상점",
+      "핀테크",
+      "AI/ML"
+    ],
+    "summary": "에이치티비욘드의 AI Native Engineer(IoT Team) — JavaScript·Node.js / 관리자/운영툴·커머스/상점. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 에이치티비욘드는 JavaScript/Node.js 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 관리자/운영툴 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "에이치티비욘드의 관리자/운영툴에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.705Z"
+  },
+  "wanted_340788": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "에이머슬리의 Applied Data Scientist (Field / E… — 스택 정보 부족 / 커머스/상점·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "에이머슬리 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 커머스/상점 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "에이머슬리의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.705Z"
+  },
+  "wanted_359557": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Docker",
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "에비드넷의 데이터 엔지니어 — Docker·Python / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 에비드넷는 Docker/Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 커머스/상점 성격 — 소상상점 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 에비드넷의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.706Z"
+  },
+  "wanted_359561": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Docker",
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "에비드넷의 [강원도 원주] 의료 데이터 및 CDM 구축 운영 — Docker·Python / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 에비드넷는 Docker/Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 소상상점의 운영 정책/사용자 흐름 경험이 에비드넷의 커머스/상점 환경에 맞물림. 에비드넷가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 에비드넷의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.706Z"
+  },
+  "wanted_321821": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "커머스/상점",
+      "핀테크",
+      "헬스케어"
+    ],
+    "summary": "페이타랩(패스오더)의 [주니어] 데이터 엔지니어 (Growth Data Engin… — Python / 관리자/운영툴·커머스/상점. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 페이타랩(패스오더)는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 페이타랩(패스오더)의 관리자/운영툴 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 페이타랩(패스오더)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 페이타랩(패스오더)의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.707Z"
+  },
+  "wanted_278168": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "JavaScript",
+      "Kubernetes",
+      "Node.js",
+      "AWS"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "페이타랩(패스오더)의 DevOps Engineer — JavaScript·Kubernetes·Node.js / 커머스/상점·핀테크. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 페이타랩(패스오더)는 JavaScript/Kubernetes 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 커머스/상점 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "시니어/리드 포지션 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "페이타랩(패스오더)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.707Z"
+  },
+  "wanted_359624": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "웨이브릿지의 Quant Developer — Python / 커머스/상점·핀테크. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 웨이브릿지는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 웨이브릿지의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 웨이브릿지가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 웨이브릿지의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.707Z"
+  },
+  "wanted_359339": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "게임"
+    ],
+    "summary": "윌로그의 사내 IT 및 오피스 운영 담당 — JavaScript / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 윌로그는 JavaScript 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 커머스/상점 도메인이라 소상상점에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "경력 3년+ 요구.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 윌로그의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.707Z"
+  },
+  "wanted_222550": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "React",
+      "React Native",
+      "JavaScript",
+      "Node.js",
+      "Java",
+      "Python"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B",
+      "랜딩/마케팅"
+    ],
+    "summary": "매드업의 [개발 본부] 주니어 백엔드 개발자 (전문연구요원 가능) — React·React Native·JavaScript / 헬스케어·AI/ML. 사용자 포지셔닝과 거리 있음.",
+    "reason": "React + React Native 조합 — React는 익숙하지만 나머지는 학습 필요. 헬스케어 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "시니어/리드 포지션 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "매드업의 헬스케어에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.708Z"
+  },
+  "wanted_359239": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "JavaScript",
+      "Kubernetes",
+      "Node.js"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "크레비스파트너스의 [인턴] SaaS Software Engineer — Next.js·JavaScript·Kubernetes / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "Next.js + JavaScript 조합 — Next.js는 익숙하지만 나머지는 학습 필요. 크레비스파트너스의 커머스/상점 영역은 사용자가 소상상점로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 크레비스파트너스가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "시니어/리드 포지션 · 백엔드 단독 가능성 · 대규모 트래픽 서버.",
+    "feature_project": "소상상점",
+    "learning_points": "React/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 크레비스파트너스의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.708Z"
+  },
+  "jobkorea_49016747": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "JavaScript",
+      "Docker",
+      "Node.js",
+      "Java",
+      "Python"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "브랜드 인게이지먼트 네트워크 인크 (의 Full Stack Engineer 채용 — React·JavaScript·Docker / 관리자/운영툴·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "React 중심 환경 — 나머지 스택(JavaScript/Docker)은 면접에서 확인 필요. 관리자/운영툴 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "브랜드 인게이지먼트 네트워크 인크 (의 관리자/운영툴에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.708Z"
+  },
+  "jobkorea_49113362": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "React",
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "핀테크",
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "오션유아이의 UIUX 퍼블리셔 채용(신입 또는 경력1-3년 차) — React·JavaScript / 핀테크·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "React 중심 환경 — 나머지 스택(JavaScript)은 면접에서 확인 필요. 오션유아이의 핀테크 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성 · 퍼블리싱만 담당 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 오션유아이의 핀테크 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.708Z"
+  },
+  "jobkorea_49065519": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "JavaScript",
+      "Node.js",
+      "Java",
+      "Python",
+      "MySQL"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "오상자이엘㈜의 [경력] PLM 개발자 / PLM 컨설턴트 (본사 : 인천 … — JavaScript·Node.js·Java / 관리자/운영툴·커머스/상점. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 오상자이엘㈜는 JavaScript/Node.js 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 소상상점의 운영 정책/사용자 흐름 경험이 오상자이엘㈜의 관리자/운영툴 환경에 맞물림. 오상자이엘㈜가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 오상자이엘㈜의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.709Z"
+  },
+  "jobkorea_49017016": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "관리자/운영툴",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "브랜드 인게이지먼트 네트워크 인크 (의 DevOps Engineer 채용 — 스택 정보 부족 / 관리자/운영툴·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "브랜드 인게이지먼트 네트워크 인크 ( 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 관리자/운영툴 성격 — 웹에이전시/MVP 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 브랜드 인게이지먼트 네트워크 인크 (의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.709Z"
+  },
+  "jobkorea_48935436": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "게임"
+    ],
+    "summary": "㈜패러블엔터테인먼트의 패러블엔터테인먼트 3D 테크니컬 아티스트 경력직 채용 — Python / 커머스/상점·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. ㈜패러블엔터테인먼트는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 커머스/상점 도메인이라 웹에이전시/MVP에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성 · SI/파견/상주.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜패러블엔터테인먼트의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 상주/파견 여부와 본사 근무 가능성",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.709Z"
+  },
+  "jobkorea_48819450": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "React Native"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "오토프로메이커의 소셜 네트워킹 기반의 신규 크로스 플랫폼 SNS 서비스(AO… — React·React Native / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "오토프로메이커가 React를 메인으로 쓰고 있어 사용자 React 경험으로 일부 진입 가능. 오토프로메이커의 커머스/상점 영역은 사용자가 소상상점로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 오토프로메이커가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 오토프로메이커의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.709Z"
+  },
+  "jobkorea_49083483": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "React",
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "랜딩/마케팅",
+      "커뮤니티/소셜"
+    ],
+    "summary": "집쇼코리아의 감각있는 프론트엔드 개발자를 찾습니다. — React·JavaScript / 헬스케어·AI/ML. 사용자 포지셔닝과 거리 있음.",
+    "reason": "집쇼코리아가 React를 메인으로 쓰고 있어 사용자 React 경험으로 일부 진입 가능. 집쇼코리아의 헬스케어 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 퍼블리싱만 담당 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 집쇼코리아의 헬스케어 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.709Z"
+  },
+  "jobkorea_49014799": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "Vue",
+      "JavaScript",
+      "Node.js",
+      "Java"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "에듀테크",
+      "게임"
+    ],
+    "summary": "㈜에이블짐정보의 (신입/경력) 프론트엔드개발자 채용(정규직/프리랜서) — Next.js·React·Vue / 헬스케어·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "㈜에이블짐정보는 Next.js, React 기반으로 운영되어 사용자 Next.js 경험을 그대로 살릴 수 있음. ㈜에이블짐정보의 헬스케어 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "백엔드 단독 가능성 · 퍼블리싱만 담당 · Java/Spring 메인 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜에이블짐정보의 헬스케어 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.710Z"
+  },
+  "jobkorea_49084666": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "게임"
+    ],
+    "summary": "㈜게임엔의 프론트엔드 개발자 채용 — JavaScript / 헬스케어·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. ㈜게임엔는 JavaScript 환경이라 학습 전이가 가능한지 원본에서 확인 필요. ㈜게임엔의 헬스케어 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. ㈜게임엔가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜게임엔의 헬스케어 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.710Z"
+  },
+  "jobkorea_49001912": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "Redis"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "게임",
+      "SaaS/B2B"
+    ],
+    "summary": "㈜빅파이어게임즈의 [빅파이어게임즈][단기계약직] 프론트엔드 개발자 모집 — TypeScript·JavaScript·Node.js / 헬스케어·AI/ML. 사용자 포지셔닝과 거리 있음.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JavaScript/Node.js)은 면접에서 확인 필요. 헬스케어 도메인이라 웹에이전시/MVP에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 퍼블리싱만 담당 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜빅파이어게임즈의 헬스케어 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.710Z"
+  },
+  "jobkorea_48951530": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "Vue",
+      "TypeScript",
+      "JavaScript",
+      "Node.js"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "에듀테크",
+      "SaaS/B2B"
+    ],
+    "summary": "크레파스솔루션㈜의 Tech & IT 센터 프론트엔드 개발자 채용 공고 — Next.js·React·Vue / 헬스케어·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "크레파스솔루션㈜의 \"Tech & IT 센터 프론트엔드 개발자 채용 공고\"는 Next.js/React/TypeScript 3종을 모두 명시 — 사용자 핵심 스택과 그대로 일치. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 크레파스솔루션㈜의 헬스케어 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 퍼블리싱만 담당 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 크레파스솔루션㈜의 헬스케어 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.710Z"
+  },
+  "jobkorea_48975435": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "JavaScript",
+      "Docker",
+      "Node.js",
+      "Express"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "핀테크",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "㈜퓨처헬스코퍼레이션의 SaaS 프론트엔드 정규직 구인 — Next.js·React·JavaScript / 관리자/운영툴·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "Next.js와 React 둘 다 사용자 주력에 포함된 스택이라 ㈜퓨처헬스코퍼레이션 환경에서 빠르게 적응 가능. 소상상점의 운영 정책/사용자 흐름 경험이 ㈜퓨처헬스코퍼레이션의 관리자/운영툴 환경에 맞물림. ㈜퓨처헬스코퍼레이션가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "TypeScript 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 ㈜퓨처헬스코퍼레이션의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.710Z"
+  },
+  "jobkorea_49022467": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "React Native"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "에듀테크",
+      "SaaS/B2B"
+    ],
+    "summary": "㈜티모넷의 (주)티모넷 프론트엔드개발팀 Android 개발자 — React·React Native / 헬스케어·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "React + React Native 조합 — React는 익숙하지만 나머지는 학습 필요. 헬스케어 도메인이라 웹에이전시/MVP에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜티모넷의 헬스케어 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.711Z"
+  },
+  "jobkorea_49043614": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "Vue",
+      "JavaScript",
+      "Node.js"
+    ],
+    "domains_detected": [
+      "예약/대여",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "㈜플레이웍스의 AI 및 라이브 기반 반려동물 양육 플랫폼 프론트엔드 개발자 채용 — Next.js·React·Vue / 예약/대여·헬스케어. 조건 확인 후 지원 검토.",
+    "reason": "㈜플레이웍스는 Next.js, React 기반으로 운영되어 사용자 Next.js 경험을 그대로 살릴 수 있음. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 ㈜플레이웍스의 예약/대여 환경에 맞물림. ㈜플레이웍스가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜플레이웍스의 예약/대여 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.711Z"
+  },
+  "jobkorea_48865608": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "Vue",
+      "TypeScript",
+      "JavaScript",
+      "GraphQL"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "에듀테크",
+      "게임"
+    ],
+    "summary": "㈜리비바이오의 [리비바이오] 프론트엔드개발 산업기능요원 — Next.js·React·Vue / 헬스케어·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "㈜리비바이오의 \"프론트엔드개발 산업기능요원\"는 Next.js/React/TypeScript 3종을 모두 명시 — 사용자 핵심 스택과 그대로 일치. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 ㈜리비바이오의 헬스케어 환경에 맞물림. ㈜리비바이오가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 퍼블리싱만 담당 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "GraphQL 실전 경험 보강 필요 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜리비바이오의 헬스케어 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.711Z"
+  },
+  "jobkorea_48810522": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "Vue",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "노빌더의 모바일 앱 프론트엔드 개발자 채용 (React, TypeSc… — Next.js·React·Vue / 관리자/운영툴·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "노빌더의 \"모바일 앱 프론트엔드 개발자 채용 (React, TypeScript)\"는 Next.js/React/TypeScript 3종을 모두 명시 — 사용자 핵심 스택과 그대로 일치. 관리자/운영툴 도메인이라 웹에이전시/MVP에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 퍼블리싱만 담당 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 노빌더의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.712Z"
+  },
+  "jobkorea_48856172": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Java",
+      "Python",
+      "MySQL",
+      "MongoDB"
+    ],
+    "domains_detected": [
+      "핀테크",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "에코인사이트글로벌의 [신입] 웹개발 - 프론트엔드 & 백엔드 — Java·Python·MySQL / 핀테크·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 에코인사이트글로벌는 Java/Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 에코인사이트글로벌의 핀테크 환경에 맞물림. 에코인사이트글로벌가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 에코인사이트글로벌의 핀테크 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.714Z"
+  },
+  "jobkorea_48936727": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "AI/ML",
+      "에듀테크",
+      "커뮤니티/소셜"
+    ],
+    "summary": "이젠아카데미컴퓨터학원의 KDT-UIUX디자인, 웹 프론트엔드(피그마/React/AI… — React·JavaScript / AI/ML·에듀테크. 조건 확인 후 지원 검토.",
+    "reason": "React + JavaScript 조합 — React는 익숙하지만 나머지는 학습 필요. AI/ML 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "이젠아카데미컴퓨터학원의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제 사용 스택, 코드리뷰 문화, 신입 멘토링 형태",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.714Z"
+  },
+  "jobkorea_49004376": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Java"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "핀테크",
+      "AI/ML",
+      "게임"
+    ],
+    "summary": "(재)경기도일자리재단의 (주)레드마우스 신입/경력 채용 공고 — Java / 관리자/운영툴·핀테크. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. (재)경기도일자리재단는 Java 환경이라 학습 전이가 가능한지 원본에서 확인 필요. (재)경기도일자리재단의 관리자/운영툴 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. (재)경기도일자리재단가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · SI/파견/상주 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 (재)경기도일자리재단의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.715Z"
+  },
+  "jobkorea_49003637": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "React",
+      "Vue"
+    ],
+    "domains_detected": [
+      "핀테크",
+      "헬스케어",
+      "AI/ML",
+      "게임"
+    ],
+    "summary": "(재)경기도일자리재단의 ㈜픽셀로 신입/경력 채용 공고 — React·Vue / 핀테크·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "React 중심 환경 — 나머지 스택(Vue)은 면접에서 확인 필요. 핀테크 성격 — 웹에이전시/MVP 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성 · 퍼블리싱만 담당 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 (재)경기도일자리재단의 핀테크 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.715Z"
+  },
+  "jobkorea_49065821": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "관리자/운영툴",
+      "커머스/상점",
+      "핀테크",
+      "헬스케어"
+    ],
+    "summary": "㈜넥슨네트웍스의 [넥슨네트웍스] 게임서비스/게임QA 채용연계형 인턴 모집 (… — 스택 정보 부족 / 관리자/운영툴·커머스/상점. 사용자 포지셔닝과 거리 있음.",
+    "reason": "㈜넥슨네트웍스 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 ㈜넥슨네트웍스의 관리자/운영툴 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜넥슨네트웍스의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.715Z"
+  },
+  "jobkorea_49091198": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "React Native",
+      "JavaScript",
+      "Node.js",
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "㈜데일리페이의 [데일리페이] Front-End 개발자를 모십니다. — Next.js·React·React Native / 커머스/상점·헬스케어. 조건 확인 후 지원 검토.",
+    "reason": "Next.js+React 조합이 ㈜데일리페이 요구사항에 들어가 있어 진입 비용이 낮은 편. ㈜데일리페이의 커머스/상점 영역은 사용자가 소상상점로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 ㈜데일리페이의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.715Z"
+  },
+  "jobkorea_49043052": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "React Native",
+      "JavaScript",
+      "GraphQL",
+      "Node.js"
+    ],
+    "domains_detected": [
+      "예약/대여",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "㈜원메딕스인더스트리의 헬스케어 Web Frontend Developer 신입-3년이하 — Next.js·React·React Native / 예약/대여·헬스케어. 조건 확인 후 지원 검토.",
+    "reason": "Next.js와 React 둘 다 사용자 주력에 포함된 스택이라 ㈜원메딕스인더스트리 환경에서 빠르게 적응 가능. ㈜원메딕스인더스트리의 예약/대여 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. ㈜원메딕스인더스트리가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "TypeScript 명시 여부 면접 단계 확인 · GraphQL 실전 경험 보강 필요 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜원메딕스인더스트리의 예약/대여 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.715Z"
+  },
+  "jobkorea_49092193": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "React",
+      "JavaScript",
+      "Java"
+    ],
+    "domains_detected": [
+      "핀테크",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "티에이케이정보시스템㈜의 [티에이케이정보시스템] 2026년 MES팀 모집 — React·JavaScript·Java / 핀테크·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "React + JavaScript 조합 — React는 익숙하지만 나머지는 학습 필요. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 티에이케이정보시스템㈜의 핀테크 환경에 맞물림. 티에이케이정보시스템㈜가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · Java/Spring 메인 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 티에이케이정보시스템㈜의 핀테크 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.716Z"
+  },
+  "jobkorea_49064775": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Tailwind"
+    ],
+    "domains_detected": [
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "㈜윈카드(WINCARD)의 [ 풀스택 개발자 채용 ] 윈카드 풀스택 개발자 채용 — Tailwind / AI/ML·SaaS/B2B. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. ㈜윈카드(WINCARD)는 Tailwind 환경이라 학습 전이가 가능한지 원본에서 확인 필요. AI/ML 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "백엔드 단독 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "㈜윈카드(WINCARD)의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.716Z"
+  },
+  "jobkorea_49089841": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "React",
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "핀테크",
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "오션유아이의 UIUX 퍼블리셔 채용(신입 또는 경력1-2년 차) — React·JavaScript / 핀테크·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "React + JavaScript 조합 — React는 익숙하지만 나머지는 학습 필요. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 오션유아이의 핀테크 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성 · 퍼블리싱만 담당 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 오션유아이의 핀테크 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.716Z"
+  },
+  "jobkorea_49081429": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "관리자/운영툴",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "디자인캠프이엠의 기업부설연구소 H/W 회로개발 신입/경력 채용 — 스택 정보 부족 / 관리자/운영툴·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "디자인캠프이엠 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 디자인캠프이엠의 관리자/운영툴 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 디자인캠프이엠가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 디자인캠프이엠의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.716Z"
+  },
+  "saramin_53808724": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "한양대학교의 [한양대학교] 2026년 7월 직원 채용 공고 — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JD 미명시)은 면접에서 확인 필요. AI-native workflow의 운영 정책/사용자 흐름 경험이 한양대학교의 AI/ML 환경에 맞물림. 한양대학교가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "한양대학교의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.717Z"
+  },
+  "saramin_53815009": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "React Native",
+      "TypeScript",
+      "JavaScript",
+      "Java"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)웰브릿지의 신입 앱 개발자(Flutter,React Native),앱운… — React·React Native·TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "React+TypeScript 조합이 (주)웰브릿지 요구사항에 들어가 있어 진입 비용이 낮은 편. AI-native workflow의 운영 정책/사용자 흐름 경험이 (주)웰브릿지의 AI/ML 환경에 맞물림. (주)웰브릿지가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)웰브릿지의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제 사용 스택, 코드리뷰 문화, 신입 멘토링 형태",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.717Z"
+  },
+  "saramin_53804424": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "AI/ML"
+    ],
+    "summary": "(주)티미의 S/W 개발 신입/경력 채용 — TypeScript / AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript + 추가 스택 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. AI/ML 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "(주)티미의 AI/ML에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.717Z"
+  },
+  "wanted_360134": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "에듀테크",
+      "게임"
+    ],
+    "summary": "렛유인에듀의 XR/VR 콘텐츠 개발자 — 스택 정보 부족 / 커머스/상점·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "렛유인에듀 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 렛유인에듀의 커머스/상점 환경에 맞물림. 렛유인에듀가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 렛유인에듀의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.717Z"
+  },
+  "wanted_360093": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "Java",
+      "Python",
+      "AWS"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "아마존(Amazon)의 Professional Services 신입사원, A2C — TypeScript·JavaScript·Node.js / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(JavaScript/Node.js)은 면접에서 확인 필요. 아마존(Amazon)의 커머스/상점 영역은 사용자가 소상상점로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 아마존(Amazon)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 아마존(Amazon)의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.717Z"
+  },
+  "wanted_357237": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Express"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "엑스에이아이 (xAI)의 AI Tutor - Vietnamese — TypeScript·Express / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Express)은 면접에서 확인 필요. 엑스에이아이 (xAI)의 커머스/상점 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 엑스에이아이 (xAI)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "엑스에이아이 (xAI)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.718Z"
+  },
+  "wanted_357214": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Express"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "엑스에이아이 (xAI)의 AI Tutor - Italian — TypeScript·Express / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript + Express 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. 커머스/상점 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "엑스에이아이 (xAI)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.719Z"
+  },
+  "wanted_357211": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Express"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "엑스에이아이 (xAI)의 AI Tutor - Hebrew — TypeScript·Express / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript + Express 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. 엑스에이아이 (xAI)의 커머스/상점 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 엑스에이아이 (xAI)가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "엑스에이아이 (xAI)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.720Z"
+  },
+  "wanted_357210": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Express"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "엑스에이아이 (xAI)의 AI Tutor - Gujarati — TypeScript·Express / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Express)은 면접에서 확인 필요. 커머스/상점 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "엑스에이아이 (xAI)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.722Z"
+  },
+  "wanted_357212": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Express"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "미디어/콘텐츠"
+    ],
+    "summary": "엑스에이아이 (xAI)의 AI Tutor - Hindi — TypeScript·Express / 커머스/상점·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "엑스에이아이 (xAI)가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. 커머스/상점 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "엑스에이아이 (xAI)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.723Z"
+  },
+  "wanted_357213": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Express"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "미디어/콘텐츠"
+    ],
+    "summary": "엑스에이아이 (xAI)의 AI Tutor - Indonesian — TypeScript·Express / 커머스/상점·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Express)은 면접에서 확인 필요. 엑스에이아이 (xAI)의 커머스/상점 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "엑스에이아이 (xAI)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.724Z"
+  },
+  "wanted_360105": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "로그프레소의 솔루션 구축 엔지니어 — 스택 정보 부족 / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "로그프레소 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 소상상점의 운영 정책/사용자 흐름 경험이 로그프레소의 커머스/상점 환경에 맞물림.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 로그프레소의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.724Z"
+  },
+  "wanted_360104": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "로그프레소의 기술지원 엔지니어 — 스택 정보 부족 / 커머스/상점·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "로그프레소 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 커머스/상점 성격 — AI-native workflow 경험에서 끌어올 구체 사례가 있음.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "로그프레소의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.725Z"
+  },
+  "wanted_356868": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Python",
+      "GCP"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "구글(Google)의 Associate Google Cloud Learning L… — TypeScript·Python·GCP / 커머스/상점·헬스케어. 사용자 포지셔닝과 거리 있음.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Python/GCP)은 면접에서 확인 필요. 커머스/상점 도메인이라 소상상점에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 구글(Google)의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.726Z"
+  },
+  "wanted_360043": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "인피닉(infiniq)의 AI Agent Engineer — 스택 정보 부족 / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "인피닉(infiniq) 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 커머스/상점 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "인피닉(infiniq)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.726Z"
+  },
+  "wanted_360045": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "인피닉(infiniq)의 LLM Engineer — 스택 정보 부족 / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "인피닉(infiniq) 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 커머스/상점 성격 — 소상상점 경험에서 끌어올 구체 사례가 있음.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 인피닉(infiniq)의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.726Z"
+  },
+  "wanted_319346": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "React Native",
+      "JavaScript",
+      "Docker",
+      "Node.js",
+      "Java"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "주드라의 서버 엔지니어 — React·React Native·JavaScript / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "주드라가 React를 메인으로 쓰고 있어 사용자 React 경험으로 일부 진입 가능. 커머스/상점 도메인이라 소상상점에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 주드라의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.726Z"
+  },
+  "wanted_359276": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "JavaScript",
+      "Node.js"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "커머스/상점",
+      "핀테크",
+      "헬스케어"
+    ],
+    "summary": "렌트리의 운영 자동화 엔지니어 (Platform Operations … — JavaScript·Node.js / 관리자/운영툴·커머스/상점. 사용자 포지셔닝과 거리 있음.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 렌트리는 JavaScript/Node.js 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 관리자/운영툴 성격 — 소상상점 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 렌트리의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.727Z"
+  },
+  "wanted_360008": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Docker",
+      "Python",
+      "AWS",
+      "PostgreSQL"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "로민의 AI 엔지니어 — TypeScript·Docker·Python / 커머스/상점·핀테크. 조건 확인 후 지원 검토.",
+    "reason": "로민가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. 로민의 커머스/상점 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 경력 조건이 모호 — 신입 지원 가능 여부를 인사 담당자에게 직접 확인 권장.",
+    "risk": "경력/스택 매칭이 모호해 원본에서 신입 지원 가능 여부 + 실제 사용 스택 확인 필요",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · 클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "로민의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.727Z"
+  },
+  "wanted_360006": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Docker",
+      "Kubernetes",
+      "Java",
+      "Python",
+      "PostgreSQL"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "로민의 솔루션운영 엔지니어 — TypeScript·Docker·Kubernetes / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Docker/Kubernetes)은 면접에서 확인 필요. 로민의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 경력 조건이 모호 — 신입 지원 가능 여부를 인사 담당자에게 직접 확인 권장.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 로민의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 신입/주니어 지원 가능 여부와 실제 채용 의지 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.727Z"
+  },
+  "wanted_360004": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "로민의 데이터 매니저 — TypeScript / 커머스/상점·핀테크. 조건 확인 후 지원 검토.",
+    "reason": "TypeScript + 추가 스택 조합 — TypeScript는 익숙하지만 나머지는 학습 필요. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 로민의 커머스/상점 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 로민의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.728Z"
+  },
+  "wanted_359996": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "루닛(Lunit)의 Biomedical Data Scientist [전문연가능] — TypeScript·Python / 커머스/상점·헬스케어. 조건 확인 후 지원 검토.",
+    "reason": "루닛(Lunit)가 TypeScript를 메인으로 쓰고 있어 사용자 TypeScript 경험으로 일부 진입 가능. AI-native workflow의 운영 정책/사용자 흐름 경험이 루닛(Lunit)의 커머스/상점 환경에 맞물림. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "루닛(Lunit)의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.729Z"
+  },
+  "wanted_126393": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "핀테크",
+      "헬스케어",
+      "랜딩/마케팅"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] QA 엔지니어 — 스택 정보 부족 / 커머스/상점·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "넛지헬스케어(캐시워크) 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 커머스/상점 성격 — 웹에이전시/MVP 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 넛지헬스케어(캐시워크)의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.729Z"
+  },
+  "wanted_359963": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "게임"
+    ],
+    "summary": "모빌린트의 [AI반도체] Software Engineer (NPU SDK) — Python / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 모빌린트는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 모빌린트의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 모빌린트의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.729Z"
+  },
+  "wanted_359961": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "모빌린트의 [AI반도체] NPU Compiler Engineer — Python / 커머스/상점·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 모빌린트는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 모빌린트의 커머스/상점 영역은 사용자가 소상상점로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 모빌린트가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구.",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 모빌린트의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.730Z"
+  },
+  "wanted_359960": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "모빌린트의 [AI반도체] SoC Design Engineer — Python / 커머스/상점·헬스케어. 조건 확인 후 지원 검토.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 모빌린트는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 커머스/상점 성격 — 웹에이전시/MVP 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 모빌린트의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.730Z"
+  },
+  "wanted_359958": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "모빌린트의 [AI반도체] NPU Core Engineer (RTL) — Python / 커머스/상점·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 모빌린트는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 모빌린트의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 모빌린트가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 모빌린트의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.730Z"
+  },
+  "wanted_359956": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "모빌린트의 [AI반도체] Deep Learning Research En… — Python / 커머스/상점·헬스케어. 조건 확인 후 지원 검토.",
+    "reason": "사용자 주력(Next.js/React/TS)은 미명시. 모빌린트는 Python 환경이라 학습 전이가 가능한지 원본에서 확인 필요. 모빌린트의 커머스/상점 영역은 사용자가 소상상점로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "소상상점",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 모빌린트의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.730Z"
+  },
+  "wanted_359955": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "모빌린트의 [AI반도체] Deep Learning Optimizatio… — TypeScript·Python / 커머스/상점·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "TypeScript 중심 환경 — 나머지 스택(Python)은 면접에서 확인 필요. 커머스/상점 도메인이라 AI-native workflow에서 다룬 운영 흐름이 그대로 어필 포인트가 됨. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "시니어/리드 포지션.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/React 명시 여부 면접 단계 확인 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "모빌린트의 커머스/상점에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.730Z"
+  },
+  "wanted_359952": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "AI/ML",
+      "에듀테크"
+    ],
+    "summary": "모빌린트의 [AI반도체] Windows Driver Engineer — 스택 정보 부족 / 커머스/상점·AI/ML. 조건 확인 후 지원 검토.",
+    "reason": "모빌린트 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 모빌린트의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 모빌린트의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.731Z"
+  },
+  "wanted_359954": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "커머스/상점",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "모빌린트의 [AI반도체] Software QA Engineer — 스택 정보 부족 / 커머스/상점·헬스케어. 조건 확인 후 지원 검토.",
+    "reason": "모빌린트 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 모빌린트의 커머스/상점 영역은 사용자가 웹에이전시/MVP로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 모빌린트가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "명시적 위험 신호 없음. 원본에서 실제 업무 범위만 한 번 더 확인",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 모빌린트의 커머스/상점 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.731Z"
+  },
+  "jobkorea_49125410": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "JavaScript",
+      "Java",
+      "Python"
+    ],
+    "domains_detected": [
+      "관리자/운영툴",
+      "핀테크",
+      "헬스케어",
+      "AI/ML"
+    ],
+    "summary": "㈜아이티칸의 IDC 서버 엔지니어 채용 — Next.js·JavaScript·Java / 관리자/운영툴·핀테크. 원본 확인 후 판단 보류.",
+    "reason": "Next.js 중심 환경 — 나머지 스택(JavaScript/Java)은 면접에서 확인 필요. 관리자/운영툴 성격 — 웹에이전시/MVP 경험에서 끌어올 구체 사례가 있음. 채용 조건이 신입~주니어 친화적이라 1차 검토 후보로 들어감.",
+    "risk": "경력 3년+ 요구 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "React/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 ㈜아이티칸의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.731Z"
+  },
+  "jobkorea_49109013": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Python"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "에듀테크",
+      "SaaS/B2B"
+    ],
+    "summary": "㈜스패셜티의 (주)스패셜티 개발자(신입/경력), 기획(연구소) 분야 채용 — React·JavaScript·Node.js / 헬스케어·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "㈜스패셜티가 React를 메인으로 쓰고 있어 사용자 React 경험으로 일부 진입 가능. ㈜스패셜티의 헬스케어 영역은 사용자가 AI-native workflow로 풀어본 문제와 인접해 자연스러운 스토리 연결 가능. 신입/주니어 지원 가능성이 JD에 명시 — 진입 가능.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Next.js/TypeScript 명시 여부 면접 단계 확인 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "㈜스패셜티의 헬스케어에 메인 강점인 웹 구현 + 보조 강점인 AI-native workflow를 함께 적용하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: AI-native workflow 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. Claude Code, Codex, OpenCode, Hermes Agent와 Obsidian/Graphify 기반 memory workflow로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.731Z"
+  },
+  "jobkorea_48939328": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "Vue",
+      "Angular",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "AI/ML",
+      "에듀테크",
+      "SaaS/B2B",
+      "랜딩/마케팅"
+    ],
+    "summary": "㈜풀링포레스트의 [신입/경력] 풀스택 개발자 — Next.js·React·Vue / AI/ML·에듀테크. 조건 확인 후 지원 검토.",
+    "reason": "㈜풀링포레스트의 \"풀스택 개발자\"는 Next.js/React/TypeScript 3종을 모두 명시 — 사용자 핵심 스택과 그대로 일치. AI/ML 성격 — 소상상점 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 ㈜풀링포레스트의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.731Z"
+  },
+  "jobkorea_49020925": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [],
+    "domains_detected": [
+      "관리자/운영툴",
+      "헬스케어",
+      "AI/ML",
+      "SaaS/B2B"
+    ],
+    "summary": "서비스점검22의 [서비스점검] 원활한 서비스를 위한 테스트 공고12 — 스택 정보 부족 / 관리자/운영툴·헬스케어. 원본 확인 후 판단 보류.",
+    "reason": "서비스점검22 공고에 기술 스택 명시가 부족 — JD 원문 확인이 분석의 1순위. 웹에이전시/MVP의 운영 정책/사용자 흐름 경험이 서비스점검22의 관리자/운영툴 환경에 맞물림. 서비스점검22가 신입 지원을 받는 포지션 — 진입 장벽 낮음.",
+    "risk": "경력 3년+ 요구 · 비개발 직무 가능성.",
+    "feature_project": "웹에이전시/MVP",
+    "learning_points": "사용자 주력 스택 미명시 — JD 원본에서 실제 사용 스택 확인이 1순위 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "비공개 고객사 웹 프로젝트와 MVP 부업에서 다듬은 랜딩/상담/퍼널 감각을 서비스점검22의 관리자/운영툴 흐름에 보태고 싶습니다.",
+    "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.731Z"
+  },
+  "jobkorea_48939304": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "Vue",
+      "Angular",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains_detected": [
+      "헬스케어",
+      "AI/ML",
+      "에듀테크",
+      "SaaS/B2B"
+    ],
+    "summary": "㈜풀링포레스트의 [신입/경력] Full Stack Developer — Next.js·React·Vue / 헬스케어·AI/ML. 원본 확인 후 판단 보류.",
+    "reason": "㈜풀링포레스트의 \"Full Stack Developer\"는 Next.js/React/TypeScript 3종을 모두 명시 — 사용자 핵심 스택과 그대로 일치. 헬스케어 성격 — 소상상점 경험에서 끌어올 구체 사례가 있음. JD에 신입/주니어 OK 표현이 있어 지원 가능성 자체는 열림.",
+    "risk": "경력 3년+ 요구 · 시니어/리드 포지션 · 백엔드 단독 가능성 · 비개발 직무 가능성.",
+    "feature_project": "소상상점",
+    "learning_points": "클라우드 배포 경험은 Vercel 위주라 AWS/GCP 학습 항목 준비 · 프론트 비중과 백엔드 책임 범위 면접 질문 준비 · AI는 보조 강점으로 두고 메인 어필은 웹 시스템 구현 경험으로",
+    "motivation": "소상상점 8개월 장기 협업에서 다듬은 Next.js/Storybook/SEO 흐름을 ㈜풀링포레스트의 사용자 웹 품질에 기여하는 데 쓰고 싶습니다.",
+    "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
+    "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
+    "analyzed_at": "2026-05-07T16:18:34.732Z"
+  }
+}
