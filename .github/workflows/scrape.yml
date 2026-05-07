@@ -2,8 +2,8 @@ name: scrape
 
 on:
   schedule:
-    # 매일 07:00 KST = 22:00 UTC (전일)
-    - cron: "0 22 * * *"
+    # 매일 06:00 KST = 21:00 UTC (전일). Jules가 08:00 KST에 도므로 2시간 여유.
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 permissions:
@@ -59,17 +59,4 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Trigger Claude Code Routines
-        if: steps.commit.outputs.changed == 'true'
-        env:
-          ROUTINE_ENDPOINT: ${{ secrets.ROUTINE_ENDPOINT }}
-          ROUTINE_TOKEN: ${{ secrets.ROUTINE_TOKEN }}
-        run: |
-          if [ -z "$ROUTINE_ENDPOINT" ] || [ -z "$ROUTINE_TOKEN" ]; then
-            echo "ROUTINE_ENDPOINT/TOKEN 미설정. 분석 트리거 건너뜀."
-            exit 0
-          fi
-          curl -fsSL -X POST "$ROUTINE_ENDPOINT" \
-            -H "Authorization: Bearer $ROUTINE_TOKEN" \
-            -H "Content-Type: application/json" \
-            -d '{"message":"jobs.json 업데이트 완료. data/jobs.json 분석 후 사용자 맞춤 취업 전략 대시보드 docs/index.html 생성해줘"}'
+      # 분석은 Jules의 별도 cron task가 08:00 KST에 깨어 처리. 여기서 트리거하지 않음.

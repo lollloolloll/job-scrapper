@@ -181,7 +181,7 @@ Claude Code Routines는 `data/jobs.json`을 읽고 공고별 분석 결과를 `d
 
 트리거:
 
-- schedule: 매일 07:00 KST = UTC 22:00 (전일)
+- schedule: 매일 06:00 KST = UTC 21:00 (전일). Jules 분석 루틴(08:00 KST)에 2시간 여유.
 - workflow_dispatch: 수동 실행
 
 스텝:

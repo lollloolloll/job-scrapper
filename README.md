@@ -54,7 +54,7 @@ npm run check               # 모든 스크립트 syntax 검증
 
 ## GitHub Actions
 
-`.github/workflows/scrape.yml`은 매일 07:00 KST 자동 실행 + 수동(`workflow_dispatch`) 실행을 지원합니다. 흐름:
+`.github/workflows/scrape.yml`은 매일 06:00 KST 자동 실행 + 수동(`workflow_dispatch`) 실행을 지원합니다. 흐름:
 
 1. 의존성 설치 + Playwright Chromium 설치
 2. `npm run scrape` 실행
