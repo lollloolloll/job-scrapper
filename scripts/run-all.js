@@ -12,8 +12,8 @@ const SCRAPERS = [
 ];
 
 // lifecycle 정책
-const EXPIRE_DAYS = 7;   // 마지막 수신 후 7일 경과 → status=expired
-const PURGE_DAYS = 30;   // 마지막 수신 후 30일 경과 → 삭제
+const EXPIRE_DAYS = 7;   // 마지막 수신 후 7일 경과 → status=expired (대시보드 비표시)
+const PURGE_DAYS = 14;   // 마지막 수신 후 14일 경과 → jobs.json에서 삭제
 
 async function runOne(name, scraper, browser) {
   const started = Date.now();
@@ -170,6 +170,31 @@ async function main() {
     `${JSON.stringify(merged, null, 2)}\n`,
     "utf8",
   );
+
+  // analysis.json prune: jobs.json에서 사라진 id는 분석도 같이 제거
+  const analysisPath = "data/analysis.json";
+  try {
+    const raw = await fs.readFile(analysisPath, "utf8");
+    const analysis = JSON.parse(raw);
+    const validIds = new Set(merged.map((j) => j.id));
+    let pruned = 0;
+    for (const id of Object.keys(analysis)) {
+      if (!validIds.has(id)) {
+        delete analysis[id];
+        pruned += 1;
+      }
+    }
+    if (pruned > 0) {
+      await fs.writeFile(
+        analysisPath,
+        `${JSON.stringify(analysis, null, 2)}\n`,
+        "utf8",
+      );
+      console.log(`Pruned ${pruned} stale analysis entries`);
+    }
+  } catch {
+    /* analysis.json 없으면 skip */
+  }
 
   console.log(
     `Saved ${merged.length} jobs (active=${counts.active}, expired=${counts.expired}, new_today=${counts.new}, purged=${removedCount}) to ${OUTPUT_PATHS.jobsJson}`,

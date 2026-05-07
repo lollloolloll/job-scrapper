@@ -515,6 +515,13 @@ function buildHtml() {
     .card-actions { margin-top: auto; padding-top: 18px; }
     .card-actions a { display: block; text-align: center; text-decoration: none; background: var(--point); color: white; border-radius: 14px; padding: 12px 14px; font-weight: 900; transition: background .16s ease, transform .16s ease; }
     .card-actions a:hover { background: var(--point-dark); transform: translateY(-1px); }
+    .pagination { display: flex; align-items: center; justify-content: center; gap: 14px; margin: 28px 0 12px; flex-wrap: wrap; }
+    .page-btn { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 9px 18px; font-weight: 700; color: var(--text); cursor: pointer; transition: background .12s ease, border-color .12s ease; }
+    .page-btn:hover:not(:disabled) { background: var(--panel-soft); border-color: var(--point); color: var(--point); }
+    .page-btn:disabled { opacity: .4; cursor: not-allowed; }
+    .page-info { color: var(--muted); font-weight: 800; font-size: .92rem; min-width: 64px; text-align: center; }
+    .page-size-label { display: inline-flex; align-items: center; gap: 8px; color: var(--muted); font-size: .78rem; font-weight: 800; }
+    .page-size-label select { width: auto; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: #fff; color: var(--text); font: inherit; }
     .empty-state { padding: 42px; text-align: center; color: var(--muted); }
     .empty-state strong { display: block; color: var(--text); font-size: 1.15rem; margin-bottom: 8px; }
     .footer { color: var(--muted); font-size: .82rem; margin-top: 26px; text-align: center; }
@@ -574,6 +581,20 @@ function buildHtml() {
 ${cards}
     </section>
 
+    <nav id="pagination" class="pagination" aria-label="페이지">
+      <button type="button" id="prevPage" class="page-btn">‹ 이전</button>
+      <span id="pageInfo" class="page-info">1 / 1</span>
+      <button type="button" id="nextPage" class="page-btn">다음 ›</button>
+      <label class="page-size-label">페이지 크기
+        <select id="pageSize">
+          <option value="20" selected>20</option>
+          <option value="40">40</option>
+          <option value="60">60</option>
+          <option value="9999">전체</option>
+        </select>
+      </label>
+    </nav>
+
     <section id="emptyState" class="empty-state" hidden>
       <strong>조건에 맞는 공고가 없습니다.</strong>
       <span>검색어를 줄이거나 필터를 전체로 바꿔보세요. data/jobs.json이 비어 있다면 scraper 실행 상태를 확인하세요.</span>
@@ -591,7 +612,13 @@ ${cards}
       const resultCount = document.getElementById('resultCount');
       const container = document.getElementById('jobsContainer');
       const emptyState = document.getElementById('emptyState');
+      const pagination = document.getElementById('pagination');
+      const prevBtn = document.getElementById('prevPage');
+      const nextBtn = document.getElementById('nextPage');
+      const pageInfo = document.getElementById('pageInfo');
+      const pageSizeSelect = document.getElementById('pageSize');
       const cards = Array.from(document.querySelectorAll('.job-card'));
+      let currentPage = 1;
 
       function matches(card) {
         const query = searchInput.value.trim().toLowerCase();
@@ -610,22 +637,53 @@ ${cards}
         return Number(b.dataset.fitScore) - Number(a.dataset.fitScore);
       }
 
-      function applyFilters() {
-        const visible = cards.filter(matches).sort(compareCards);
+      function getPageSize() {
+        return Math.max(1, Number(pageSizeSelect.value) || 20);
+      }
+
+      function render() {
+        const filtered = cards.filter(matches).sort(compareCards);
+        const pageSize = getPageSize();
+        const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+        if (currentPage > totalPages) currentPage = totalPages;
+        if (currentPage < 1) currentPage = 1;
+
+        const start = (currentPage - 1) * pageSize;
+        const pageItems = filtered.slice(start, start + pageSize);
+
         for (const card of cards) card.hidden = true;
-        for (const card of visible) {
+        for (const card of pageItems) {
           card.hidden = false;
           container.appendChild(card);
         }
-        resultCount.textContent = '총 ' + cards.length + '개 중 ' + visible.length + '개 표시 중';
-        emptyState.hidden = visible.length > 0;
+
+        const showing = pageItems.length;
+        const rangeStart = filtered.length ? start + 1 : 0;
+        const rangeEnd = start + showing;
+        resultCount.textContent =
+          '총 ' + cards.length + '개 중 ' + filtered.length + '개 매칭, ' +
+          rangeStart + '-' + rangeEnd + ' 표시';
+
+        pageInfo.textContent = currentPage + ' / ' + totalPages;
+        prevBtn.disabled = currentPage <= 1;
+        nextBtn.disabled = currentPage >= totalPages;
+        pagination.hidden = filtered.length === 0;
+        emptyState.hidden = filtered.length > 0;
+      }
+
+      function applyFilters() {
+        currentPage = 1;
+        render();
       }
 
       for (const element of [searchInput, sourceFilter, recommendationFilter, sortSelect]) {
         element.addEventListener('input', applyFilters);
         element.addEventListener('change', applyFilters);
       }
-      applyFilters();
+      pageSizeSelect.addEventListener('change', applyFilters);
+      prevBtn.addEventListener('click', () => { currentPage -= 1; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+      nextBtn.addEventListener('click', () => { currentPage += 1; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+      render();
     })();
   </script>
 </body>
