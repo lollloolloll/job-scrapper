@@ -2725,5 +2725,96 @@
     "questions_to_ask": "프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
     "portfolio_link_point": "메인: 소상상점 스토리. 보조: 쌍청문 공간대여 예약 시스템 / 쌍청문 키오스크/대여 관리. 소상공인 협업 플랫폼에서 Next.js/Storybook/SEO/OAuth 흐름까지 다룬 8개월 장기 프로젝트로 자기소개 연결.",
     "analyzed_at": "2026-05-07T16:18:34.732Z"
+  },
+  "saramin_53373444": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Javascript",
+      "UI/UX",
+      "Java"
+    ],
+    "summary": "공공기관 시스템 UI/UX 퍼블리싱 중심 공고로 프론트엔드 프레임워크 활용이 제한적일 수 있음.",
+    "reason": "순수 퍼블리싱과 Java 환경에 치중되어 있어 React/Next.js 기반의 서비스 개발 역량을 발휘하기 어려울 것으로 예상됨.",
+    "risk": "순수 퍼블리싱만 담당하거나 사내 레거시 스택에 종속될 위험.",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "기존 Java/JSP 기반 환경에서의 화면 연동 방식 및 공공기관 UI 표준 파악.",
+    "motivation": "공공기관 시스템의 복잡한 운영 정책을 웹 화면으로 풀어낸 쌍청문 프로젝트 경험을 바탕으로 안정적인 UI를 제공하겠습니다.",
+    "questions_to_ask": "프론트엔드 프레임워크(React 등) 도입 여부 및 퍼블리싱 외 로직 개발 비중 확인.",
+    "portfolio_link_point": "쌍청문 예약 시스템의 관리자 페이지 UI 구현 및 운영 정책 반영 경험.",
+    "analyzed_at": "2026-05-07T23:05:09.996Z"
+  },
+  "jobkorea_49080607": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "SAP",
+      "ERP",
+      "PM"
+    ],
+    "summary": "SAP B1 기반 ERP 프로젝트 기술 리더 및 PM 포지션으로 신입 프론트엔드 직무와 불일치.",
+    "reason": "기술 리더 및 PM 등 고연차의 시스템 엔지니어링 역량을 요구하여 현재의 프론트엔드 주니어 포지셔닝과 전혀 맞지 않음.",
+    "risk": "직무 완전 불일치 및 시니어/리더급 경력 요구.",
+    "feature_project": "AI workflow",
+    "learning_points": "대규모 ERP 시스템 아키텍처 및 기업용 솔루션 구축 프로세스 전반에 대한 이해.",
+    "motivation": "도메인 및 연차 불일치로 지원을 권장하지 않음.",
+    "questions_to_ask": "이 포지션 내에 프론트엔드 주니어의 역할이 포함되는지 여부.",
+    "portfolio_link_point": "웹 기반 시스템 전체 흐름을 이해하는 차원에서 AI-native workflow의 문서화 경험 정도만 간접 연결 가능.",
+    "analyzed_at": "2026-05-07T23:05:09.997Z"
+  },
+  "jobkorea_49066506": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "전장 S/W",
+      "임베디드",
+      "C/C++"
+    ],
+    "summary": "자동차 전장 시스템(Lamp) 소프트웨어 개발 포지션으로 웹 프론트엔드 분야와 다름.",
+    "reason": "차량용 전장 임베디드 소프트웨어 개발에 초점이 맞춰져 있어 웹 기반의 React/Next.js 경험을 적용할 수 없는 환경임.",
+    "risk": "하드웨어 제어 및 임베디드 도메인 지식 요구, 웹 서비스 개발 직무가 아님.",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "하드웨어 제어 논리 및 저수준 언어(C/C++) 기반의 시스템 프로그래밍 지식.",
+    "motivation": "웹 프론트엔드 중심의 경력 방향과 맞지 않아 지원 보류를 권장함.",
+    "questions_to_ask": "웹 기반의 모니터링 대시보드나 사내 관리툴 개발 수요가 별도로 존재하는지 문의.",
+    "portfolio_link_point": "키오스크 시스템 개발 당시 로컬 기기와 웹을 연동했던 경험을 제한적으로 어필 가능.",
+    "analyzed_at": "2026-05-07T23:05:09.997Z"
+  },
+  "jobkorea_49121413": {
+    "fit_score": 5,
+    "recommendation": "애매",
+    "core_stack_tags": [
+      "Javascript",
+      "Java",
+      "JSP",
+      "LMS"
+    ],
+    "summary": "Java/JSP 기반의 LMS 솔루션 웹 개발 공고로 최신 프론트엔드 스택 활용 비중이 낮을 수 있음.",
+    "reason": "웹 개발이라는 공통점은 있으나, React 등 모던 프레임워크보다는 전통적인 JSP/Ajax 환경 위주라 성장이 제한될 우려가 있음.",
+    "risk": "레거시 스택 중심의 렌더링 환경으로 프론트엔드 전문성보다는 풀스택 SI 성격이 강함.",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "Java Spring 및 서버 사이드 렌더링(JSP) 환경에서의 뷰 통합 파이프라인 적응.",
+    "motivation": "교육 솔루션의 복잡한 사용자 요구사항을 웹에이전시 MVP 프로젝트에서 쌓은 요구사항 분석력으로 해결할 수 있습니다.",
+    "questions_to_ask": "향후 프론트엔드 전용 기술 스택(React, Vue 등)으로의 마이그레이션 계획이 있는지 확인.",
+    "portfolio_link_point": "고객사의 요구사항을 수렴하여 MVP를 구축하고 상담/퍼널을 직접 설계했던 경험.",
+    "analyzed_at": "2026-05-07T23:05:09.997Z"
+  },
+  "jobkorea_49066689": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "ASPICE",
+      "ISO",
+      "기능안전"
+    ],
+    "summary": "자동차 전장 소프트웨어 기능안전(ISO 26262 등) 및 품질 보증 담당으로 비웹개발 직무.",
+    "reason": "웹 프론트엔드나 서비스 개발이 아닌 전장 소프트웨어 프로세스 품질 관리 및 인증 중심의 업무로 역량 매칭이 되지 않음.",
+    "risk": "완전한 비웹개발 직무 및 차량용 특수 도메인 지식 요구.",
+    "feature_project": "AI workflow",
+    "learning_points": "차량용 기능안전 국제 표준 및 체계적인 소프트웨어 품질 검증 프로세스 체득.",
+    "motivation": "커리어 포지셔닝과 완전히 무관하여 지원을 권하지 않음.",
+    "questions_to_ask": "해당 사항 없음.",
+    "portfolio_link_point": "과정 문서화 측면에서 AI memory workflow 경험을 극히 제한적으로 언급할 수 있음.",
+    "analyzed_at": "2026-05-07T23:05:09.997Z"
   }
 }
