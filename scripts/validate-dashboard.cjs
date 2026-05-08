@@ -102,6 +102,49 @@ if (incomplete.length > 0) {
   fail(`analysis 필수 필드 누락 ${incomplete.length}건: ${incomplete.slice(0, 5).join(', ')}${incomplete.length > 5 ? '…' : ''}`);
 }
 
+// ---------- 6-1. recommendation 값은 PRD §3 enum 4개 중 하나만 허용
+const VALID_RECS = ['강력 추천', '추천', '보류', '비추천'];
+const invalidRecs = [];
+for (const [id, a] of Object.entries(analysis)) {
+  const r = a && a.recommendation;
+  if (r && !VALID_RECS.includes(String(r).trim())) {
+    invalidRecs.push(`${id}: "${r}"`);
+  }
+}
+if (invalidRecs.length > 0) {
+  fail(`recommendation 값 PRD enum 위반 ${invalidRecs.length}건 (허용: ${VALID_RECS.join('/')}): ${invalidRecs.slice(0, 5).join(', ')}${invalidRecs.length > 5 ? '…' : ''}`);
+}
+
+// ---------- 6-2. fit_score는 1~10 정수
+const invalidScores = [];
+for (const [id, a] of Object.entries(analysis)) {
+  const s = a && a.fit_score;
+  if (typeof s !== 'number' || !Number.isInteger(s) || s < 1 || s > 10) {
+    invalidScores.push(`${id}: ${s}`);
+  }
+}
+if (invalidScores.length > 0) {
+  fail(`fit_score 1~10 정수 위반 ${invalidScores.length}건: ${invalidScores.slice(0, 5).join(', ')}`);
+}
+
+// ---------- 6-3. score-recommendation 정합성 (대략적 일관성)
+const inconsistent = [];
+for (const [id, a] of Object.entries(analysis)) {
+  if (!a || typeof a.fit_score !== 'number' || !VALID_RECS.includes(a.recommendation)) continue;
+  const s = a.fit_score;
+  const r = a.recommendation;
+  // 9-10: 강력 추천만 / 7-8: 강력추천 or 추천 / 4-6: 추천/보류 / 1-3: 보류/비추천
+  let ok;
+  if (s >= 9) ok = r === '강력 추천';
+  else if (s >= 7) ok = ['강력 추천', '추천'].includes(r);
+  else if (s >= 4) ok = ['추천', '보류'].includes(r);
+  else ok = ['보류', '비추천'].includes(r); // s <= 3
+  if (!ok) inconsistent.push(`${id}: score=${s} but rec="${r}"`);
+}
+if (inconsistent.length > 0) {
+  warn(`score-recommendation 정합성 의심 ${inconsistent.length}건: ${inconsistent.slice(0, 3).join(', ')}`);
+}
+
 // ---------- 7. 동일 reasoning 문장 반복 (3회 이상 동일하면 fail)
 const reasons = Object.values(analysis)
   .map((a) => (a && a.reason ? String(a.reason).trim() : ''))
