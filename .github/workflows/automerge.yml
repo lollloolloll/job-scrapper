@@ -1,0 +1,33 @@
+name: automerge
+
+# PR이 열리거나 갱신되면 신뢰 author 한정으로 자동 머지.
+# 외부 fork에서 들어온 PR은 머지하지 않음 (보안).
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review, labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    if: |
+      !github.event.pull_request.draft &&
+      (
+        github.event.pull_request.user.login == 'lollloolloll' ||
+        github.event.pull_request.user.login == 'google-labs-jules[bot]' ||
+        github.event.pull_request.user.login == 'github-actions[bot]'
+      ) &&
+      github.event.pull_request.head.repo.full_name == github.repository
+    steps:
+      - name: Merge PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+        run: |
+          gh pr merge "$PR_URL" \
+            --merge \
+            --delete-branch
