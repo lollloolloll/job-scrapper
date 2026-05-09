@@ -3336,5 +3336,43 @@
     "questions_to_ask": "앳홈 보안 플랫폼 개발 시 외부 CDN 사용을 지양하고 모든 에셋을 자체 서버에서만 서빙하는 식의 폐쇄적인 정책을 따르고 있나요?",
     "portfolio_link_point": "앳홈 보안 포지션에 이력서를 낸다면 프론트엔드 환경 변수(.env) 관리를 위해 Github Secrets를 활용했던 CI/CD 배포 자동화 파이프라인 경험을 쓰겠습니다.",
     "analyzed_at": "2026-05-08T23:59:24.885836Z"
+  },
+  "saramin_53751832": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "PHP",
+      "jQuery",
+      "Vue.js",
+      "OracleDB"
+    ],
+    "summary": "(주)상공 PHP/Vue.js 백엔드 중심 채용 건. 점수: 1점",
+    "reason": "PHP, jQuery, OracleDB 등 레거시 환경 유지보수가 예상되며, Next.js/React 중심의 프론트엔드 커리어를 지향하는 현재 전략과 스택이 일치하지 않습니다.",
+    "risk": "사내 기술 스택이 최신 모던 프론트엔드 생태계와 동떨어져 있어 성장에 한계가 있을 수 있습니다.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "PHP, OracleDB 등 구형 기술 스택 환경에서의 서버 렌더링 및 DOM 직접 조작 로직에 대한 적응이 필요할 수 있습니다.",
+    "motivation": "레거시 시스템을 점진적으로 모던 프론트엔드 아키텍처로 개편하여 팀 전체의 생산성을 끌어올리는 주역이 되겠습니다.",
+    "questions_to_ask": "장기적으로 PHP 환경에서 React 같은 모던 프레임워크로 완전히 마이그레이션할 계획이 부서 내에 있는지 궁금합니다.",
+    "portfolio_link_point": "지원해야 한다면, 과거 웹에이전시 MVP 프로젝트에서 레거시 코드를 리팩토링하며 유지보수성을 높인 경험을 짧게 소개하겠습니다.",
+    "analyzed_at": "2026-05-09T23:23:08.327Z"
+  },
+  "saramin_53698185": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Java",
+      "ASP.NET",
+      "SQL",
+      "미국"
+    ],
+    "summary": "(주)아이씨엔그룹 미국 파견 Java/ASP.NET 채용 건. 점수: 1점",
+    "reason": "ASP.NET과 Java 위주의 백엔드 시스템 개발이 주를 이룰 것으로 보여, 주력인 리액트 기반 클라이언트 개발 강점을 살리기 어렵습니다.",
+    "risk": "해외 취업 비자(J-1 등) 발급 및 체류 조건에 따른 제약이 크고 실무 환경이 파견 SI 성격일 가능성이 큽니다.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "ASP.NET 프레임워크 구조 및 Java 기반 엔터프라이즈 서버 아키텍처 등 백엔드 전반의 넓은 이해가 강제됩니다.",
+    "motivation": "글로벌 환경에서 다양한 서버 기술 스택을 다루며 언어와 프레임워크의 장벽을 넘나드는 유연한 엔지니어로 활약하겠습니다.",
+    "questions_to_ask": "미국 현지 파견 시 구체적으로 프론트엔드 UI 개발과 백엔드 비즈니스 로직 작성의 업무 비율이 어떻게 나뉘나요?",
+    "portfolio_link_point": "면접 시, 낯선 환경에서도 AI 도구를 활용해 새로운 언어와 인프라를 빠르게 학습하고 적응했던 능력을 적극 어필하겠습니다.",
+    "analyzed_at": "2026-05-09T23:23:08.327Z"
   }
 }
