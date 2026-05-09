@@ -365,7 +365,9 @@ function renderJobCard(job) {
           data-fit-score="${analysis.score}"
           data-search="${escapeAttr(searchText)}"
           data-company="${escapeAttr(job.company)}"
-          data-deadline="${escapeAttr(job.deadline)}">
+          data-deadline="${escapeAttr(job.deadline)}"
+          data-first-seen="${escapeAttr(job.first_seen || job.scraped_at || '')}"
+          data-scraped-at="${escapeAttr(job.scraped_at || '')}">
           <header class="card-head">
             <div>
               <span class="source-badge">${escapeHtml(sourceLabel(job.source))}</span>${job.is_new ? '<span class="new-badge">NEW</span>' : ''}
@@ -568,6 +570,9 @@ function buildHtml() {
         <select id="sortSelect">
           <option value="score-desc">적합도 높은순</option>
           <option value="score-asc">적합도 낮은순</option>
+          <option value="first-seen-desc">최신 등록순</option>
+          <option value="first-seen-asc">오래된 등록순</option>
+          <option value="scraped-desc">최근 수집순</option>
           <option value="company-asc">회사명순</option>
           <option value="deadline-asc">마감일 텍스트순</option>
         </select>
@@ -631,9 +636,16 @@ ${cards}
           && (recommendation === 'all' || card.dataset.recommendation === recommendation);
       }
 
+      function ts(value) {
+        const t = Date.parse(value || '');
+        return Number.isFinite(t) ? t : 0;
+      }
       function compareCards(a, b) {
         const sort = sortSelect.value;
         if (sort === 'score-asc') return Number(a.dataset.fitScore) - Number(b.dataset.fitScore);
+        if (sort === 'first-seen-desc') return ts(b.dataset.firstSeen) - ts(a.dataset.firstSeen);
+        if (sort === 'first-seen-asc') return ts(a.dataset.firstSeen) - ts(b.dataset.firstSeen);
+        if (sort === 'scraped-desc') return ts(b.dataset.scrapedAt) - ts(a.dataset.scrapedAt);
         if (sort === 'company-asc') return a.dataset.company.localeCompare(b.dataset.company, 'ko');
         if (sort === 'deadline-asc') return a.dataset.deadline.localeCompare(b.dataset.deadline, 'ko');
         return Number(b.dataset.fitScore) - Number(a.dataset.fitScore);
