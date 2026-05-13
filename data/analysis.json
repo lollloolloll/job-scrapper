@@ -4168,5 +4168,326 @@
     "questions_to_ask": "B2B와 B2C 예약 비율이 어떻게 되며, 가장 큰 기술적 과제는 무엇인지 알고 싶습니다.",
     "portfolio_link_point": "쌍청문 공간대여 예약 시스템의 전체 개발 프로세스와 트러블슈팅 경험을 메인 이력으로 제출합니다.",
     "analyzed_at": "2026-05-12T23:21:49.564Z"
+  },
+  "saramin_53877472": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "Javascript",
+      "프론트엔드",
+      "백엔드"
+    ],
+    "summary": "(주)트랜스코스모스코리아 CX개발2부 공고로 프론트엔드와 백엔드 지식을 모두 요구합니다.",
+    "reason": "Java 중심의 시스템 환경일 확률이 있어, React/Next.js 기반 프론트엔드 전문성을 발휘하기엔 적합하지 않을 수 있습니다.",
+    "risk": "Java 기반의 SI성 업무가 중심일 위험성이 있습니다.",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "엔터프라이즈 환경에서의 Java 기반 백엔드 아키텍처 이해",
+    "motivation": "쌍청문 대여 시스템에서 운영 문제를 풀스택으로 해결한 경험을 살려, 고객 경험(CX) 향상에 기여하고 싶습니다.",
+    "questions_to_ask": "신규 개발 시 React/Next.js 도입 가능성 및 프론트엔드 전담 업무 비중이 어떻게 되나요?",
+    "portfolio_link_point": "쌍청문 프로젝트의 관리자 대시보드와 정책 로직 구현 경험을 백엔드 이해도의 근거로 활용",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "saramin_53879155": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "React",
+      "프론트엔드",
+      "웹개발"
+    ],
+    "summary": "(주)시마크로의 React 기반 웹/앱 프론트엔드 개발 채용연계형 인턴십입니다.",
+    "reason": "React와 프론트엔드 개발을 명시적으로 요구하고 있으며 신입(인턴) 지원이 가능하여 초기 서비스 개발 역량을 쌓기에 매우 적합한 환경입니다.",
+    "risk": "채용연계형 인턴이므로 정규직 전환율에 대한 불확실성이 존재합니다.",
+    "feature_project": "소상상점",
+    "learning_points": "상용 서비스 수준의 성능 최적화 및 복잡한 상태 관리 경험",
+    "motivation": "소상상점 프로젝트에서 Storybook과 API 연동을 통해 팀 협업을 이끈 경험을 시마크로의 React 생태계에 바로 적용하고 싶습니다.",
+    "questions_to_ask": "인턴 기간 동안 주도적으로 참여하게 될 프로젝트의 성격과 정규직 전환 평가 기준은 무엇인가요?",
+    "portfolio_link_point": "소상상점에서의 Vercel 빌드 이슈 해결과 SEO 대응 경험을 통한 프론트엔드 구조화 역량 강조",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "saramin_53815720": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "AI",
+      "웹개발",
+      "데이터엔지니어"
+    ],
+    "summary": "리버에이아이의 AI 신입 개발자 모집으로 웹 개발과 데이터 파이프라인 이해가 함께 필요해 보입니다.",
+    "reason": "AI 도구를 활용하는 작업 방식(AI-native workflow)을 선호하므로, 회사의 비전과 개인의 작업 스타일이 잘 부합할 수 있는 포지션입니다.",
+    "risk": "순수 프론트엔드 개발보다 AI/데이터 엔지니어링 업무에 치중될 가능성이 있습니다.",
+    "feature_project": "AI-native workflow (개인 지식저장소)",
+    "learning_points": "본격적인 머신러닝 파이프라인 구축 및 데이터 엔지니어링 기술",
+    "motivation": "평소 Obsidian과 AI Agent를 결합해 지식 관리 시스템을 구축한 경험이 리버에이아이의 자동화 비전과 맞닿아 있습니다.",
+    "questions_to_ask": "주니어 개발자가 웹 프론트엔드 구현과 AI 모델 연동 중 어느 쪽에 더 집중하게 되는지 궁금합니다.",
+    "portfolio_link_point": "Hermes Agent를 활용한 작업 기록 자동화 및 Graphify 관계망 구축 사례 어필",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_361423": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "QA",
+      "테스트"
+    ],
+    "summary": "루먼랩의 주니어 QA 직무로, 전문적인 테스트 시나리오 작성과 검증을 담당합니다.",
+    "reason": "프론트엔드 개발(Product Engineer)을 지향하는 현재 커리어 패스와 방향성이 일치하지 않아 개발 역량을 키우기 어렵습니다.",
+    "risk": "코드 작성보다 테스트 수행 및 문서화에 업무 시간이 집중될 수 있습니다.",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "체계적인 QA 프로세스 및 자동화 테스트 환경 구축",
+    "motivation": "기능 구현을 넘어 제품의 품질을 보증하는 단계에 대한 이해도를 높이기 위한 과정입니다. (확인 필요)",
+    "questions_to_ask": "QA 과정에서 발견된 이슈를 바탕으로 직접 코드를 수정할 수 있는 기회가 있나요?",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트에서 고객 요구사항을 바탕으로 엣지 케이스를 테스트한 경험",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_361313": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "QA",
+      "인턴"
+    ],
+    "summary": "블리몽키즈의 6개월 단기 QA 인턴 포지션입니다.",
+    "reason": "개발이 아닌 QA 직무인데다 단기 인턴이므로, Next.js 중심의 프론트엔드 경력을 쌓기에는 적절하지 않은 선택입니다.",
+    "risk": "6개월 후 정규직 전환이나 개발 직무로의 이동이 보장되지 않는 단순 반복 테스트 위주 업무일 수 있습니다.",
+    "feature_project": "웹에이전시 MVP 프로젝트",
+    "learning_points": "QA 시나리오 작성법 및 테스트 자동화 툴 사용법",
+    "motivation": "단기적으로 서비스의 품질 관리 프로세스를 경험하기 위한 지원입니다. (확인 필요)",
+    "questions_to_ask": "인턴십 종료 후 개발팀으로 합류할 수 있는 패스웨이가 존재하나요?",
+    "portfolio_link_point": "Storybook을 활용한 UI 컴포넌트 단위 테스트 경험을 QA 역량으로 치환",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_360922": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "QA",
+      "AI",
+      "인턴"
+    ],
+    "summary": "보이저엑스의 인턴 QA 공고로, AI 서비스의 테스트를 담당할 것으로 예상됩니다.",
+    "reason": "보이저엑스의 뛰어난 AI 개발 문화를 경험할 수 있다는 장점이 있으나, 주 직무가 QA이므로 커리어 지향점(프론트엔드)과는 다소 거리가 있습니다.",
+    "risk": "AI 서비스 품질 검증 위주로 배치되어 실제 프론트엔드 아키텍처 설계 경험을 쌓기 어려움",
+    "feature_project": "AI-native workflow",
+    "learning_points": "AI 제품 특유의 예외 상황 처리 및 품질 보증 전략",
+    "motivation": "선도적인 AI 서비스가 어떻게 품질을 관리하고 출시되는지 현장에서 배우고 싶습니다.",
+    "questions_to_ask": "QA 업무 자동화를 위해 사내에서 스크립트나 도구를 직접 개발할 수 있는 재량권이 주어지나요?",
+    "portfolio_link_point": "개인 지식저장소 구축 시 AI 로그의 무결성을 검증한 경험을 연결",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_310820": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Vision AI",
+      "영상처리",
+      "머신러닝"
+    ],
+    "summary": "한국해양기상기술의 Vision AI 모델 개발자(3년 이하) 포지션입니다.",
+    "reason": "영상 처리 및 머신러닝 전문 지식을 요구하는 포지션으로, 현재 보유한 웹 프론트엔드 중심의 기술 스택과 완전히 불일치합니다.",
+    "risk": "웹 서비스 개발이 아닌 연구/모델링 중심 업무로 커리어 단절 위험",
+    "feature_project": "없음 (적합한 프로젝트 없음)",
+    "learning_points": "컴퓨터 비전 기초 및 딥러닝 프레임워크 실무",
+    "motivation": "비전 AI 기술에 대한 호기심 (확인 필요 - 지원 근거 매우 약함)",
+    "questions_to_ask": "해당 모델의 결과물을 웹 대시보드로 시각화하는 프론트엔드 업무 수요도 있는지요?",
+    "portfolio_link_point": "제시할 포트폴리오 포인트가 마땅치 않음",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_341729": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Software Engineer",
+      "웹개발",
+      "풀스택"
+    ],
+    "summary": "컨포트랩의 Software Engineer 인턴 포지션으로 폭넓은 개발 참여가 기대됩니다.",
+    "reason": "구체적 스택 확인이 필요하나, 엔지니어링 전반을 다루는 역할이라면 프론트엔드 역량을 바탕으로 서비스 흐름 전체를 경험하는 Product Engineer 성장에 도움이 됩니다.",
+    "risk": "명확한 주력 스택이 기재되지 않아, 입사 후 레거시 유지보수에 투입될 가능성 있음",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "스타트업 초기 환경에서의 빠른 MVP 이터레이션 및 백엔드 인프라 이해",
+    "motivation": "단순 화면 구현을 넘어, 쌍청문 예약 시스템처럼 고객의 문제를 시스템으로 해결하는 소프트웨어 엔지니어가 되고 싶습니다.",
+    "questions_to_ask": "현재 팀에서 주력으로 사용하는 프레임워크(프론트/백)는 무엇이며 인턴에게 기대하는 주요 산출물은 어떤 것인가요?",
+    "portfolio_link_point": "요구사항 분석부터 배포까지 단독으로 진행한 쌍청문 프로젝트의 전체 생명주기 사이클 강조",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_361090": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Python",
+      "백엔드",
+      "데이터"
+    ],
+    "summary": "뉴로다임의 신입 파이썬 개발자 채용으로 주로 백엔드나 데이터 스크립팅 위주의 직무로 보입니다.",
+    "reason": "Python 기반의 생태계는 주력인 Next.js/React(TypeScript) 스택과 거리가 멀어 강점을 어필하기 쉽지 않습니다.",
+    "risk": "TypeScript 기반의 프론트엔드 개발 경험을 이어가기 어려움",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "Python 생태계 기반의 서버 사이드 프레임워크(Django/FastAPI 등)",
+    "motivation": "Python을 활용한 데이터 처리 및 백엔드 로직 작성에 관심이 있습니다. (확인 필요)",
+    "questions_to_ask": "Python 외에 사용자 접점이 있는 웹 프론트엔드 스택은 어떤 것을 사용하시나요?",
+    "portfolio_link_point": "Supabase와 SQLite 등 데이터베이스 연동 및 관리자 기능 구현 경험을 백엔드 이해도로 포장",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_359840": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "AI 자동화",
+      "업무효율화",
+      "생산성"
+    ],
+    "summary": "오션블루의 사내 업무 자동화 및 효율화를 전담하는 AI 활용 전문가 포지션입니다.",
+    "reason": "평소 AI 도구를 적극적으로 사용하는 업무 방식과 일치하지만, 정통 소프트웨어 엔지니어링(제품 개발)보다는 사내 오퍼레이션 지원에 가까울 수 있습니다.",
+    "risk": "상용 서비스 코드를 작성하기보다 No-code 툴이나 스크립트 작성에 머무를 수 있음",
+    "feature_project": "AI-native workflow",
+    "learning_points": "기업 맞춤형 대규모 업무 자동화 솔루션 도입 및 운영 프로세스",
+    "motivation": "개인 지식저장소를 구축하며 체득한 AI 활용 노하우를 기업의 업무 프로세스 개선으로 확장하고 싶습니다.",
+    "questions_to_ask": "단순 툴 활용을 넘어, 자동화된 워크플로우를 사내 웹 시스템(프론트엔드)으로 구축하는 작업도 포함되나요?",
+    "portfolio_link_point": "Claude Code, Hermes Agent 등을 활용하여 작업 흐름을 구조화하고 관리한 경험 상세 설명",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_347561": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "백엔드",
+      "전문연구요원"
+    ],
+    "summary": "코드잇의 전문연구요원 대체복무 대상 백엔드 엔지니어 채용입니다.",
+    "reason": "백엔드 특화 직무이면서 전문연구요원 자격을 요구하므로, 현재 주니어 프론트엔드 프로필로는 지원 요건 자체가 맞지 않을 확률이 매우 높습니다.",
+    "risk": "지원 자격 미달 및 주력 스택(프론트엔드) 불일치",
+    "feature_project": "없음 (자격 요건 불일치 예상)",
+    "learning_points": "대규모 트래픽을 처리하는 백엔드 시스템 아키텍처",
+    "motivation": "에듀테크 도메인에 대한 관심. (확인 필요 - 병역 조건 등 부합 여부)",
+    "questions_to_ask": "전문연구요원 TO 외에 일반 신입 프론트엔드 포지션 채용 계획도 있으신가요?",
+    "portfolio_link_point": "불필요 (지원 자격 확인 우선)",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "wanted_352175": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "백엔드",
+      "인턴",
+      "Product Engineer"
+    ],
+    "summary": "누비랩의 전환형 Product Engineer (Back-End) 인턴 포지션입니다.",
+    "reason": "Product Engineer라는 방향성은 일치하지만 백엔드 전문 인력을 구하고 있어, 주력인 프론트엔드 강점을 온전히 발휘하기엔 한계가 있습니다.",
+    "risk": "인프라와 DB 설계 등 깊이 있는 백엔드 지식을 요구받아 면접 과정에서 약점이 노출될 수 있음",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "전문적인 서버 아키텍처 설계 및 데이터베이스 튜닝",
+    "motivation": "운영 문제를 시스템으로 해결하는 과정에서 백엔드의 중요성을 체감하여 지원했습니다. (확인 필요)",
+    "questions_to_ask": "Product Engineer로서 백엔드 외에 관리자 웹 등 프론트엔드 영역까지 범위를 확장하여 기여할 수 있나요?",
+    "portfolio_link_point": "단독 개발하며 Supabase 기반 데이터베이스와 API를 직접 설계한 경험으로 풀스택 성장 가능성 어필",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "jobkorea_49104884": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "시스템엔지니어",
+      "화학/환경"
+    ],
+    "summary": "워터아이즈의 시스템 엔지니어 공고로, 화학/환경 분야 도메인 지식이 요구되는 직무입니다.",
+    "reason": "웹/프론트엔드 소프트웨어 개발이 아닌 인프라/하드웨어 시스템 엔지니어링 성격이 강해 커리어 방향과 무관합니다.",
+    "risk": "완전히 다른 직군으로의 전환이 될 수 있음",
+    "feature_project": "없음 (도메인 상이)",
+    "learning_points": "수질 환경 시스템 관련 도메인 지식 및 하드웨어 연동 기술",
+    "motivation": "해당 분야에 대한 흥미 기반 지원 (확인 필요 - IT 개발과 괴리)",
+    "questions_to_ask": "해당 시스템의 데이터를 모니터링하기 위한 웹 대시보드 구축 수요가 있나요?",
+    "portfolio_link_point": "제시할 내용이 적절치 않음",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "jobkorea_49164784": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "SQL",
+      "Web UI",
+      "데이터 인터페이스"
+    ],
+    "summary": "디에스이트레이드의 데이터 인터페이스 및 SQL 활용을 포함하는 Web UI 프론트엔드 채용입니다.",
+    "reason": "프론트엔드 역량과 더불어 SQL 등 DB 이해도를 요구하므로, 풀스택 경험(SQLite, Supabase)을 가진 사용자에게 매력적인 포지션입니다.",
+    "risk": "최신 프레임워크(React 등)가 아닌 레거시 기반 UI 개발일 가능성을 확인해야 합니다.",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "복잡한 비즈니스 데이터를 다루는 금융/트레이딩 도메인 특화 지식",
+    "motivation": "단순히 화면을 그리는 것을 넘어 DB 구조를 이해하고 데이터를 효과적으로 인터페이스화하는 역량을 십분 발휘하고 싶습니다.",
+    "questions_to_ask": "Web UI 개발에 주로 사용하는 프론트엔드 라이브러리/프레임워크(React 등)가 무엇인지 궁금합니다.",
+    "portfolio_link_point": "예약/대기열 데이터를 다루기 위해 Drizzle과 SQLite를 연동하고 상태 관리를 했던 키오스크 프로젝트 경험 소개",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "jobkorea_49007088": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "위성 연구",
+      "웹개발"
+    ],
+    "summary": "위성 연구 분야 솔루션을 개발하는 솔탑의 신입/경력 프론트엔드 채용입니다.",
+    "reason": "특수 도메인(위성)의 관리자 및 모니터링 시스템 성격이 강해 보이며, React 중심의 역량을 요구한다면 적합할 수 있습니다.",
+    "risk": "도메인 장벽이 높고 B2B/G 특유의 수직적 문화나 레거시 시스템 유지보수 비중이 클 수 있습니다.",
+    "feature_project": "소상상점",
+    "learning_points": "대용량 실시간 위성 데이터 시각화 및 B2B 솔루션 아키텍처",
+    "motivation": "위성 데이터를 웹 환경에서 안정적으로 서비스하기 위한 모니터링 UI 최적화에 기여하고자 합니다.",
+    "questions_to_ask": "연구소 내 프론트엔드 팀의 규모와 주력 기술 스택, 그리고 코드 리뷰 문화가 존재하는지 알고 싶습니다.",
+    "portfolio_link_point": "소상상점의 Storybook 컴포넌트화를 통해 복잡한 UI를 체계적으로 관리한 사례 설명",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "jobkorea_48904380": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "웹기획",
+      "마케팅기획",
+      "협회/단체"
+    ],
+    "summary": "경기도일자리재단의 청년 일자리 매치업 공고로 웹기획 및 마케팅 업무를 포함합니다.",
+    "reason": "개발보다는 서비스 기획이나 마케팅에 무게가 실려있어 전문적인 프론트엔드 엔지니어로 성장하기에는 불리한 환경일 수 있습니다.",
+    "risk": "직접 코딩을 하기보다는 외주 관리 및 기획 문서 작성 위주의 업무가 될 가능성 높음",
+    "feature_project": "웹에이전시 MVP 프로젝트",
+    "learning_points": "공공기관의 예산 집행 및 대민 서비스 운영 기획 프로세스",
+    "motivation": "실제 공공 서비스의 운영 문제를 파악하고 사용자 유입 흐름을 기획하는 역량을 키우고자 합니다. (확인 필요)",
+    "questions_to_ask": "웹기획 담당자가 내부 개발팀과 직접 협업하며 코드 작성에도 일부 참여할 수 있는지요?",
+    "portfolio_link_point": "고객 요구사항을 수합하고 랜딩 페이지 퍼널을 기획했던 웹에이전시 MVP 기획 경험 강조",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "jobkorea_49159060": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "부트캠프",
+      "교육생 모집"
+    ],
+    "summary": "휴먼교육센터의 AI/빅데이터/풀스택 부트캠프 수강생 모집 공고입니다.",
+    "reason": "이 공고는 정규직 채용이 아닌 국비지원 학원 수강생 모집 광고이므로 구직 대상이 아닙니다.",
+    "risk": "채용 공고가 아닌 광고성 게시물",
+    "feature_project": "없음 (광고)",
+    "learning_points": "불필요 (교육 과정)",
+    "motivation": "해당사항 없음",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
+  },
+  "jobkorea_49158442": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "DBA",
+      "PostgreSQL",
+      "고급"
+    ],
+    "summary": "디지털엠엔씨의 PostgreSQL 전문 고급 DBA 포지션입니다.",
+    "reason": "고급 연차를 요구하는 전문 DBA 직무이므로, 신입/주니어 레벨의 프론트엔드 개발자 프로필로는 전혀 지원 불가능한 포지션입니다.",
+    "risk": "경력 요건(고급) 및 직무(DB 전문) 불일치",
+    "feature_project": "없음 (조건 미달)",
+    "learning_points": "고도화된 쿼리 튜닝 및 대규모 DB 인프라 관리 기술",
+    "motivation": "데이터베이스 최적화에 대한 관심 (확인 필요)",
+    "questions_to_ask": "채용 대상이 아니므로 생략",
+    "portfolio_link_point": "적절한 연계 포인트 없음",
+    "analyzed_at": "2026-05-13T23:16:13.986Z"
   }
 }
