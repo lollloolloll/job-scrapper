@@ -5817,5 +5817,75 @@
     "questions_to_ask": "실제로 사용 중인 프론트 프레임워크와 버전 / 프론트엔드 / 백엔드 업무 비중과 신입 온보딩 체계 / 관리자/운영툴 비중과 사용자 측 제품 비중 분배",
     "portfolio_link_point": "메인: 웹에이전시/MVP 스토리. 보조: 소상상점 / 쌍청문 공간대여 예약 시스템. 비공개 고객사 웹 프로젝트와 친구와 함께 준비 중인 MVP/에이전시 부업에서 랜딩·상담·퍼널을 다룬 경험로 자기소개 연결.",
     "analyzed_at": "2026-05-16T01:21:21.012Z"
+  },
+  "saramin_53904590": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "객실관리",
+      "호텔프런트"
+    ],
+    "summary": "호텔 객실관리 및 고객응대 데스크 직무.",
+    "reason": "단어만 프런트일 뿐 실제 개발 직무가 아닌 파나크 호텔 데스크 직무이므로 지원 대상이 아닙니다.",
+    "risk": "소프트웨어 개발과 완전히 무관함",
+    "feature_project": "해당 없음",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-05-16T23:06:16.402Z"
+  },
+  "jobkorea_49157411": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "웹기획",
+      "마케팅"
+    ],
+    "summary": "컴투스 그룹의 웹기획 및 마케팅 인턴 포지션.",
+    "reason": "웹기획 중심의 직무로 프론트엔드 개발 경험을 쌓기에는 방향이 다르지만, 기획 관련 커뮤니케이션 능력을 시험해볼 수는 있습니다.",
+    "risk": "실제 코드를 작성하는 개발 직무가 아닐 확률이 높음",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "게임 및 엔터테인먼트 산업의 도메인 지식",
+    "motivation": "기획과 개발 간의 간극을 이해하고 MVP를 설계했던 경험을 바탕으로 기획 과정의 실효성을 높이고 싶습니다.",
+    "questions_to_ask": "인턴십 기간 중 실제 프론트엔드 구현을 담당할 기회가 주어지는지 문의",
+    "portfolio_link_point": "다양한 요구사항을 조율하여 소상공인 웹을 기획하고 만들었던 에이전시 경험",
+    "analyzed_at": "2026-05-16T23:06:16.485Z"
+  },
+  "jobkorea_49031276": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "C#",
+      "LabVIEW",
+      "하드웨어제어"
+    ],
+    "summary": "C#과 LabVIEW를 활용하는 비전 및 하드웨어 장비 제어 개발 직무.",
+    "reason": "하이브비젼의 하드웨어 중심 시스템 개발 공고로, 주력인 Next.js 웹 프론트엔드 생태계와는 교집합이 없습니다.",
+    "risk": "완전한 이기종 스택 (C#, 머신비전)",
+    "feature_project": "해당 없음",
+    "learning_points": "임베디드 및 로우레벨 하드웨어 제어 지식",
+    "motivation": "해당 없음",
+    "questions_to_ask": "별도의 웹 기반 모니터링 시스템이나 사내 대시보드 개발 수요가 있는지 확인",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-05-16T23:06:16.485Z"
+  },
+  "jobkorea_49120595": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "C++",
+      "C",
+      "RAG"
+    ],
+    "summary": "다우기술의 포털 서비스 및 RAG 기반 AI 서비스 개발 인재 영입.",
+    "reason": "주력 스택인 TS 대신 C/C++를 요구하여 부적합해 보이지만, RAG 같은 AI 요소를 다룬다는 점에서 강점 어필이 가능할지 판단이 모호합니다. (확인 필요)",
+    "risk": "C/C++ 백엔드 및 시스템 개발에 치중될 가능성",
+    "feature_project": "AI-native workflow",
+    "learning_points": "C++ 환경의 엔터프라이즈 아키텍처 및 RAG 파이프라인 심화 구조",
+    "motivation": "AI 도구 활용력을 바탕으로 대규모 포털 시스템에 RAG 기술을 결합하는 실험적 시도에 기여하고자 합니다.",
+    "questions_to_ask": "웹 화면을 다루는 프론트엔드 비중이 어느 정도인지, AI 서비스 시연용 UI 개발 역할이 있는지 명시적 질문 필요",
+    "portfolio_link_point": "AI를 적극적으로 활용해 학습 장벽을 넘고 프로토타입을 구축해온 AI 네이티브 작업 방식",
+    "analyzed_at": "2026-05-16T23:06:16.485Z"
   }
 }
