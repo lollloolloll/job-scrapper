@@ -14,17 +14,19 @@
 
 ## 0. 동작 원칙 — 증분 분석
 
-이 루틴은 매일 도는 cron 작업이며 90개 공고를 매번 다시 분석하지 않는다.
+이 루틴은 매일 도는 cron 작업이며 모든 공고를 매번 다시 분석하지 않는다.
 
-1. `data/jobs.json`을 로드한다. 각 공고에는 `id`, `is_new`, `status`, `first_seen`, `last_seen` 필드가 있다.
+1. `data/jobs.json`을 로드한다. 각 공고에는 `id`, `is_new`, `is_deferred`, `status`, `first_seen`, `last_seen` 필드가 있다.
 2. `data/analysis.json`을 로드한다. 키는 `job.id`, 값은 분석 객체.
 3. **분석 대상**:
    - `status !== "expired"`인 active 공고 중,
-   - `analysis.json`에 `id`가 없는 공고 (= 신규 + 미분석)
+   - `is_new === true`이고 `analysis.json`에 `id`가 없는 공고 (= 신규 + 미분석)
    - 또는 사용자가 명시적으로 재분석을 요청한 공고
-4. 기존 `analysis.json` entry는 **삭제하지 말고 보존**한다.
-5. 분석 끝나면 `npm run generate:html`로 HTML을 빌드하고 `npm run validate:dashboard`로 검증한다.
-6. 검증 통과 시에만 commit/push.
+4. **`is_deferred === true`인 공고는 무시한다.** scraper가 일일 30개 cap 초과분을 다음 회차로 미룬 것 (다음날 자동 부활).
+5. **분석 대상은 항상 최대 30개로 보장됨** (scraper가 `NEW_CAP=30`으로 강제). 30개가 넘게 보이면 데이터 이상 → 작업 중단 후 `ANALYSIS_LOG.md`에 사유 기록.
+6. 기존 `analysis.json` entry는 **삭제하지 말고 보존**한다.
+7. 분석 끝나면 `npm run generate:html`로 HTML을 빌드하고 `npm run validate:dashboard`로 검증한다.
+8. 검증 통과 시에만 commit/push.
 
 ## 1. 사용자 지식 베이스 우선 읽기
 
@@ -98,6 +100,11 @@ context/personal-vault/12-radar/
 - "채용 공고의 세부 도메인 지식 파악"
 - 동일 문구를 3개 이상 카드에 사용 → `validate-dashboard.cjs`가 fail 처리
 
+**검증 우회 시도 금지**:
+- 같은 매크로 문장에 `(0)`, `(1)`, `(2)` 같은 인덱스 또는 임의 접미사를 붙여 중복 검출을 회피하지 말 것
+- 매크로 4개를 돌려쓰는 패턴도 금지 (3개 이하만 동일하면 합법이지만, 4개를 모든 카드에 순환 적용하면 카드별 차별화 의도 위반)
+- 회사명/직무명을 reason 안에 한 번 이상 직접 인용하면 자연스럽게 매크로 회피 가능
+
 대신 공고별로:
 - 관리자/운영툴 → 쌍청문 공간대여/키오스크 운영 경험
 - Next.js/SEO/서비스 웹 → 소상상점 경험
@@ -144,9 +151,19 @@ context/personal-vault/12-radar/
 
 ## 6. 기억해야 할 것
 
-- **이미 분석된 공고는 건드리지 마라.** 매일 5~15개 신규만 추가한다.
+- **이미 분석된 공고는 건드리지 마라.** 매일 평균 5~15개, 최대 30개 신규만 분석한다.
 - generate_html.cjs는 `analysis.json`을 우선 사용하고, 없는 공고는 keyword-rule fallback으로 처리하므로 모든 공고가 카드로 렌더된다.
 - HTML 빌드는 `npm run generate:html` 하나로 끝난다 — 직접 HTML을 작성하지 마라.
 - validate-dashboard.cjs가 통과 못하면 push하지 마라.
+
+### 사이트별 description 풍부도 차이
+- **잡코리아**: 평균 2700자+ — 모집요강/스킬/복지까지 풍부. 본문 인용 적극 활용.
+- **원티드**: 평균 2500자+ — intro/업무/요건/우대/혜택 구조화됨. 본문 인용 활용.
+- **사람인**: 평균 1000자 — 모바일 사이트 메타(접수/전형/기업정보/인담자 톡/근무지/관련태그) 위주. 본문 자체는 이미지 업로드라 텍스트로 못 받음. 따라서 사람인 카드는 `stack` 필드 + 회사 정보로 분석하고, "원본 확인 필요"를 questions_to_ask에 자주 넣어도 OK.
+
+### 분석 우선순위 힌트 (cap 30 적용된 신규 list)
+- scraper가 이미 사용자 매칭도로 priority 정렬된 상위 30개를 전달함
+- 즉 `is_new=true` 리스트의 머리쪽이 더 적합한 공고일 가능성 큼
+- 단, priority는 keyword-rule이라 완벽하지 않으므로 LLM 추론을 우선시할 것
 
 커밋 메시지: `chore: AI 분석 결과 업데이트 YYYY-MM-DD`

@@ -14,6 +14,7 @@ const SCRAPERS = [
 // lifecycle 정책
 const EXPIRE_DAYS = 7;   // 마지막 수신 후 7일 경과 → status=expired (대시보드 비표시)
 const PURGE_DAYS = 14;   // 마지막 수신 후 14일 경과 → jobs.json에서 삭제
+const NEW_CAP = 30;      // 하루에 LLM이 분석할 is_new 최대치. 초과분은 is_deferred로 다음날 부활
 
 async function runOne(name, scraper, browser) {
   const started = Date.now();
@@ -131,11 +132,57 @@ function mergeJobs(existing, fresh, nowIso) {
   };
 }
 
+// LLM 호출 전 빠른 priority — 사용자 핵심 키워드 + 회피 키워드로 정렬.
+// cap 초과 시 상위 priority만 is_new로 두고 나머지 defer.
+function priorityScore(job) {
+  const text = `${job.title || ""} ${job.stack || ""} ${job.description || ""}`.toLowerCase();
+  let s = 0;
+  if (/next\.?js|nextjs/.test(text)) s += 3;
+  if (/\breact\b|리액트/.test(text)) s += 2;
+  if (/typescript|타입스크립트/.test(text)) s += 1.5;
+  if (/프론트엔드|frontend|front-end|fe\s*개발/.test(text)) s += 2;
+  if (/신입|주니어|채용\s*전환|인턴|경력\s*무관/.test(text)) s += 2;
+  if (/예약|대여|관리자|커머스|상점|소상공인|스타트업|mvp|에이전시/.test(text)) s += 1;
+  if (/storybook|vercel|supabase|tailwind/.test(text)) s += 0.5;
+  // 부정
+  if (/시니어|리드|팀장|principal|senior/.test(text)) s -= 3;
+  if (/경력\s*[3-9]년|[3-9]년\s*이상/.test(text)) s -= 2;
+  if (/퍼블리셔|퍼블리싱/.test(text)) s -= 2;
+  if (/react\s*native\s*(개발자|단독|전담)/.test(text)) s -= 1.5;
+  if (/java\/spring|\bjsp\b|\basp\b/.test(text)) s -= 1;
+  if (/임베디드|c\+\+|firmware/.test(text)) s -= 2;
+  return s;
+}
+
+// 어제까지 deferred였던 공고를 오늘 is_new로 부활시키고,
+// 합쳐서 30 초과 시 priority 상위만 유지.
+function applyNewCap(jobs, cap, nowIso) {
+  // 1단계: deferred 부활 (어제 못 본 신규 공고들 복귀)
+  for (const j of jobs) {
+    if (j.is_deferred) {
+      j.is_new = true;
+      j.is_deferred = false;
+    }
+  }
+  // 2단계: is_new 합쳐서 cap 초과 검사
+  const newList = jobs.filter((j) => j.is_new);
+  if (newList.length <= cap) return { capped: 0, deferred: 0 };
+
+  newList.sort((a, b) => priorityScore(b) - priorityScore(a));
+  const overflow = newList.slice(cap);
+  for (const j of overflow) {
+    j.is_new = false;
+    j.is_deferred = true;
+  }
+  return { capped: cap, deferred: overflow.length };
+}
+
 function summarize(jobs) {
-  const counts = { active: 0, expired: 0, new: 0, total: jobs.length };
+  const counts = { active: 0, expired: 0, new: 0, deferred: 0, total: jobs.length };
   const bySource = {};
   for (const j of jobs) {
     if (j.is_new) counts.new += 1;
+    if (j.is_deferred) counts.deferred += 1;
     if (j.status === "expired") counts.expired += 1;
     else counts.active += 1;
     bySource[j.source] = (bySource[j.source] || 0) + 1;
@@ -163,6 +210,7 @@ async function main() {
   console.log(`Fresh scrape: ${fresh.length} (after intra-run dedup)`);
 
   const { merged, seenCount, removedCount } = mergeJobs(existing, fresh, nowIso);
+  const capResult = applyNewCap(merged, NEW_CAP, nowIso);
   const { counts, bySource } = summarize(merged);
 
   await fs.writeFile(
@@ -197,8 +245,13 @@ async function main() {
   }
 
   console.log(
-    `Saved ${merged.length} jobs (active=${counts.active}, expired=${counts.expired}, new_today=${counts.new}, purged=${removedCount}) to ${OUTPUT_PATHS.jobsJson}`,
+    `Saved ${merged.length} jobs (active=${counts.active}, expired=${counts.expired}, new_today=${counts.new}, deferred=${counts.deferred}, purged=${removedCount}) to ${OUTPUT_PATHS.jobsJson}`,
   );
+  if (capResult.deferred > 0) {
+    console.log(
+      `⚠️  NEW_CAP=${NEW_CAP} 초과로 ${capResult.deferred}건 is_deferred 처리 (다음 회차에 priority 순으로 부활)`,
+    );
+  }
   console.log("by source:", bySource);
 }
 
