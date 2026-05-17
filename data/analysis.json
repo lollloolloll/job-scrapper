@@ -5887,5 +5887,61 @@
     "questions_to_ask": "웹 화면을 다루는 프론트엔드 비중이 어느 정도인지, AI 서비스 시연용 UI 개발 역할이 있는지 명시적 질문 필요",
     "portfolio_link_point": "AI를 적극적으로 활용해 학습 장벽을 넘고 프로토타입을 구축해온 AI 네이티브 작업 방식",
     "analyzed_at": "2026-05-16T23:06:16.485Z"
+  },
+  "saramin_53912125": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "HTML",
+      "CSS",
+      "jQuery",
+      "Javascript"
+    ],
+    "summary": "(주)세움웹의 신입 웹퍼블리셔 포지션이나 제이쿼리 중심.",
+    "reason": "(주)세움웹은 제이쿼리와 퍼블리싱 위주의 업무로 보여 모던 리액트나 넥스트제이에스 생태계로 성장하려는 방향성과 거리가 있습니다.",
+    "risk": "모던 프론트엔드 프레임워크 사용 경험 부족 우려",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "퍼블리싱 속도 및 제이쿼리 레거시 코드 파악",
+    "motivation": "웹사이트 화면 구현 및 기본 퍼블리싱 역량 기여",
+    "questions_to_ask": "리액트 등 모던 스택 도입 계획이 있는지 여부",
+    "portfolio_link_point": "비공개 고객사 웹 프로젝트 경험",
+    "analyzed_at": "2026-05-17T23:29:26.836Z"
+  },
+  "jobkorea_49172725": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "정보보안",
+      "백엔드",
+      "프론트엔드"
+    ],
+    "summary": "㈜윈스테크넷의 정규직 채용이 아닌 보안 교육생 모집 공고.",
+    "reason": "㈜윈스테크넷 공고는 정규직 프론트엔드 직무가 아니라 부산 지역 클라우드 보안 스쿨 교육생 모집이므로 현재 구직 목표와 전혀 맞지 않습니다.",
+    "risk": "정규직 채용이 아님",
+    "feature_project": "소상상점",
+    "learning_points": "보안 및 클라우드 인프라 기초 지식",
+    "motivation": "클라우드 보안 관련 학습 의지",
+    "questions_to_ask": "교육 수료 후 정규직 프론트엔드 개발자 전환 비율",
+    "portfolio_link_point": "AI-native workflow 관련 경험",
+    "analyzed_at": "2026-05-17T23:29:26.836Z"
+  },
+  "jobkorea_49115172": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "정보보안",
+      "C++",
+      "Python",
+      "시스템"
+    ],
+    "summary": "㈜모니터랩의 보안 솔루션 관련 엔진 및 에이전트 개발자 중심 채용.",
+    "reason": "㈜모니터랩은 ZTNA, AIEDR 등 보안 시스템 에이전트 개발 위주로 채용 중이며, 주력인 프론트엔드 직무와 부합하는 포지션이 명확하지 않습니다.",
+    "risk": "웹 프론트엔드 전문 포지션이 아닐 가능성 높음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "에이전트 개발 및 보안 솔루션 도메인 지식",
+    "motivation": "보안 솔루션 분야의 시스템적 이해도 향상",
+    "questions_to_ask": "프론트엔드 전담 인력 채용 티오 및 주요 업무 비중",
+    "portfolio_link_point": "쌍청문 키오스크 운영 경험",
+    "analyzed_at": "2026-05-17T23:29:26.836Z"
   }
 }
