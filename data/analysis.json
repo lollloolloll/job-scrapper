@@ -6361,5 +6361,255 @@
     "questions_to_ask": "프론트엔드 업무의 전체 개발 프로세스 내 비중과 권한.",
     "portfolio_link_point": "AI workflow",
     "analyzed_at": "2026-05-18T23:14:44.079Z"
+  },
+  "wanted_362833": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "플랭의 소프트웨어 엔지니어 (주니어) 직무는 나의 강점인 프론트엔드 역량과 시너지가 날 수 있습니다.",
+    "reason": "플랭에서 요구하는 역량은 내가 웹에이전시 MVP에서 경험한 바와 일부 겹치지만 추가로 프론트엔드 비중 확인이 필요합니다.",
+    "risk": "경력 요건이나 프론트엔드 전문성에 대한 구체적 명시가 부족할 수 있음.",
+    "feature_project": "소상상점",
+    "learning_points": "해당 도메인의 특화된 인프라 및 운영 지식 파악 필요 (플랭)",
+    "motivation": "플랭의 비즈니스 모델이 해결하려는 문제에 깊은 공감을 느낌.",
+    "questions_to_ask": "프론트엔드 업무의 구체적인 비중은 어떻게 되나요?",
+    "portfolio_link_point": "AI workflow의 아키텍처 개선 경험 어필",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_362737": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "노타(Nota)의 [인턴] [Solution] AI Software Engineer (전환형) 직무는 나의 강점인 프론트엔드 역량과 시너지가 날 수 있습니다.",
+    "reason": "노타(Nota)에서 요구하는 역량은 내가 소상상점에서 경험한 바와 일부 겹치지만 추가로 프론트엔드 비중 확인이 필요합니다.",
+    "risk": "경력 요건이나 프론트엔드 전문성에 대한 구체적 명시가 부족할 수 있음.",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인의 특화된 인프라 및 운영 지식 파악 필요 (노타(Nota))",
+    "motivation": "노타(Nota)의 비즈니스 모델이 해결하려는 문제에 깊은 공감을 느낌.",
+    "questions_to_ask": "프론트엔드 업무의 구체적인 비중은 어떻게 되나요?",
+    "portfolio_link_point": "소상상점의 아키텍처 개선 경험 어필",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_362457": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "네티의 AI 풀스택 PO 직무는 나의 강점인 프론트엔드 역량과 시너지가 날 수 있습니다.",
+    "reason": "네티에서 요구하는 역량은 내가 웹에이전시 MVP에서 경험한 바와 일부 겹치지만 추가로 프론트엔드 비중 확인이 필요합니다.",
+    "risk": "경력 요건이나 프론트엔드 전문성에 대한 구체적 명시가 부족할 수 있음.",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "해당 도메인의 특화된 인프라 및 운영 지식 파악 필요 (네티)",
+    "motivation": "네티의 비즈니스 모델이 해결하려는 문제에 깊은 공감을 느낌.",
+    "questions_to_ask": "프론트엔드 업무의 구체적인 비중은 어떻게 되나요?",
+    "portfolio_link_point": "쌍청문 키오스크의 아키텍처 개선 경험 어필",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "jobkorea_49176029": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "㈜제이니스의 ㈜제이니스 에이전트 개발자 모집 직무는 나의 강점인 프론트엔드 역량과 시너지가 날 수 있습니다.",
+    "reason": "㈜제이니스에서 요구하는 역량은 내가 쌍청문 키오스크에서 경험한 바와 일부 겹치지만 추가로 프론트엔드 비중 확인이 필요합니다.",
+    "risk": "경력 요건이나 프론트엔드 전문성에 대한 구체적 명시가 부족할 수 있음.",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "해당 도메인의 특화된 인프라 및 운영 지식 파악 필요 (㈜제이니스)",
+    "motivation": "㈜제이니스의 비즈니스 모델이 해결하려는 문제에 깊은 공감을 느낌.",
+    "questions_to_ask": "프론트엔드 업무의 구체적인 비중은 어떻게 되나요?",
+    "portfolio_link_point": "소상상점의 아키텍처 개선 경험 어필",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "jobkorea_49202192": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "중소벤처기업진흥공단의 다온플레이스 주식회사 웹 개발자 채용(인터뷰 비용 지급) 직무는 나의 강점인 프론트엔드 역량과 시너지가 날 수 있습니다.",
+    "reason": "중소벤처기업진흥공단에서 요구하는 역량은 내가 쌍청문 키오스크에서 경험한 바와 일부 겹치지만 추가로 프론트엔드 비중 확인이 필요합니다.",
+    "risk": "경력 요건이나 프론트엔드 전문성에 대한 구체적 명시가 부족할 수 있음.",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "해당 도메인의 특화된 인프라 및 운영 지식 파악 필요 (중소벤처기업진흥공단)",
+    "motivation": "중소벤처기업진흥공단의 비즈니스 모델이 해결하려는 문제에 깊은 공감을 느낌.",
+    "questions_to_ask": "프론트엔드 업무의 구체적인 비중은 어떻게 되나요?",
+    "portfolio_link_point": "소상상점의 아키텍처 개선 경험 어필",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_362850": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "제논의 [인공지능솔루션] Product Operation Eng'r 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: [인공지능솔루션] Product Operation Eng'r)",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_362826": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "아마존(Amazon)의 Associate Solutions Architect - Startup CSC, APJ SUP CSC SA 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: Associate Solutions Architect - Startup CSC, APJ SUP CSC SA)",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_362772": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "유에스소프트의 RFID 주니어 개발자 (3년 이하) 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: RFID 주니어 개발자 (3년 이하))",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_362611": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "몰큐브의 DevOps 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: DevOps)",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_312743": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "원티드랩의 데이터 사이언티스트 인턴 [AI기술팀] 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: 데이터 사이언티스트 인턴 [AI기술팀])",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_362641": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "모티프드라이브의 학습데이터 인프라 및 파이프라인 개발자 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: 학습데이터 인프라 및 파이프라인 개발자)",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_362331": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "엔타시스의 반도체 설계용 소프트웨어 개발 연구원 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: 반도체 설계용 소프트웨어 개발 연구원)",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_355361": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "퓨쳐스콜레의 [인턴] Infra & Data Engineer 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: [인턴] Infra & Data Engineer)",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_352776": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "파트리지시스템즈의 DevOps Engineer (~5년) 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: DevOps Engineer (~5년))",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
+  },
+  "wanted_291584": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "N/A"
+    ],
+    "summary": "데이블(Dable)의 [야놀자 계열사]Jr. ML Engineer(전문연구요원) 직무는 프론트엔드 개발 포지션과 무관하므로 지원 대상이 아닙니다.",
+    "reason": "비개발 또는 다른 도메인 직무이므로 현재 나의 커리어 전략과 맞지 않음. (직무: [야놀자 계열사]Jr. ML Engineer(전문연구요원))",
+    "risk": "지원 분야 불일치.",
+    "feature_project": "해당 없음",
+    "learning_points": "직무 불일치로 학습 포인트 생략",
+    "motivation": "지원 동기 없음",
+    "questions_to_ask": "해당 사항 없음",
+    "portfolio_link_point": "해당 사항 없음",
+    "analyzed_at": "2026-05-19T23:21:10.629Z"
   }
 }
