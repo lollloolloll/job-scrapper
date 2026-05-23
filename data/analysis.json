@@ -7585,5 +7585,41 @@
     "questions_to_ask": "게임 플랫폼 내 웹 서비스인지 사내 어드민인지, 그리고 React/Next.js 도입 여부 확인 필요.",
     "portfolio_link_point": "소상상점 프로젝트에서 사용자 유입과 SEO 최적화를 담당한 프론트엔드 역량 강조",
     "analyzed_at": "2026-05-22T23:07:50.044Z"
+  },
+  "jobkorea_49159948": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "API",
+      "AWS",
+      "백엔드"
+    ],
+    "summary": "파슬파슬 백엔드 개발자 공고는 AI 자동화 도메인이지만 백엔드에 집중됨.",
+    "reason": "AI 기반 문서 업무 자동화라는 도메인은 흥미로우나, API 및 AWS 중심의 백엔드 포지션이므로 React 기반의 프론트엔드 성장에 적합하지 않습니다.",
+    "risk": "백엔드 중심 채용으로 프론트엔드 기여도가 낮음",
+    "feature_project": "AI-native workflow",
+    "learning_points": "AI SaaS 아키텍처 및 서버 인프라 (학습 대상 아님)",
+    "motivation": "AI 도구 활용 경험을 바탕으로 자동화 서비스에 기여",
+    "questions_to_ask": "프론트엔드 업무를 병행할 수 있는지 프론트 비중 확인 필요.",
+    "portfolio_link_point": "AI를 활용한 파이프라인 자동화 경험 일부 어필",
+    "analyzed_at": "2026-05-23T23:18:39.831Z"
+  },
+  "jobkorea_49236249": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "하드웨어",
+      "펌웨어",
+      "임베디드"
+    ],
+    "summary": "㈜너드바나 하드웨어/펌웨어 엔지니어 공고로 웹 개발과 무관함.",
+    "reason": "하드웨어 및 펌웨어 개발을 담당하는 포지션이므로, Next.js와 React 기반의 소프트웨어 프론트엔드 지향점과 전혀 맞지 않습니다.",
+    "risk": "웹 프론트엔드 역량 발전이 불가능한 산업군",
+    "feature_project": "쌍청문 키오스크 (일부 제어)",
+    "learning_points": "회로 설계 및 펌웨어 프로그래밍 (해당 없음)",
+    "motivation": "해당 없음",
+    "questions_to_ask": "웹 서비스 관련 포지션 여부 확인 (불필요).",
+    "portfolio_link_point": "하드웨어 제어 관련 경험이 부족하여 어필하기 어려움",
+    "analyzed_at": "2026-05-23T23:18:39.831Z"
   }
 }
