@@ -8125,5 +8125,252 @@
     "questions_to_ask": "해당 없음",
     "portfolio_link_point": "해당 없음",
     "analyzed_at": "2026-05-26T23:20:26.560Z"
+  },
+  "saramin_54003437": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "풀스택",
+      "프론트엔드",
+      "백엔드"
+    ],
+    "summary": "모두닥의 풀스택 인턴 공고. 신입 채용으로 웹 서비스 운영 경험 어필.",
+    "reason": "예약 및 컨텐츠 제공 도메인은 쌍청문 공간대여 시스템 구축 경험과 맞닿아 있어 풀스택 역량을 증명하기 좋습니다.",
+    "risk": "정확한 프론트/백 비중 및 기술 스택 확인 필요",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "의료/건강 도메인 관련 비즈니스 로직 이해",
+    "motivation": "플랫폼 사용자의 예약과 정보 탐색을 돕는 과정에 기여하고자 합니다.",
+    "questions_to_ask": "원본 확인 필요 - 구체적인 기술 스택 및 채용 전환율",
+    "portfolio_link_point": "공간대여 시스템의 예약 관리 기능 구현 스토리",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_361151": {
+    "fit_score": 6,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "마케팅",
+      "AI 자동화",
+      "엔지니어"
+    ],
+    "summary": "와우바이오텍의 AI 마케팅 자동화 포지션. 마케팅 솔루션 구축 관련.",
+    "reason": "AI 네이티브 워크플로우를 구성해 본 경험이 마케팅 자동화 로직과 시너지를 낼 수 있습니다.",
+    "risk": "마케팅 도메인 특유의 KPI 관리 및 바이오텍 산업 적응",
+    "feature_project": "AI-native workflow",
+    "learning_points": "마케팅 자동화 툴의 세부 스펙 및 연동",
+    "motivation": "반복되는 마케팅 업무를 AI와 자동화 파이프라인으로 혁신하는 데 관심이 많습니다.",
+    "questions_to_ask": "주로 다루게 될 마케팅 자동화 툴과 내재화된 시스템의 비율",
+    "portfolio_link_point": "AI를 활용한 업무 자동화 및 워크플로우 효율화 경험",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364164": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "백엔드",
+      "서버개발",
+      "주니어"
+    ],
+    "summary": "테서의 1~4년차 백엔드 엔지니어 공고. 투명성과 소통을 중시하는 팀 문화.",
+    "reason": "프론트엔드 역량이 주로 돋보이나, 풀스택 경험을 바탕으로 백엔드 파트에 기여할 수 있는지 검토가 필요합니다.",
+    "risk": "순수 백엔드 직무로 프론트엔드 개발 비중이 적을 수 있음",
+    "feature_project": "확인 필요",
+    "learning_points": "대규모 트래픽 처리 및 백엔드 아키텍처 고도화",
+    "motivation": "오버 커뮤니케이션을 지향하는 팀에서 안정적인 서버 사이드를 구축해보고 싶습니다.",
+    "questions_to_ask": "프론트엔드/백엔드 업무 비율과 주력 서버 프레임워크",
+    "portfolio_link_point": "스타트업에서 MVP 백엔드까지 직접 구축해본 경험",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364433": {
+    "fit_score": 8,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "Web"
+    ],
+    "summary": "세나클의 병역특례 프론트엔드 개발 포지션. 의료 관련 웹 애플리케이션 개발 예상.",
+    "reason": "신입/주니어 레벨의 웹 프론트엔드 포지션으로, 사용자 맞춤형 UI/UX를 개발한 이력이 강점으로 작용할 것입니다.",
+    "risk": "병역특례 관련 행정 절차 및 조건 부합 여부(해당 시)",
+    "feature_project": "소상상점",
+    "learning_points": "의료 데이터 보안 및 복잡한 도메인 요구사항 대응",
+    "motivation": "직관적이고 접근성이 높은 웹 인터페이스를 통해 복잡한 데이터를 쉽게 풀어내고 싶습니다.",
+    "questions_to_ask": "주요 프론트엔드 스택(React, Next.js 등) 및 코드 리뷰 문화",
+    "portfolio_link_point": "SEO 최적화 및 렌더링 성능을 개선한 Next.js 프로젝트 경험",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_350785": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AI",
+      "엔지니어"
+    ],
+    "summary": "마리나체인의 AI 엔지니어 공고. 웹 개발보다는 인공지능 모델링 중심.",
+    "reason": "웹 프론트엔드/풀스택 중심의 커리어 패스와 방향성이 많이 달라 지원 메리트가 낮습니다.",
+    "risk": "비개발 또는 AI 연구 중심 직무일 가능성 높음",
+    "feature_project": "확인 필요",
+    "learning_points": "머신러닝 파이프라인 및 데이터 사이언스 전문 지식",
+    "motivation": "확인 필요",
+    "questions_to_ask": "AI 모델 서빙 외에 웹 애플리케이션 개발 비중",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_350077": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Product",
+      "Engineer",
+      "인턴"
+    ],
+    "summary": "넥스트챕터의 Product Engineer 인턴 공고. 커머스/브랜드 비즈니스 관련 프로덕트 개발.",
+    "reason": "이커머스와 운영툴 개선을 진행해 본 경험이 커머스 애그리게이터의 프로덕트 엔지니어 역할과 일치합니다.",
+    "risk": "인턴십 이후 정규직 전환율 확인 필요",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "다양한 브랜드의 데이터를 통합하고 분석하는 프로덕트 구조",
+    "motivation": "오프라인/온라인 커머스 문제를 해결해 본 경험을 바탕으로 브랜드 스케일업에 기여하고 싶습니다.",
+    "questions_to_ask": "프로덕트 엔지니어로서 주로 참여하는 프로덕트의 성격(내부 운영툴 vs 고객용)",
+    "portfolio_link_point": "사용자 편의성을 높이기 위한 관리자 페이지 구축 및 키오스크 개선 사례",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364357": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "데이터",
+      "마이그레이션",
+      "주니어"
+    ],
+    "summary": "벳칭의 데이터 마이그레이션 엔지니어 신입 공고. 동물병원 솔루션 데이터 전환 업무.",
+    "reason": "데이터 처리에 집중된 직무로 보이며, 서비스 개발 위주의 포트폴리오와는 다소 거리가 있습니다.",
+    "risk": "순수 데이터 이전 및 스크립팅 위주의 업무일 가능성",
+    "feature_project": "확인 필요",
+    "learning_points": "레거시 데이터베이스 구조 분석 및 무결성 검증",
+    "motivation": "복잡한 기존 데이터를 안정적으로 새로운 시스템에 이관하는 데 도전하고 싶습니다.",
+    "questions_to_ask": "마이그레이션 외에 신규 피처 및 웹 서비스 개발 참여 가능 여부",
+    "portfolio_link_point": "데이터 구조 설계 및 기존 시스템 개편 경험",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364411": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "계약직",
+      "AI 교육"
+    ],
+    "summary": "딩코의 프론트엔드 개발자 공고. AI 네이티브 개발자 교육 관련 플랫폼 개발.",
+    "reason": "AI 워크플로우에 대한 이해도와 프론트엔드 구현 능력이 결합되어 해당 교육 서비스 개발에 큰 시너지가 납니다.",
+    "risk": "계약직 형태에 대한 고용 안정성 판단 필요",
+    "feature_project": "AI-native workflow",
+    "learning_points": "교육용 LMS 시스템 및 에듀테크 특화 기능",
+    "motivation": "AI 도구의 가능성을 극대화하는 교육 플랫폼의 사용자 경험을 설계하고 싶습니다.",
+    "questions_to_ask": "계약 기간 종료 후 연장 또는 정규직 전환 가능성",
+    "portfolio_link_point": "AI를 활용해 개발 생산성을 높인 프로젝트 및 최신 기술 적용 경험",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364367": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "백엔드",
+      "신입"
+    ],
+    "summary": "제너러티브랩의 신입 백엔드 엔지니어 공고. 자생적 성장 중인 B2B 솔루션 기업.",
+    "reason": "백엔드 전담 신입 포지션이므로, 프론트엔드 강점이 두드러지는 지원자의 방향성과 불일치합니다.",
+    "risk": "프론트엔드 개발 기회가 전무할 수 있음",
+    "feature_project": "확인 필요",
+    "learning_points": "B2B SaaS 백엔드 아키텍처 및 대용량 트래픽 처리",
+    "motivation": "확인 필요",
+    "questions_to_ask": "조직 내 프론트엔드와 백엔드의 역할 분리 수준",
+    "portfolio_link_point": "MVP 백엔드 경험 일부 강조",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364408": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Vision AI",
+      "의료",
+      "R&D"
+    ],
+    "summary": "아이넥스코퍼레이션의 Medical Vision AI Engineer 공고. 의료 영상 AI 연구 개발.",
+    "reason": "Vision AI 연구 개발 직무는 웹 애플리케이션 개발 경험과 완전히 다른 도메인입니다.",
+    "risk": "연구 위주 R&D 포지션으로 서비스 개발과 무관함",
+    "feature_project": "확인 필요",
+    "learning_points": "의료 영상 처리 알고리즘 및 딥러닝 기술",
+    "motivation": "확인 필요",
+    "questions_to_ask": "비전 AI 외에 제품화를 위한 프론트엔드 개발 조직 유무",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364358": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "소프트웨어",
+      "인턴",
+      "하드웨어"
+    ],
+    "summary": "마바산업의 소프트웨어 담당자 인턴. 하드웨어와 연계된 소프트웨어 부문 담당.",
+    "reason": "하드웨어 연계 소프트웨어 직군은 일반적인 웹 서비스 개발 생태계와 상이할 확률이 높습니다.",
+    "risk": "제어 소프트웨어 또는 임베디드 성격일 가능성",
+    "feature_project": "확인 필요",
+    "learning_points": "하드웨어 제어 및 통신 프로토콜",
+    "motivation": "확인 필요",
+    "questions_to_ask": "구체적으로 담당하는 소프트웨어(웹인지 임베디드인지) 분야",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364365": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "머신러닝",
+      "의료영상",
+      "딥러닝"
+    ],
+    "summary": "모니터코퍼레이션의 AI 의료영상 머신러닝/딥러닝 엔지니어 포지션.",
+    "reason": "딥러닝 알고리즘 개발을 요구하는 딥테크 직군으로 웹 프론트엔드 개발과 무관합니다.",
+    "risk": "순수 AI 모델링 직무",
+    "feature_project": "확인 필요",
+    "learning_points": "AI 모델 훈련 및 최적화",
+    "motivation": "확인 필요",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_364190": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "QA"
+    ],
+    "summary": "널리소프트의 QA 담당자 신입/주니어 포지션. 세금 관련 서비스 품질 보증.",
+    "reason": "소프트웨어 개발이 아닌 테스트 및 품질 관리에 초점이 맞춰진 비개발 직군입니다.",
+    "risk": "코드 레벨의 서비스 개발 기회가 주어지지 않음",
+    "feature_project": "확인 필요",
+    "learning_points": "QA 자동화 및 테스트 시나리오 작성",
+    "motivation": "확인 필요",
+    "questions_to_ask": "QA 자동화 과정에서 개발 스크립트 작성 여부",
+    "portfolio_link_point": "QA 성격의 기능 테스트 및 최적화 경험 일부",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "wanted_356485": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "AI",
+      "Product Builder",
+      "인턴"
+    ],
+    "summary": "어베어의 AI Product Builder 인턴십. 빠른 실행력으로 AI 제품을 만드는 역할.",
+    "reason": "MVP를 신속하게 구현해본 웹 에이전시 경험이 초기 프로덕트를 설계하고 빌드하는 역할에 완벽하게 부합합니다.",
+    "risk": "초기 단계 프로덕트 구축의 불확실성과 빠른 호흡",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "빠른 가설 검증 및 고객 피드백 루프 구축",
+    "motivation": "가설을 세우고 가장 빠르게 동작하는 MVP를 만들어 시장의 반응을 확인하는 것을 즐깁니다.",
+    "questions_to_ask": "인턴으로서 책임지게 될 프로덕트의 범위 및 초기 아이디에이션 참여율",
+    "portfolio_link_point": "고객 요구사항을 반영해 빠르게 랜딩 페이지와 MVP를 출시한 웹 에이전시 프로젝트",
+    "analyzed_at": "2026-05-27T23:07:49.928824Z"
   }
 }
