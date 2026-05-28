@@ -8372,5 +8372,319 @@
     "questions_to_ask": "인턴으로서 책임지게 될 프로덕트의 범위 및 초기 아이디에이션 참여율",
     "portfolio_link_point": "고객 요구사항을 반영해 빠르게 랜딩 페이지와 MVP를 출시한 웹 에이전시 프로젝트",
     "analyzed_at": "2026-05-27T23:07:49.928824Z"
+  },
+  "saramin_53956368": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "AI",
+      "LLM",
+      "Planning"
+    ],
+    "summary": "커머스 플랫폼 운영에 필요한 서비스 기획 및 PM 역량을 발휘할 수 있는 포지션.",
+    "reason": "비단팝팝 커머스 서비스 기획자 포지션은 소상상점 프로젝트에서 사용자 및 그룹 상점 UI 기획과 개발을 이끌었던 경험이 주효하게 작용할 것입니다.",
+    "risk": "공고(주식회사 비단팝팝) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "쌍청문 공간대여 시스템",
+    "learning_points": "커머스 도메인 내 대규모 결제 및 주문 처리 흐름 파악.",
+    "motivation": "주식회사 비단팝팝의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "비단팝팝 커머스 서비스 기획자(PM/PO)신입 채용 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "사용자 화면과 관리자 상태 불일치 해결 과정",
+    "analyzed_at": "2026-05-28T23:24:47.796Z"
+  },
+  "saramin_53570554": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "캐시워크 서비스의 모바일 환경에 대한 기술적 이해와 백엔드 연동을 시험해볼 기회.",
+    "reason": "넛지헬스케어의 캐시워크 인턴은 iOS 중심이지만, 쌍청문 예약 시스템과 같은 웹 기반 관리자 기능을 구축해본 경험을 통해 백엔드 연동을 원활히 지원할 수 있습니다.",
+    "risk": "공고(넛지헬스케어(주)) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "소상상점",
+    "learning_points": "iOS 환경 및 Flutter 플랫폼에 대한 기초적인 기술 이해.",
+    "motivation": "넛지헬스케어(주)의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "[캐시워크] iOS개발 채용전환형 인턴 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 기반 MVP 시스템 초기 구축 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "wanted_364873": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "General IT"
+    ],
+    "summary": "글로벌 언어 데이터 처리 인프라 구축과 파이프라인 최적화에 기여할 수 있는 직무.",
+    "reason": "플리토 데이터 엔지니어 포지션은 데이터 분석에 집중하지만, 웹에이전시 MVP 과정에서 쌓은 다양한 API 클라이언트 구조 분리 경험을 어필해 기여할 부분을 찾을 수 있습니다.",
+    "risk": "공고(플리토) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "대규모 데이터 파이프라인 및 데이터 웨어하우스 설계 패턴 학습.",
+    "motivation": "플리토의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "Data Engineer (2년 이상) 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 기반 MVP 시스템 초기 구축 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "wanted_364403": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "의약품 제조 공정 데이터를 AI로 분석하여 직관적인 프론트엔드 화면으로 구현하는 업무.",
+    "reason": "알케의 프론트엔드 포지션은 의약품 CMC 자동화 AI를 다루는 만큼, AI-native workflow에 적응했던 문제 해결 과정과 React/Next.js 스택을 활용하기에 좋은 기회입니다.",
+    "risk": "공고(알케) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "소상상점",
+    "learning_points": "의약품 제제 공정 등 비IT 전문 도메인의 지식 습득.",
+    "motivation": "알케의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "프론트엔드 개발 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 템플릿 및 재사용 컴포넌트 설계 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "wanted_364410": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Python",
+      "SQL",
+      "Data"
+    ],
+    "summary": "화학 도메인 지식을 바탕으로 AI 모델 학습 데이터를 표준화하고 전처리하는 신입 역할.",
+    "reason": "알케의 화학 도메인 데이터 엔지니어는 도메인 지식이 요구되지만, 복잡한 정책을 Supabase DB 제약조건과 프론트엔드로 풀어냈던 역량을 바탕으로 적응이 가능합니다.",
+    "risk": "공고(알케) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "방 예약 시스템",
+    "learning_points": "AI 모델 학습을 위한 데이터 전처리 및 분류 체계 학습.",
+    "motivation": "알케의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "화학 도메인 데이터 엔지니어 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Supabase 제약조건과 데이터 불일치 해결 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "wanted_364829": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "AI 시대에 걸맞은 개발자를 육성하기 위해 HTML/CSS, React 기초 교육을 전담하는 강사직.",
+    "reason": "딩코 프론트엔드 개발자(강사/교육) 역할은 Storybook으로 컴포넌트를 문서화하고 교육/소통을 중시했던 경험이 시너지를 낼 수 있는 포지션입니다.",
+    "risk": "공고(딩코) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "소상상점",
+    "learning_points": "비개발 직군 또는 초보자를 위한 효과적인 교육 커리큘럼 구성.",
+    "motivation": "딩코의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "프론트엔드 개발자 (강사/교육) 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 템플릿 및 재사용 컴포넌트 설계 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "wanted_364805": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "General IT"
+    ],
+    "summary": "모빌리티 서비스 플릿 운영 시스템을 관리하며 안정적인 IT 운영 경험을 쌓을 수 있는 자리.",
+    "reason": "유모스원 IT Operations 담당자는 자율주행 모빌리티 통합 플랫폼을 운영하므로, Docker 기반 로컬 인프라 문제와 DB 볼륨 초기화를 디버깅한 실무 경험이 도움이 됩니다.",
+    "risk": "공고(유모스원) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "쌍청문 공간대여 시스템",
+    "learning_points": "모빌리티 인프라 관제 시스템의 안정성 및 모니터링 방식 이해.",
+    "motivation": "유모스원의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "IT Operations 담당자 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 기반 MVP 시스템 초기 구축 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "wanted_364766": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "AWS",
+      "Node.js",
+      "Infra"
+    ],
+    "summary": "초거대 언어모델 데이터를 활용해 AI Agent 서비스를 기획하고 프롬프트를 설계하는 포지션.",
+    "reason": "크라우드웍스 AI Agent 기획 포지션은 LLM을 다루며, 본인의 AI-native 생산성 도구 경험 및 프롬프트 엔지니어링 관점과 잘 맞물려 있습니다.",
+    "risk": "공고(크라우드웍스) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "방 예약 시스템",
+    "learning_points": "최신 LLM 프롬프트 최적화 기법 및 Agentic AI 아키텍처 학습.",
+    "motivation": "크라우드웍스의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "AI Agent 기획 / 프롬프트 엔지니어 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Supabase 제약조건과 데이터 불일치 해결 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "wanted_364630": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "AWS",
+      "Node.js",
+      "Infra"
+    ],
+    "summary": "게임 앱 서비스의 트래픽을 처리하는 백엔드 서버 로직과 게임 내 API를 개발하는 직무.",
+    "reason": "넵튠 엔플라이유닛 백엔드 직무는 프론트엔드 경험 위주인 현재 상황에서는 백엔드/인프라 비중이 클 수 있으나, API 구조 분리와 Supabase 활용 경험으로 보조할 수 있습니다.",
+    "risk": "공고(넵튠(Neptune)) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "방 예약 시스템",
+    "learning_points": "게임 트래픽 처리를 위한 백엔드 최적화 및 캐싱 전략 파악.",
+    "motivation": "넵튠(Neptune)의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "엔플라이유닛(무한의 계단) 백엔드개발자 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Supabase 제약조건과 데이터 불일치 해결 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "wanted_364500": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "AI",
+      "LLM",
+      "Planning"
+    ],
+    "summary": "패션 이커머스 도메인에서 Agentic AI 솔루션을 구축하고 LangChain 파이프라인을 운영하는 인턴.",
+    "reason": "비자르큐브 패션 이커머스 AI 인턴 포지션은 소상상점 이커머스 UI 개발 경험과 멀티 에이전트 환경에 대한 학습 능력을 결합하여 어필할 수 있습니다.",
+    "risk": "공고(비자르큐브) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "멀티 에이전트 파이프라인 구현체(LangChain 등) 학습.",
+    "motivation": "비자르큐브의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "[인턴] 패션 이커머스 Agentic AI Engineer 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 기반 MVP 시스템 초기 구축 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "jobkorea_49251823": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "General IT"
+    ],
+    "summary": "사내 네트워크 환경 및 사무용 IT 기기를 유지 보수하고 안정성을 확보하는 운영자 역할.",
+    "reason": "아토스 N/W 운영자는 증평군 근무로 네트워크 관리에 치중되어 있어 현재 주력 스택과 방향성이 다르지만, 인프라 관리 기초를 다지는 계기로 삼을 수 있습니다.",
+    "risk": "공고(㈜아토스) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "방 예약 시스템",
+    "learning_points": "지역 기반 데이터센터의 네트워크 장애 대응 및 복구 프로세스 파악.",
+    "motivation": "㈜아토스의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "N/W 및 OA사무기기 운영자 정규직 채용(충북 증평군 근무) 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 기반 MVP 시스템 초기 구축 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "jobkorea_49266070": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "반려동물 양육 AI 플랫폼의 사용자 접근성을 높이기 위해 프론트엔드를 고도화하는 포지션.",
+    "reason": "플레이웍스의 반려동물 양육 플랫폼 프론트엔드 개발자는 Next.js 템플릿화와 재사용성 높은 상점/채팅 UI를 구축한 경험을 즉시 현업에 투입할 수 있는 좋은 직무입니다.",
+    "risk": "공고(㈜플레이웍스) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "소상상점",
+    "learning_points": "AI 추천 알고리즘과 프론트엔드 시각화 연동 기술 파악.",
+    "motivation": "㈜플레이웍스의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "AI 및 라이브 기반 반려동물 양육 플랫폼 프론트엔드 개발자 채용 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 템플릿 및 재사용 컴포넌트 설계 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "jobkorea_49199726": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "AWS",
+      "Node.js",
+      "Infra"
+    ],
+    "summary": "클라우드 인프라 아키텍처를 설계하고 자동화된 배포 파이프라인을 구축하는 SRE 담당.",
+    "reason": "씨알에스큐브 SRE 엔지니어 포지션은 인프라와 AWS 관리에 초점이 맞춰져 있어, 풀스택 MVP 경험 중 서버 배포 및 Docker Compose 문제 해결 경험을 부각해야 합니다.",
+    "risk": "공고(㈜씨알에스큐브) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "방 예약 시스템",
+    "learning_points": "AWS SRE 인프라 모니터링 구축과 대규모 클라우드 운영 방법 이해.",
+    "motivation": "㈜씨알에스큐브의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "SRE(AWS) 엔지니어(경력) 모집 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Supabase 제약조건과 데이터 불일치 해결 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "jobkorea_49256460": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "게임 기반 웹 서비스의 인터페이스를 개선하고 프론트엔드 전반을 담당하는 산업기능요원.",
+    "reason": "게임엔 프론트엔드 산업기능요원 포지션은 게임 관련이지만, React Query와 상태 관리를 통한 안정적인 사용자 인터페이스 구현 능력이 장점으로 작용할 수 있습니다.",
+    "risk": "공고(㈜게임엔) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "소상상점",
+    "learning_points": "게임 웹 서비스의 렌더링 최적화 및 복잡한 상태 관리 기법 학습.",
+    "motivation": "㈜게임엔의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "[산업기능요원 / 보충역] 프론트엔드 개발자 채용 공고 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 템플릿 및 재사용 컴포넌트 설계 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "jobkorea_49195848": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AWS",
+      "Node.js",
+      "Infra"
+    ],
+    "summary": "AWS 환경 위에서 대용량 트래픽을 처리할 수 있는 안정적인 백엔드 시스템을 개발하는 직무.",
+    "reason": "알로이스 백엔드 직무는 AWS 인프라 구축을 요하므로, Next.js 백엔드 로직과 DB 마이그레이션 경험을 기반으로 시스템 설계 역량을 강조할 필요가 있습니다.",
+    "risk": "공고(㈜알로이스) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "방 예약 시스템",
+    "learning_points": "AWS 기반 마이크로서비스 설계와 분산 시스템 아키텍처 기초 학습.",
+    "motivation": "㈜알로이스의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "(주)알로이스 AWS 백엔드 개발자 경력 채용 공고 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Supabase 제약조건과 데이터 불일치 해결 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "jobkorea_49247536": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "summary": "선박 및 발전기 엔진 관련 기업 시스템의 원활한 운영과 유지 보수를 지원하는 역할.",
+    "reason": "에스티엑스엔진 신입 채용은 대기업 시스템 관리 성격이 강하며, 관리자 대시보드와 배치 작업 단위 테스트를 구성한 꼼꼼한 접근 방식이 유리합니다.",
+    "risk": "공고(에스티엑스엔진㈜연합자산관리그룹) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "전통적인 제조업 도메인의 레거시 시스템 마이그레이션 과정 파악.",
+    "motivation": "에스티엑스엔진㈜연합자산관리그룹의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "STX엔진㈜ 2026년 신입/경력 채용 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 기반 MVP 시스템 초기 구축 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "jobkorea_49255402": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "General IT"
+    ],
+    "summary": "네이버 클라우드 인프라 자회사에서 IT 서비스 운영과 관련 시스템 개발을 보조하는 직무.",
+    "reason": "엔아이티서비스 각 부문 채용은 네이버 클라우드 자회사로, 대규모 인프라 운영 중 발생할 수 있는 문제를 프론트엔드와 API 분리 관점에서 해결한 능력을 어필해야 합니다.",
+    "risk": "공고(엔아이티서비스㈜네이버그룹) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "클라우드 운영 자동화 및 대규모 서비스 장애 복구 프로세스 학습.",
+    "motivation": "엔아이티서비스㈜네이버그룹의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "[NAVER Cloud 자회사] NIT Service 2026 상반기 각 부문 채용 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 기반 MVP 시스템 초기 구축 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
+  },
+  "jobkorea_49233435": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "General IT"
+    ],
+    "summary": "SK그룹의 디지털 광고 솔루션 기획과 프론트엔드 개발 기초 역량을 학습할 수 있는 인턴십.",
+    "reason": "인크로스 신입 채용은 광고 플랫폼 운영이 핵심이므로, 배너나 사용자 상호작용 컴포넌트를 만들고 최적화한 경험을 관련 포트폴리오로 제출하기 좋습니다.",
+    "risk": "공고(인크로스㈜) 특성상 일부 요구 스킬과 현재 경험 간의 차이가 존재하므로 세부 내용 확인 필요.",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "디지털 광고 플랫폼의 지표 수집 및 성과 분석 시스템 구조 파악.",
+    "motivation": "인크로스㈜의 기술적 비전이 그동안 프로젝트에서 해결하고자 했던 문제 의식과 맞닿아 있어 지원합니다.",
+    "questions_to_ask": "[SK그룹-인크로스] 2026년 하반기 신입(인턴) 채용 역할 수행 시, 사내 다른 개발 부서와의 협업 빈도와 주된 커뮤니케이션 방식은 무엇인가요?",
+    "portfolio_link_point": "Next.js 기반 MVP 시스템 초기 구축 사례",
+    "analyzed_at": "2026-05-28T23:24:47.797Z"
   }
 }
