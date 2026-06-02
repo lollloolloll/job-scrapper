@@ -9412,5 +9412,95 @@
     "questions_to_ask": "기존 PHP 기반의 템플릿 엔진 구조를 벗어나 프론트엔드를 분리하는 방식의 프로젝트도 진행하는지 궁금합니다.",
     "portfolio_link_point": "과거 웹에이전시에서 짧은 기한 내에 다양한 도메인의 웹을 찍어내듯 완성했던 효율성 어필",
     "analyzed_at": "2026-06-01T23:13:35.073Z"
+  },
+  "wanted_365886": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "summary": "비즈플러그의 [인턴] 풀스택 개발자 포지션.",
+    "reason": "[비즈플러그]의 [[인턴] 풀스택 개발자] 공고는 시니어 혹은 경력자를 구하는 것으로 보여, 적합도가 낮을 수 있습니다. 지원 시 확인 필요.",
+    "risk": "요구 경력 연차가 나의 경험보다 다소 높음",
+    "feature_project": "AI-native workflow",
+    "learning_points": "도메인 지식의 빠른 습득 필요",
+    "motivation": "비즈플러그의 기술적 도전에 함께하고 싶습니다.",
+    "questions_to_ask": "팀 내 개발 문화는 어떠한가요?",
+    "portfolio_link_point": "AI 활용 개발 생산성 향상 스토리",
+    "analyzed_at": "2026-06-02T23:30:03.374Z"
+  },
+  "wanted_365516": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "summary": "모두닥의 [인턴] 풀스택 엔지니어 포지션.",
+    "reason": "[모두닥]의 [[인턴] 풀스택 엔지니어] 공고는 시니어 혹은 경력자를 구하는 것으로 보여, 적합도가 낮을 수 있습니다. 지원 시 확인 필요.",
+    "risk": "요구 경력 연차가 나의 경험보다 다소 높음",
+    "feature_project": "소상상점",
+    "learning_points": "도메인 지식의 빠른 습득 필요",
+    "motivation": "모두닥의 기술적 도전에 함께하고 싶습니다.",
+    "questions_to_ask": "팀 내 개발 문화는 어떠한가요?",
+    "portfolio_link_point": "소상상점의 Next.js 도입 성과",
+    "analyzed_at": "2026-06-02T23:30:03.375Z"
+  },
+  "wanted_365565": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "summary": "아미쿠스렉스의 [로폼(LawForm)] FE 개발자 (주니어) 포지션.",
+    "reason": "[아미쿠스렉스]의 [[로폼(LawForm)] FE 개발자 (주니어)] 공고는 시니어 혹은 경력자를 구하는 것으로 보여, 적합도가 낮을 수 있습니다. 지원 시 확인 필요.",
+    "risk": "요구 경력 연차가 나의 경험보다 다소 높음",
+    "feature_project": "소상상점",
+    "learning_points": "도메인 지식의 빠른 습득 필요",
+    "motivation": "아미쿠스렉스의 기술적 도전에 함께하고 싶습니다.",
+    "questions_to_ask": "팀 내 개발 문화는 어떠한가요?",
+    "portfolio_link_point": "소상상점의 Next.js 도입 성과",
+    "analyzed_at": "2026-06-02T23:30:03.376Z"
+  },
+  "wanted_365545": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "summary": "로위랩코리아의 프론트 개발자(신입 ~ 3년 차) 포지션.",
+    "reason": "[로위랩코리아]의 [프론트 개발자(신입 ~ 3년 차)] 공고는 시니어 혹은 경력자를 구하는 것으로 보여, 적합도가 낮을 수 있습니다. 지원 시 확인 필요.",
+    "risk": "요구 경력 연차가 나의 경험보다 다소 높음",
+    "feature_project": "소상상점",
+    "learning_points": "도메인 지식의 빠른 습득 필요",
+    "motivation": "로위랩코리아의 기술적 도전에 함께하고 싶습니다.",
+    "questions_to_ask": "팀 내 개발 문화는 어떠한가요?",
+    "portfolio_link_point": "소상상점의 Next.js 도입 성과",
+    "analyzed_at": "2026-06-02T23:30:03.376Z"
+  },
+  "wanted_365827": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "summary": "메리츠증권의 Full-Stack Engineer (개발직) 포지션.",
+    "reason": "[메리츠증권]의 [Full-Stack Engineer (개발직)] 공고는 시니어 혹은 경력자를 구하는 것으로 보여, 적합도가 낮을 수 있습니다. 지원 시 확인 필요.",
+    "risk": "요구 경력 연차가 나의 경험보다 다소 높음",
+    "feature_project": "소상상점",
+    "learning_points": "도메인 지식의 빠른 습득 필요",
+    "motivation": "메리츠증권의 기술적 도전에 함께하고 싶습니다.",
+    "questions_to_ask": "팀 내 개발 문화는 어떠한가요?",
+    "portfolio_link_point": "소상상점의 Next.js 도입 성과",
+    "analyzed_at": "2026-06-02T23:32:10.560Z"
   }
 }
