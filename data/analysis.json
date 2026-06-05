@@ -9641,5 +9641,59 @@
     "questions_to_ask": "백오피스 성능을 위해 현재 프론트엔드에서 어떤 방식으로 대규모 리스트 렌더링 최적화를 하고 있는지 확인해보세요.",
     "portfolio_link_point": "쌍청문 근로장학생으로서 직접 구축한 관리자/대여 예약 기능",
     "analyzed_at": "2026-06-05T01:04:48.886Z"
+  },
+  "saramin_54079627": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "신입",
+      "웹개발",
+      "프론트엔드"
+    ],
+    "summary": "캐논코리아 주식회사 프론트엔드/웹개발 신입 (채용연계형 인턴)",
+    "reason": "대기업의 SI 및 내부 시스템 개발로 보이며, 공간대여/키오스크 같은 내부 관리자 대시보드 및 운영 흐름 구현 경험이 긍정적으로 작용할 수 있으나 프론트엔드 전문성이 두드러지는 포지션인지는 확인이 필요합니다.",
+    "risk": "프론트엔드 비중 및 구체적인 기술 스택(React/Next.js 사용 여부) 불명확",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "대규모 대기업 인프라 및 ERP 연동 환경에 대한 경험 부족",
+    "motivation": "쌍청문 예약 시스템과 대여 관리 시스템을 단독으로 기획 및 구현하며 내부 운영 문제를 웹 시스템으로 해결한 경험을 살려 캐논코리아의 사내 시스템 개선 및 웹 서비스 구축에 기여하고 싶습니다.",
+    "questions_to_ask": "원본 확인 필요 - 프론트엔드와 백엔드 업무의 실제 비중 및 주로 사용하는 프론트엔드 기술 스택(React, Next.js 등)",
+    "portfolio_link_point": "쌍청문 기관 문제 해결 프로젝트 스토리 연계",
+    "analyzed_at": "2026-06-05T23:13:09.630Z"
+  },
+  "saramin_54058368": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "프론트엔드",
+      "웹개발",
+      "신입"
+    ],
+    "summary": "(주)와치텍 프론트엔드/웹개발 신입",
+    "reason": "응용 소프트웨어 개발 및 IT/ICT 컨설팅을 수행하는 중소기업으로, 웹에이전시/MVP 실전 감각 및 온보딩/랜딩 페이지 구현 경험을 활용할 여지가 있으나, 요구하는 스택이 넓어 프론트엔드 직무 핏이 완벽한지 추가 검토가 필요합니다.",
+    "risk": "넓은 범위의 스택(Java, C++, DB 등)이 혼재되어 프론트엔드 전업 가능성 불투명",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "Java, C++, 다양한 DBMS 등 폭넓은 백엔드 및 인프라 지식",
+    "motivation": "고객 유입과 MVP 중심의 웹 시스템 구축 경험을 바탕으로 와치텍의 응용 소프트웨어 사용자 경험과 랜딩 퍼널을 최적화하는 역할을 수행하고 싶습니다.",
+    "questions_to_ask": "원본 확인 필요 - 프론트엔드 업무 범위 및 주요 프론트엔드 기술 환경",
+    "portfolio_link_point": "소상상점 및 MVP 솔루션 개발 경험 연계",
+    "analyzed_at": "2026-06-05T23:13:09.630Z"
+  },
+  "wanted_142760": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "Spring",
+      "보충역"
+    ],
+    "summary": "미르니 산업기능요원(보충역) 엔지니어",
+    "reason": "AI 기술(Claude 등)을 활용한다는 점에서 AI-native workflow 강점과 잘 맞지만, 직무 내용이 Java/Spring SDK 및 컴플라이언스/보안 모듈 개발이어서 프론트엔드 중심의 경력과는 방향성이 다소 어긋납니다.",
+    "risk": "프론트엔드 비중이 거의 없고 백엔드(Java/Spring) 위주의 업무",
+    "feature_project": "AI workflow",
+    "learning_points": "전통 금융 보안, 컴플라이언스, B2B 디지털 자산 인프라 및 Java/Spring 심화",
+    "motivation": "Claude 등 AI 도구를 활용한 코드 분석과 작업 계획 수립에 강점을 가진 AI-native 개발자로서, 미르니의 기술 스택을 빠르게 학습하여 B2B 금융 인프라 개발 속도를 높이겠습니다.",
+    "questions_to_ask": "프론트엔드 관련 업무 참여 가능성 및 프론트/백엔드 업무 비중",
+    "portfolio_link_point": "AI 도구를 적극 활용하여 풀스택 시스템을 구축한 개인 memory workflow 및 학습 속도 어필",
+    "analyzed_at": "2026-06-05T23:13:09.630Z"
   }
 }
