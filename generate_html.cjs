@@ -114,14 +114,33 @@ function formatDateTime(value) {
   if (!value) return '수집 시각 정보 없음';
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return normalizeText(value);
-  return new Intl.DateTimeFormat('ko-KR', {
+
+  const formatter = new Intl.DateTimeFormat('ko-KR', {
     timeZone: 'Asia/Seoul',
     year: 'numeric',
     month: '2-digit',
     day: '2-digit',
     hour: '2-digit',
     minute: '2-digit',
-  }).format(date);
+    hour12: true
+  });
+  const parts = formatter.formatToParts(date);
+  const year = parts.find((p) => p.type === 'year').value;
+  const month = parts.find((p) => p.type === 'month').value;
+  const day = parts.find((p) => p.type === 'day').value;
+
+  let dayPeriod = 'AM';
+  let hour = Number(date.toLocaleString('en-US', { timeZone: 'Asia/Seoul', hour: '2-digit', hour12: false }));
+  if (hour === 24) hour = 0;
+  if (hour >= 12) {
+    dayPeriod = 'PM';
+    if (hour > 12) hour -= 12;
+  }
+  if (hour === 0) hour = 12;
+  const hourStr = String(hour).padStart(2, '0');
+  const minute = parts.find((p) => p.type === 'minute').value.padStart(2, '0');
+
+  return `${year}. ${month}. ${day}. ${dayPeriod} ${hourStr}:${minute}`;
 }
 
 function getLastScrapedAt(jobs) {
