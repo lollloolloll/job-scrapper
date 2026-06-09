@@ -10150,5 +10150,249 @@
     "questions_to_ask": "개발자 트랙 유무 및 기술 스택",
     "portfolio_link_point": "고객 요구사항을 시스템화한 기획 경험 어필",
     "analyzed_at": "2026-06-08T23:33:30.324Z"
+  },
+  "saramin_53577895": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "React",
+      "프론트엔드",
+      "GraphQL"
+    ],
+    "summary": "(주)클래스101 프론트엔드 인턴 공고로 React 생태계 경험을 살려 지원하기 적합합니다.",
+    "reason": "(주)클래스101의 [인턴] Frontend Developer 직무는 사용자의 웹에이전시 MVP 프로젝트에서 React 기반으로 서비스를 빠르게 구현한 경험과 잘 맞닿아 있습니다.",
+    "risk": "GraphQL 등 일부 미경험 스택 요구 가능성",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "GraphQL 및 AWS 인프라 환경 구축",
+    "motivation": "콘텐츠 플랫폼의 UI/UX 문제를 기술적으로 해결하는 과정에 기여하고 싶습니다.",
+    "questions_to_ask": "인턴십 이후 정규직 전환율과 주로 배정되는 서비스 파트는 어디인지 궁금합니다.",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트의 프론트엔드 구현 및 컴포넌트 재사용성 개선 경험",
+    "analyzed_at": "2026-06-09T23:33:48.599Z"
+  },
+  "saramin_54104054": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Hardware",
+      "Java",
+      "Javascript"
+    ],
+    "summary": "한국요꼬가와일렉트로닉스매뉴팩처링(주)의 하드웨어 설계 직무는 웹 프론트엔드 중심인 제 이력과 거리가 멉니다.",
+    "reason": "한국요꼬가와일렉트로닉스매뉴팩처링(주) 하드웨어 제품설계개발(Hardware) 담당자 모집 직무는 저의 주력인 웹 프론트엔드 및 Product Engineer 지향성과는 맞지 않습니다.",
+    "risk": "비개발(하드웨어 설계) 업무 위주",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "하드웨어 및 제품 설계 도메인 지식",
+    "motivation": "하드웨어 제어를 위한 UI/UX 접근을 고민해보고 싶습니다.",
+    "questions_to_ask": "웹 개발 업무 비중이 어느 정도인지, 아니면 순수 하드웨어 설계인지 확인 필요",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "saramin_54109680": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "Javascript",
+      "백엔드"
+    ],
+    "summary": "지엔소프트(주)의 지엔소프트(주) 응용SW개발자 채용 공고(정규직)는 Java 기반 백엔드 비중이 클 것으로 보여 확인이 필요합니다.",
+    "reason": "지엔소프트(주) 지엔소프트(주) 응용SW개발자 채용 공고(정규직)는 웹에이전시 경험을 살릴 수는 있으나 Java 백엔드 중심일 가능성이 높아 프론트엔드 비중 확인이 우선입니다.",
+    "risk": "Java 백엔드 및 앱 개발 위주의 SI 성격 가능성",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "Java 생태계 및 앱 개발 프레임워크",
+    "motivation": "사용자 중심의 응용 소프트웨어를 설계하고 구현하는 데 참여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드와 백엔드 업무의 명확한 비중이 어떻게 나뉘는지 궁금합니다.",
+    "portfolio_link_point": "단독으로 프론트엔드와 백엔드 로직을 구성해본 쌍청문 공간대여 시스템",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "saramin_54101277": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "백엔드",
+      "서버개발"
+    ],
+    "summary": "주식회사 에스티씨랩의 백엔드 인턴 직무는 대규모 트래픽 및 백엔드 전문 포지션으로 현재 지향점과 맞지 않습니다.",
+    "reason": "주식회사 에스티씨랩의 [LoadTester팀] Backend Engineer (Intern) 역할은 제가 피하고자 하는 백엔드 전문 포지션이므로 지원을 지양합니다.",
+    "risk": "프론트엔드 관련 업무가 전혀 없을 가능성",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "대규모 트래픽 서버 및 부하 테스트 도메인",
+    "motivation": "백엔드 구조에 대한 깊은 이해를 넓히고 싶습니다.",
+    "questions_to_ask": "프론트엔드 엔지니어링이나 풀스택적인 접근이 필요한 영역이 있는지 확인 필요",
+    "portfolio_link_point": "서버 API 통신과 풀스택 구조를 고민한 쌍청문 프로젝트 일부 로직",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "saramin_54118294": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "반도체",
+      "RTL Design"
+    ],
+    "summary": "(주)보스반도체 반도체 설계 직무로 웹 개발 커리어와 전혀 연관이 없습니다.",
+    "reason": "(주)보스반도체의 SOC RTL Design Engineer [신입]는 하드웨어 및 반도체 설계에 특화되어 프론트엔드 개발 경험과 전혀 맞지 않아 비추천합니다.",
+    "risk": "완전한 타 도메인(반도체 설계)",
+    "feature_project": "없음",
+    "learning_points": "반도체 및 RTL 회로 설계 지식",
+    "motivation": "하드웨어 설계의 기초를 다지고 싶습니다.",
+    "questions_to_ask": "웹 기반의 운영 툴이나 관련 소프트웨어 개발 조직이 따로 있는지 확인",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "saramin_54108037": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "Javascript",
+      "웹개발"
+    ],
+    "summary": "(주)트랜스코스모스코리아의 DML개발부 채용으로 SI 성격이 강하며 Java 비중이 높을 우려가 있습니다.",
+    "reason": "(주)트랜스코스모스코리아 [트랜스코스모스/성남] 당사 DML개발부 개발자 신규 채용 MEx8 직무는 풀스택 웹 개발 경험은 있으나 SI 파견이나 백엔드 위주일 수 있어 보류 대상입니다.",
+    "risk": "SI 파견 근무 및 레거시 Java 환경일 확률 높음",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "엔터프라이즈 환경의 Java 웹 아키텍처",
+    "motivation": "다양한 도메인의 웹 개발 요구사항을 분석하고 솔루션을 제공하는 것에 관심이 있습니다.",
+    "questions_to_ask": "프론트엔드 스택(Next.js, React 등) 활용 여부와 파견 근무 여부를 확인 필요",
+    "portfolio_link_point": "쌍청문 프로젝트에서 진행한 프론트-백엔드 연동 경험",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "saramin_54111788": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "로봇",
+      "S/W",
+      "응용SW"
+    ],
+    "summary": "(주)클로봇의 로봇 응용 SW 직무는 임베디드나 C++ 중심일 가능성이 커 웹 프론트엔드와 거리가 있습니다.",
+    "reason": "(주)클로봇의 로봇 응용 SW 개발자 포지션은 웹 서비스보다는 로보틱스 도메인 중심이므로 웹 개발 지향성과 충돌합니다.",
+    "risk": "웹 개발 역량과 무관한 업무 중심",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "로봇 제어 및 ROS 등 임베디드 소프트웨어 기술",
+    "motivation": "로봇 제어를 돕는 훌륭한 UI 환경을 만들어보고 싶습니다.",
+    "questions_to_ask": "UI/UX나 관리자 웹 화면을 개발하는 파트가 직무에 포함되는지 확인",
+    "portfolio_link_point": "오프라인 장비와 연동을 고민했던 쌍청문 키오스크 경험",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "saramin_54125436": {
+    "fit_score": 5,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "풀스택",
+      "SI개발",
+      "정보보안"
+    ],
+    "summary": "셋시큐리티 풀스택 개발자 채용(신규/초급)는 SI 성격이 강하지만 보안 도메인에서 풀스택 경험을 활용할 수 있습니다.",
+    "reason": "셋시큐리티의 풀스택 개발자 채용(신규/초급)는 쌍청문 공간대여 시스템에서 혼자 프론트와 백엔드를 구축해본 경험을 바탕으로 어필할 여지가 있습니다.",
+    "risk": "SI 프로젝트 특성상 잦은 파견과 레거시 환경 유지보수",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "정보보안 도메인 지식 및 엔터프라이즈 환경의 구축 절차",
+    "motivation": "단독으로 시스템을 구축해본 경험을 기반으로 솔루션 안정성을 높이고자 지원합니다.",
+    "questions_to_ask": "프론트엔드 개발 시 주로 사용하는 프레임워크가 React 계열인지, 파견 비중이 얼마나 되는지 확인 필요합니다.",
+    "portfolio_link_point": "쌍청문 프로젝트에서 권한 제어 및 백엔드 로직을 설계했던 풀스택 구현 스토리",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "wanted_367122": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "시스템 엔지니어",
+      "AWS",
+      "IDC"
+    ],
+    "summary": "커넥트웨이브의 시스템 엔지니어 직무는 인프라 중심이라 프론트엔드 역량과 맞지 않습니다.",
+    "reason": "커넥트웨이브 플레이오토 [플레이오토] 시스템 엔지니어 (AWS/IDC) 포지션은 DevOps와 인프라 중심이어서 웹 프론트엔드에 주력하는 제 커리어와 상이합니다.",
+    "risk": "코드 작성보다는 인프라 운영 및 구축 중심",
+    "feature_project": "없음",
+    "learning_points": "AWS 클라우드 인프라 심층 관리 및 IDC 네트워크 아키텍처",
+    "motivation": "백엔드를 안정적으로 지탱하는 인프라 구축에 관심이 있습니다.",
+    "questions_to_ask": "개발 업무의 비중이 전혀 없는지, 스크립트 수준의 자동화만 진행하는지 확인",
+    "portfolio_link_point": "Vercel 기반 프론트엔드 배포 및 CI/CD 구축 경험 (보조적 어필)",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "wanted_367134": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "클라우드",
+      "인프라"
+    ],
+    "summary": "백패커의 클라우드 엔지니어 포지션은 완전한 인프라 직무로 지원 목표와 다릅니다.",
+    "reason": "백패커의 클라우드 엔지니어 직무는 피해야 할 DevOps/인프라 중심 포지션이라 본 루틴에서 추천하지 않습니다.",
+    "risk": "클라우드 인프라 아키텍처 설계 등 비 프론트엔드 업무",
+    "feature_project": "없음",
+    "learning_points": "대규모 트래픽을 지탱하는 클라우드 인프라 설계 및 운영",
+    "motivation": "대용량 트래픽 처리 아키텍처에 대해 학습하고 싶습니다.",
+    "questions_to_ask": "해당 포지션이 프로덕트 엔지니어링 조직과 분리되어 순수 인프라만 담당하는지 확인",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "wanted_367090": {
+    "fit_score": 10,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "인턴"
+    ],
+    "summary": "넥스트그라운드의 프론트엔드 채용은 부동산 정보 플랫폼으로서 프론트엔드 개발 역량을 십분 발휘하기 좋습니다.",
+    "reason": "넥스트그라운드 [인턴] 프론트 엔지니어 직무는 부동산 도메인의 사용자 웹 UI를 고도화하는 것으로, 소상상점의 상점/지도 프론트엔드 구현 경험과 매우 강력하게 연결됩니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "B2C 플랫폼 특유의 트래픽 처리 및 성능 최적화",
+    "motivation": "지도 및 데이터를 다루며 사용자 경험을 개선했던 경험을 바탕으로 넥스트그라운드 서비스에 기여하고 싶습니다.",
+    "questions_to_ask": "인턴십 이후 프론트엔드 팀 내 주요 과제와 기술 스택 구성을 확인하고 싶습니다.",
+    "portfolio_link_point": "소상상점 프로젝트에서 진행한 복잡한 지도 연동 및 상점 그룹핑 UI 개발 경험",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "wanted_366954": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "AI Native",
+      "Software Engineer"
+    ],
+    "summary": "크픽의 Software Engineer 포지션은 AI-native workflow 활용 역량과 잘 맞습니다.",
+    "reason": "크픽의 Software Engineer (개발자) 직무는 평소 AI 도구를 활용해 문제를 해결하는 제 작업 방식과 에이전시에서의 빠른 MVP 개발 경험을 강하게 어필할 수 있는 최적의 포지션입니다.",
+    "risk": "극초기 스타트업 특유의 불확실성과 매우 빠른 호흡",
+    "feature_project": "AI-native workflow",
+    "learning_points": "초기 서비스의 빠른 시장 검증을 위한 그로스 해킹 관점의 개발",
+    "motivation": "AI 에이전트를 적극 활용하여 생산성을 높이는 제 작업 방식이 क्र픽의 개발 문화와 시너지를 낼 것이라 확신합니다.",
+    "questions_to_ask": "프론트엔드와 백엔드의 업무 비중이 어느 정도이며, 어떤 AI 툴들을 적극 권장하는지 궁금합니다.",
+    "portfolio_link_point": "웹에이전시 MVP 개발 속도를 극대화했던 경험과 AI 로그 기반 지식 저장소 구축 사례",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "wanted_366942": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "QA"
+    ],
+    "summary": "플랭의 QA Manager 직무는 테스트 엔지니어링 중심이므로 웹 프로덕트 방향과 상이합니다.",
+    "reason": "플랭의 QA Manager(신입~3년차) 포지션은 주력 목표인 프론트엔드 프로덕트 개발이 아닌 품질 보증 직무이므로 적합도가 현저히 낮습니다.",
+    "risk": "프로덕션 코드 작성 기회 부족",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "전문적인 테스트 자동화 및 QA 프로세스 수립 방법론",
+    "motivation": "제품 품질을 철저히 검증하여 사용자 경험을 향상시키는 데 이바지하고자 합니다.",
+    "questions_to_ask": "테스트 자동화 스크립트 작성 외에 실제 프로덕트 개발에 참여할 기회가 주어지는지 확인 필요",
+    "portfolio_link_point": "쌍청문 예약 시스템에서 관리자 배치 작업 함수에 대한 단위 테스트 시나리오 작성 경험",
+    "analyzed_at": "2026-06-09T23:33:48.666Z"
+  },
+  "wanted_366943": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "소프트웨어 엔지니어",
+      "마켓플레이스"
+    ],
+    "summary": "볼라(와이스)의 인턴 포지션은 커머스/마켓플레이스 도메인 특성상 이커머스 경험을 활용하기 좋습니다.",
+    "reason": "볼라(와이스)의 [인턴] 소프트웨어 엔지니어는 소상공인 보일러플레이트를 구축해본 소상상점 이커머스 경험을 커머스 도메인 관점에서 적극 어필하기 좋은 기회입니다.",
+    "risk": "프론트엔드뿐만 아니라 백엔드 지식을 폭넓게 요구할 가능성",
+    "feature_project": "소상상점",
+    "learning_points": "실시간 라이브 경매 시스템을 위한 웹소켓 및 동시성 제어",
+    "motivation": "사용자간의 원활한 거래를 돕는 웹 UI를 고민하며 플랫폼 도약에 기여하고 싶습니다.",
+    "questions_to_ask": "실시간 기능 구현 시 사용하는 기술 스택과 인턴으로서 맡게 될 구체적인 웹 프론트엔드 영역이 궁금합니다.",
+    "portfolio_link_point": "소상상점의 채팅 UI 및 이커머스 장바구니/주문 프론트엔드 설계 경험",
+    "analyzed_at": "2026-06-09T23:33:48.667Z"
   }
 }
