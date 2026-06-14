@@ -11070,5 +11070,22 @@
     "questions_to_ask": "신규 프론트엔드 프레임워크(React 등) 도입이나 모더나이제이션 계획 유무",
     "portfolio_link_point": "운영 시스템의 문제를 파악하고 해결한 쌍청문 경험 (단, 스택 불일치)",
     "analyzed_at": "2026-06-13T23:19:00.458Z"
+  },
+  "saramin_54119702": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "의상디자인",
+      "잡화디자인"
+    ],
+    "summary": "(주)토마스힐의 홈쇼핑 의류 디자이너 신입 채용건입니다.",
+    "reason": "웹 프론트엔드 개발 포지션이 아닌 (주)토마스힐의 의상/잡화 디자인 채용건이므로 개발 직무 방향성과 맞지 않아 지원 대상이 아닙니다.",
+    "risk": "비개발 디자인 직무",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "의상/잡화 디자인 등 개발 외적인 도메인 지식",
+    "motivation": "해당사항 없음 (비개발 직무)",
+    "questions_to_ask": "개발 직군 채용 계획 여부 (원본 확인 필요)",
+    "portfolio_link_point": "해당사항 없음",
+    "analyzed_at": "2026-06-14T23:24:13.752Z"
   }
 }
