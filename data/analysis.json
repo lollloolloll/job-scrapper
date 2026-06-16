@@ -11087,5 +11087,414 @@
     "questions_to_ask": "개발 직군 채용 계획 여부 (원본 확인 필요)",
     "portfolio_link_point": "해당사항 없음",
     "analyzed_at": "2026-06-14T23:24:13.752Z"
+  },
+  "saramin_54117445": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "React",
+      "Frontend"
+    ],
+    "summary": "신입 채용전환형 프론트엔드 포지션으로 사용자 중심 UI/UX 구현 역량을 발휘하기 좋습니다.",
+    "reason": "캐시워크(넛지헬스케어)의 프론트엔드 인턴십은 사용자의 리액트 기반 서비스 구축 경험과 강력한 시너지를 낼 수 있으며, 소상상점 프로젝트에서 보여준 성능 최적화 경험이 큰 어필 포인트가 될 수 있습니다.",
+    "risk": "인턴 후 채용 전환율에 대한 확인 필요",
+    "feature_project": "소상상점",
+    "learning_points": "대용량 트래픽 환경에서의 프론트엔드 성능 최적화",
+    "motivation": "건강 관리 플랫폼에서 사용자 경험을 극대화하는 프론트엔드 개발자가 되고 싶습니다.",
+    "questions_to_ask": "주로 다루게 될 프레임워크와 인턴십 기간 중 기대하는 목표 수준",
+    "portfolio_link_point": "소상상점의 반응형 UI 및 성능 개선 과정 상세 설명",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "saramin_54188052": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "JavaScript",
+      "Fullstack"
+    ],
+    "summary": "플랫폼 운영과 개발을 동시에 수행하는 스타트업 포지션으로 업무 범위 확인이 필수적입니다.",
+    "reason": "운영과 기획, 프론트엔드/백엔드 개발이 혼합된 All-in-one 직무 특성상 사용자의 전문성(프론트엔드)을 깊게 발전시키기엔 다소 산만할 수 있습니다. (saramin_54188052)",
+    "risk": "명확한 역할 분담이 부족할 수 있음",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "플랫폼 전반의 운영 및 유지보수 경험",
+    "motivation": "초기 플랫폼의 성장과 고도화 과정에 주도적으로 기여하고 싶습니다.",
+    "questions_to_ask": "개발과 운영 업무의 구체적인 비율과 팀 내 시니어 개발자 유무",
+    "portfolio_link_point": "웹에이전시 시절 초기 MVP 기획 및 개발부터 참여했던 경험",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "saramin_54185810": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Consulting",
+      "AI"
+    ],
+    "summary": "개발 직군이 아닌 컨설턴트 직무이므로 지원 대상에서 제외합니다.",
+    "reason": "AI Center 컨설턴트 포지션은 비개발 역할로 사용자의 프론트엔드 개발자 지향점 및 기술 스택과 전혀 부합하지 않습니다.",
+    "risk": "커리어 패스 이탈",
+    "feature_project": "AI workflow",
+    "learning_points": "AI 비즈니스 컨설팅 역량",
+    "motivation": "해당 포지션 지원 제외",
+    "questions_to_ask": "지원하지 않으므로 확인 불필요",
+    "portfolio_link_point": "포트폴리오 어필 불필요",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "saramin_54193038": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "ERP",
+      "Backend"
+    ],
+    "summary": "ERP 구축을 위한 백엔드/풀스택 성향의 개발 직무로 프론트엔드 비중 확인이 필요합니다.",
+    "reason": "티에이케이정보시스템의 영림원 ERP 구축 직무는 B2B 시스템 특성상 백엔드 및 DB 지식을 우선시할 확률이 높으므로, 프론트엔드 전문성을 쌓기에는 한계가 있을 수 있습니다.",
+    "risk": "사용자 지향적인 프론트엔드 스킬 발전 기회 부족",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "B2B ERP 시스템의 복잡한 비즈니스 로직과 데이터베이스 설계",
+    "motivation": "안정적인 기업용 솔루션 구축 경험을 통해 풀스택 역량을 다지고 싶습니다.",
+    "questions_to_ask": "사용하는 프론트엔드 기술 스택과 최신 UI/UX 도입 계획",
+    "portfolio_link_point": "쌍청문 관리자 페이지 구현 시 겪은 복잡한 데이터 연동 경험",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "saramin_54185777": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Consulting",
+      "Cloud"
+    ],
+    "summary": "컨설팅 직군으로 분류되어 프론트엔드 개발을 목표로 하는 커리어 방향과 맞지 않습니다.",
+    "reason": "삼정KPMG Lighthouse Center의 컨설턴트 직무는 기술 컨설팅 위주로 예상되며 순수 개발 역량을 키우기엔 부적합합니다.",
+    "risk": "개발 커리어와의 괴리",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "IT 아키텍처 및 클라우드 전략 컨설팅",
+    "motivation": "비개발 직군으로 지원 보류",
+    "questions_to_ask": "지원하지 않음",
+    "portfolio_link_point": "사용 불가",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "saramin_54193282": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Consulting",
+      "Planning"
+    ],
+    "summary": "경영/전략 기획 및 컨설팅 직무로 개발자 포지션이 아닙니다.",
+    "reason": "순수 기획 및 경영 컨설팅 공채이므로 프론트엔드 포지션 지원 전략과 완벽히 무관합니다.",
+    "risk": "직무 불일치",
+    "feature_project": "소상상점",
+    "learning_points": "비즈니스 전략 기획",
+    "motivation": "지원 제외",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "saramin_54194144": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Security",
+      "Fullstack"
+    ],
+    "summary": "보안 서비스 개발 운영을 담당하는 전환형 인턴으로 직무 세부 내용 파악이 요구됩니다.",
+    "reason": "레드펜소프트의 정보보안 기반 서비스(XSCAN) 개발은 특수 도메인 지식이 요구되며, 프론트/백엔드가 섞인 포지션이므로 구체적인 프론트엔드 역할 비중 확인이 필수입니다.",
+    "risk": "특정 보안 도메인에 갇힐 우려",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "보안 솔루션 아키텍처 및 네트워크 지식",
+    "motivation": "보안이 중요한 B2B 서비스 개발 과정에 참여하여 견고한 코드 작성 능력을 배양하고 싶습니다.",
+    "questions_to_ask": "프론트엔드와 백엔드 업무의 분할 정도 및 활용하는 UI 라이브러리",
+    "portfolio_link_point": "과거 예약 시스템 구현 시 고려했던 데이터 안정성 및 예외 처리 경험",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_368887": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Architecture",
+      "LLM"
+    ],
+    "summary": "경력 1~10년의 솔루션 아키텍트 직무로 사용자의 신입 프론트엔드 타겟과 차이가 큽니다.",
+    "reason": "올거나이즈코리아의 SA 직무는 온프레미스 LLM 관련 아키텍처 설계 및 구축을 요구하므로 주니어 프론트엔드 지원자에게는 매우 부적합합니다.",
+    "risk": "과도한 경력 및 아키텍처 역량 요구",
+    "feature_project": "AI workflow",
+    "learning_points": "엔터프라이즈 환경에서의 AI 솔루션 인프라 설계",
+    "motivation": "지원 보류 대상",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "제외",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_368880": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Fullstack",
+      "AI"
+    ],
+    "summary": "일상대화 AI 컴패니언 신규 개발을 위한 풀스택 포지션으로 주도적인 UI 구축 기회가 있습니다.",
+    "reason": "레플리의 신규 서비스 개발 포지션은 사용자의 초기 MVP 구축 경험 및 AI 툴 활용 경험(AI workflow)과 연결할 수 있어 긍정적이나, 풀스택 요구사항에 대한 대비가 필요합니다.",
+    "risk": "풀스택 업무로 인한 프론트엔드 전문성 분산 가능성",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "AI 컴패니언 서비스의 데이터 흐름 설계 및 서버 연동",
+    "motivation": "AI가 결합된 신규 서비스의 밑바닥부터 참여하여 사용자 경험을 완성하는 여정에 함께하고 싶습니다.",
+    "questions_to_ask": "신규 프로젝트에서 프론트엔드 스택 결정 권한 및 팀 구성 상태",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트에서 백엔드 개발자와 협업하며 주도적으로 UI를 구현한 경험",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_368851": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      ".NET",
+      "Fullstack"
+    ],
+    "summary": ".NET 기반의 전문연구요원 포지션으로 기술 스택 및 자격 요건이 맞지 않습니다.",
+    "reason": "이지케어텍의 해당 직무는 .NET 솔루션 풀스택과 석/박사 전문연구요원 자격을 요구하여 사용자의 프로필(React 기반 프론트엔드)과 일치하지 않습니다.",
+    "risk": "기술 스택(.NET) 완전 불일치",
+    "feature_project": "소상상점",
+    "learning_points": ".NET 환경과 의료 도메인 지식",
+    "motivation": "지원 제외",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "제외",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_368831": {
+    "fit_score": 10,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "Frontend"
+    ],
+    "summary": "스타트업의 주니어 프론트엔드 엔지니어 직무로 사용자의 주력 기술 스택과 완벽히 일치합니다.",
+    "reason": "알로카도스의 직무 요건(React, Next.js)은 소상상점 등 사용자의 핵심 포트폴리오 스택과 직접적으로 맞닿아 있으며, AI 기반 서비스 도메인에 대한 관심사도 어필하기 좋습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "AI 기반 서비스의 실시간 데이터 처리와 복잡한 상태 관리",
+    "motivation": "AI와 연결된 새로운 방식의 플랫폼에서 빠르고 안정적인 사용자 인터페이스를 설계하여 기여하고 싶습니다.",
+    "questions_to_ask": "Next.js의 활용 방식(App Router 등)과 디자인 시스템 구축 여부",
+    "portfolio_link_point": "소상상점에서 Next.js를 활용하여 SEO와 렌더링 성능을 개선한 구체적 사례 중심 어필",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_368660": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "AI",
+      "LLM"
+    ],
+    "summary": "AI Agent 및 LLM 엔지니어 포지션으로 백엔드/AI 모델링 성격이 강합니다.",
+    "reason": "심플랫폼의 AI 엔지니어 직무는 프론트엔드보다는 Industrial AI 및 LLM 모델링 자체에 초점이 맞춰져 있어 기술 핏이 어긋날 우려가 있습니다.",
+    "risk": "프론트엔드 기술 성장 어려움",
+    "feature_project": "AI workflow",
+    "learning_points": "LLM 아키텍처 및 프롬프트 엔지니어링 심화",
+    "motivation": "AI 기술의 산업 적용 사례를 직접 경험하며 엔지니어링 시야를 넓히고 싶습니다.",
+    "questions_to_ask": "해당 직무에서 프론트엔드(웹 UI) 개발 업무가 차지하는 비중",
+    "portfolio_link_point": "비공개 고객사 프로젝트(일반화 명칭 사용)에서 AI 파이프라인을 경험한 부분을 가볍게 언급",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_312170": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Operations",
+      "Infra"
+    ],
+    "summary": "IT 운영 엔지니어 포지션으로 인프라/사내 시스템 운영 역할에 치중되어 있습니다.",
+    "reason": "클로버추얼패션의 IT Operations Engineer는 프론트엔드 서비스 개발보다는 네트워크 및 사내 인프라 관리 업무일 확률이 높아 프론트엔드 지향 커리어와 맞지 않습니다.",
+    "risk": "사내 IT 지원 업무로의 커리어 전환",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "사내 네트워크 및 보안 시스템 운영",
+    "motivation": "지원 제외",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "제외",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_368805": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AI Engineer",
+      "Data"
+    ],
+    "summary": "커머스 플랫폼의 AI 엔지니어 직무로, 데이터 및 모델링 역량을 주로 평가합니다.",
+    "reason": "레브잇의 AI 엔지니어는 커머스 특화 데이터 분석 및 추천 알고리즘 설계 역량이 필요하여, 프론트엔드 포커스를 맞춘 사용자와는 직무 매칭도가 낮습니다.",
+    "risk": "직무 역량 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "커머스 도메인의 추천 시스템 설계 알고리즘",
+    "motivation": "지원 보류",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_368529": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Fullstack",
+      "B2B"
+    ],
+    "summary": "F&B B2B 플랫폼의 풀스택 개발 포지션으로 프론트/백엔드 기술 스택 핏 확인이 필요합니다.",
+    "reason": "피플밤의 풀스택 직무는 프론트엔드 역량을 발휘할 기회가 있으나, 사용 중인 백엔드 환경(Node, Java 등)과의 교집합 및 비중을 원본 공고에서 명확히 확인해야 합니다.",
+    "risk": "원치 않는 백엔드 프레임워크 유지보수 업무 할당",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "F&B B2B 거래 시스템의 결제 및 정산 로직 최적화",
+    "motivation": "레거시 F&B 시장을 혁신하는 B2B 플랫폼의 성장 단계에서 책임감 있는 개발자로 동참하고 싶습니다.",
+    "questions_to_ask": "풀스택 역할 중 UI/UX 최적화에 할당되는 리소스와 주 사용 기술 스택",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트 진행 시 프론트부터 백엔드 일부까지 주도했던 경험",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_368811": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Finance",
+      "System"
+    ],
+    "summary": "증권사 업무 시스템 개발(계약직)으로 금융권 레거시/백엔드 중심일 확률이 높습니다.",
+    "reason": "메리츠증권의 해당 직무는 금융상품 시스템 유지보수로 프론트엔드 최신 스택(React/Next) 경험을 쌓기 어렵고 보수적인 환경일 가능성이 농후합니다.",
+    "risk": "구형 금융 시스템 유지보수로 인한 기술 정체",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "복잡한 금융 시스템 아키텍처 이해",
+    "motivation": "지원 제외",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_345804": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "B2B"
+    ],
+    "summary": "호텔 B2B 시스템 백엔드 개발 직무로 주니어 프론트엔드 성향과 다소 거리가 있습니다.",
+    "reason": "트립비토즈의 B2B 시스템 백엔드 직무는 명확히 서버사이드 역할을 요구하므로 프론트엔드 기반 역량을 주무기로 활용하기 어렵습니다.",
+    "risk": "완전한 백엔드 직무 전환",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "대규모 여행 데이터 및 외부 호텔 API 연동 아키텍처",
+    "motivation": "다양한 외부 시스템 연동 경험을 통해 견고한 서버 아키텍처 구축 역량을 기르고 싶습니다.",
+    "questions_to_ask": "백엔드 프레임워크 환경과 해당 포지션에서 프론트엔드 협업이 차지하는 비중",
+    "portfolio_link_point": "과거 프로젝트의 RESTful API 설계 및 데이터베이스 구조화 경험 언급",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_301651": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Data Platform",
+      "Azure"
+    ],
+    "summary": "데이터 플랫폼 엔지니어 역할로 프론트엔드보다는 데이터 파이프라인 및 클라우드 전문성이 필요합니다.",
+    "reason": "인포유앤컴퍼니의 해당 직무는 Azure 및 데이터 엔지니어링에 집중되어 있어 React 중심의 사용자 포트폴리오와 맞지 않습니다.",
+    "risk": "기술 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "대규모 데이터 처리 인프라 구축",
+    "motivation": "지원 제외",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "제외",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_351105": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "AI Engineer",
+      "Startup"
+    ],
+    "summary": "AI 엔지니어 신입 채용 건으로, 프론트엔드 직무와 역할 차이가 명확합니다.",
+    "reason": "토기의 AI 엔지니어 직무는 인공지능 원리 기반 프로덕트 개발을 명시하므로, UI/UX 개발을 희망하는 커리어 방향과 맞지 않아 우선순위가 낮습니다.",
+    "risk": "프론트엔드 커리어와의 단절 우려",
+    "feature_project": "AI workflow",
+    "learning_points": "인공지능 모델 파인튜닝 및 파이프라인 통합",
+    "motivation": "평소 관심 있는 AI 기술을 직접 프로덕트에 적용하는 도전에 참여하고 싶습니다.",
+    "questions_to_ask": "AI 엔지니어로서 구체적으로 다루는 모델과 업무 범위",
+    "portfolio_link_point": "AI 자동화 파이프라인을 구축했던 경험을 가볍게 연결",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_351103": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Frontend",
+      "AI"
+    ],
+    "summary": "신입 프론트엔드 엔지니어 포지션으로 AI 프로덕트 개발이라는 매력적인 도메인입니다.",
+    "reason": "토기에서 요구하는 프론트엔드 직무는 사용자가 소상상점 등에서 보여준 UI 구현 역량과 AI workflow 경험을 동시에 강하게 어필할 수 있는 최적의 포지션입니다.",
+    "risk": "초기 기업 특유의 프로세스 부재 가능성",
+    "feature_project": "소상상점",
+    "learning_points": "AI 응답 결과를 실시간 UI로 자연스럽게 렌더링하는 기법",
+    "motivation": "AI 기술의 가능성을 사용자 친화적인 프론트엔드 경험으로 완성하는 일에 깊이 기여하고 싶습니다.",
+    "questions_to_ask": "주요 프론트엔드 기술 스택과 AI 모델과 통신하는 아키텍처 방식",
+    "portfolio_link_point": "소상상점에서 컴포넌트 최적화를 이뤄낸 경험과 AI workflow 관심사를 적극 연결",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_351104": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI"
+    ],
+    "summary": "토기의 신입 백엔드 엔지니어 포지션으로 주력 역량과 다소 차이가 있습니다.",
+    "reason": "사용자는 프론트엔드가 주력이며 백엔드는 보조이므로, AI 서비스의 백엔드를 전담하는 신입 포지션은 다소 도전적일 수 있습니다.",
+    "risk": "백엔드 전문성 부족으로 인한 업무 부하",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "AI 추론 서버와의 효율적인 API 설계 및 트래픽 분산",
+    "motivation": "AI 서비스를 뒷받침하는 견고한 백엔드 시스템 구축을 경험해보고 싶습니다.",
+    "questions_to_ask": "백엔드에서 사용하는 주요 언어 및 프레임워크 환경",
+    "portfolio_link_point": "웹에이전시 MVP 시절 백엔드 환경 구축 경험을 어필",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "wanted_326529": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Web Frontend",
+      "AI"
+    ],
+    "summary": "토기의 웹 프론트엔드 엔지니어 직무로 신입 지원에 매우 적합합니다.",
+    "reason": "위의 프론트엔드 포지션(351103)과 유사하며, 사용자의 반응형 웹 구축 경험(쌍청문 공간대여, 소상상점 등)을 십분 발휘하여 B2B/B2C 프로덕트 UI 개선에 기여할 수 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "B2B 관점의 웹 서비스 구조와 성능 고도화",
+    "motivation": "고객사의 생산성을 혁신하는 서비스에서 직관적이고 쾌적한 웹 환경을 제공하고 싶습니다.",
+    "questions_to_ask": "B2B 제품 중심인지, B2C 확장 계획이 있는지에 대한 확인",
+    "portfolio_link_point": "쌍청문 공간대여 사이트 제작 시 사용자 경험 향상을 위해 고민했던 사례",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "jobkorea_49390565": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "C++",
+      "C#"
+    ],
+    "summary": "C++/C# 기반의 Windows 응용 프로그램 개발 포지션으로 웹 프론트엔드 직군과 전혀 다릅니다.",
+    "reason": "티소프트의 원격제어 솔루션 개발은 네이티브 윈도우 프로그래밍 역량을 요구하여 사용자의 React 기반 주력 스택과 완전히 불일치합니다.",
+    "risk": "지원 자격 미달 및 직무 완전 불일치",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "Windows API 및 C++ 기반 시스템 프로그래밍",
+    "motivation": "지원 제외",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
+  },
+  "jobkorea_49379785": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "PHP",
+      "Publisher"
+    ],
+    "summary": "그누보드 기반 웹 퍼블리싱 중심의 포지션으로 모던 프론트엔드 스킬 향상에 제약이 있을 수 있습니다.",
+    "reason": "기적기획의 그누보드 기반 웹퍼블리셔 직무는 React 등 SPA 프레임워크보다는 전통적인 PHP 및 제이쿼리 위주일 확률이 높아, 최신 프론트엔드 커리어 성장 관점에서 보류가 필요합니다.",
+    "risk": "레거시 웹 환경에 고착될 우려 (React/Next.js 활용 불가)",
+    "feature_project": "소상상점",
+    "learning_points": "PHP 환경 기반의 서버사이드 렌더링 및 퍼블리싱 구조 파악",
+    "motivation": "다양한 구축 경험을 바탕으로 기적기획의 웹 프로젝트 퀄리티를 한 단계 높이겠습니다.",
+    "questions_to_ask": "최신 프론트엔드 프레임워크(React 등)의 향후 도입 의지가 있는지 질문",
+    "portfolio_link_point": "초기 퍼블리싱부터 프론트엔드 최적화까지 혼자서 완수했던 소상상점 사례를 소개",
+    "analyzed_at": "2026-06-16T23:38:52.857Z"
   }
 }
