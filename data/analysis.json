@@ -11820,5 +11820,316 @@
     "questions_to_ask": "자사 솔루션 개발 비중과 외부 SI 파견 비중이 어떻게 되는지 확인이 필요합니다.",
     "portfolio_link_point": "고객 요구사항을 빠르게 웹 화면으로 전환한 웹에이전시 사이드 비즈니스 스토리를 활용.",
     "analyzed_at": "2026-05-08T00:00:00Z"
+  },
+  "wanted_369502": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Frontend",
+      "AI Platform"
+    ],
+    "summary": "한국딥러닝 프론트엔드 엔지니어 — Document AI 솔루션 플랫폼 개발. B2B AI 도메인.",
+    "reason": "문서 AI를 다루는 B2B SaaS 환경에서 사용자 경험을 고도화하는 역할로 추정됨. AI 솔루션 플랫폼 프론트엔드 구축이라는 점에서 AI-native workflow 강점을 살려 B2B 사용자 인터페이스를 효율화하는 경험을 접목하기 좋음.",
+    "risk": "Document AI 시각화 등 특정 도메인 기술 요구 시 초기 학습 곡선 발생 가능성",
+    "feature_project": "AI-native workflow",
+    "learning_points": "문서 인식 결과(OCR/Document AI)의 효과적인 웹 시각화 처리",
+    "motivation": "Document AI 기술이 실제 B2B 고객의 비즈니스 가치로 이어질 수 있도록, 직관적이고 고도화된 프론트엔드 환경을 구축하고 싶습니다.",
+    "questions_to_ask": "핵심 기술 스택(React, Vue 등) 및 팀 내 시니어 개발자 유무",
+    "portfolio_link_point": "소상상점 및 쌍청문 시스템 등 사용성 개선 사례 어필",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369401": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "PWA",
+      "Fullstack"
+    ],
+    "summary": "롱제비티 풀 스택 개발자 (계약직) — React/PWA 기반 커뮤니티 앱 초기 개발.",
+    "reason": "멤버 전용 앱의 화면 구현부터 DB 스키마 설계까지 담당하는 초기 풀스택 롤. React와 PWA 기반이므로 소상상점과 MVP 개발 경험을 살려 모바일 웹 환경의 초기 세팅을 주도할 수 있어 핏이 잘 맞음.",
+    "risk": "계약직 형태이므로 장기 커리어 안정성 확인 필요",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "PWA 딥다이브 및 초기 DB 스키마 최적화",
+    "motivation": "React와 PWA를 활용해 롱진의 커뮤니티 멤버들에게 앱 수준의 매끄러운 모바일 경험을 빠르고 안정적으로 제공하겠습니다.",
+    "questions_to_ask": "계약 기간 완료 후 정규직 전환 가능성 및 백엔드 스택(Node.js 등)",
+    "portfolio_link_point": "웹에이전시 MVP 경험을 통한 빠르고 완성도 높은 앱 프론트 구현 어필",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "jobkorea_49409053": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "Vue.js",
+      "SI"
+    ],
+    "summary": "㈜에이블짐정보 프론트엔드 개발자 — SI/솔루션 기반 프론트엔드 구현.",
+    "reason": "React, Vue.js, Node.js 등을 폭넓게 다루는 SI 환경 프론트엔드 직무. 레거시(JSP, MiPlatform)도 일부 다룰 수 있으나, 웹에이전시 MVP 등 여러 프로젝트를 빠르게 전개해 본 경험과 부합하는 면이 있음.",
+    "risk": "SI 성격상 파견이나 구형 기술(xPlatform, Nexacro) 유지보수에 투입될 우려 존재",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "SI 프로젝트 라이프사이클 및 레거시 플랫폼 대응",
+    "motivation": "빠르게 변화하는 여러 프로젝트 환경에서도 안정적인 프론트엔드 산출물을 제공하는 역할을 하고 싶습니다.",
+    "questions_to_ask": "React 비중 및 SI 파견 빈도, 자체 솔루션 유무",
+    "portfolio_link_point": "다양한 웹에이전시 기반 MVP 프로젝트를 단기간에 구현한 경험 어필",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "jobkorea_49406835": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "Python",
+      "Linux"
+    ],
+    "summary": "㈜삼양인터내셔날GS그룹 경영지원부문 전산팀 — 사내 IT 인프라 및 React/Python 기반 시스템 관리.",
+    "reason": "사내 전산 지원과 더불어 React, Python을 활용한 백오피스성 웹 관리/개발 업무로 보임. 소규모 부서에서 풀스택 형태로 사내 시스템을 최적화하는 데 소상상점과 쌍청문 등 관리자/운영툴 개발 경험이 잘 녹아들 수 있음.",
+    "risk": "사무 지원, 전산 장애 대응 등 비개발 잡무 비중이 높을 가능성",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "엔터프라이즈 사내망 관리 및 대기업 인프라 규정",
+    "motivation": "React와 Python을 활용한 웹 기술로 임직원의 업무 생산성을 극대화하는 사내 시스템 환경을 책임지겠습니다.",
+    "questions_to_ask": "순수 웹 개발 비중과 사내 헬프데스크(IT 지원) 비중 차이 확인",
+    "portfolio_link_point": "비공개 고객사 웹 프로젝트 등 실무 관리자 시스템 구축 사례를 통한 백오피스 운영 역량 어필",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "saramin_54214954": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (saramin_54214954).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch saramin_54214954)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369388": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_369388).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_369388)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369498": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_369498).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_369498)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369421": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_369421).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_369421)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369313": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_369313).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_369313)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_292454": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_292454).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_292454)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369428": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_369428).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_369428)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_358279": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_358279).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_358279)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369377": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_369377).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_369377)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369433": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_369433).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_369433)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_368281": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_368281).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_368281)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_369323": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_369323).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_369323)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_318843": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_318843).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_318843)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "wanted_271471": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (wanted_271471).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch wanted_271471)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
+  },
+  "jobkorea_49408833": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Out of Scope"
+    ],
+    "summary": "타겟 직무(프론트엔드/웹)와 무관한 공고입니다 (jobkorea_49408833).",
+    "reason": "프론트엔드 개발 직무 요건에 부합하지 않아 대상에서 제외된 포지션입니다. (Scope Mismatch jobkorea_49408833)",
+    "risk": "프론트엔드 기술과 무관",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "본 공고는 프론트엔드/웹 개발을 목표로 하는 사용자 커리어 전략에 부합하지 않으므로 지원하지 않습니다.",
+    "questions_to_ask": "없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-18T23:36:35.590Z"
   }
 }
