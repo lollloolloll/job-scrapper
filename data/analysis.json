@@ -12664,5 +12664,331 @@
     "questions_to_ask": "해당 도메인에서 웹 프론트엔드 개발자의 필요성 확인",
     "portfolio_link_point": "없음",
     "analyzed_at": "2026-06-22T23:15:50.119Z"
+  },
+  "saramin_54253781": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "React"
+    ],
+    "summary": "라임컴퍼니의 Java 및 React 기반 풀스택 SI 포지션.",
+    "reason": "프론트엔드와 백엔드를 모두 다뤄야 하는 SI 포지션으로 보이며, 프론트엔드 중심의 커리어 패스와 완전히 일치하지 않아 추가 확인이 필요합니다. (확인 필요)",
+    "risk": "SI 파견 근무 여부 확인 필요",
+    "feature_project": "풀스택 경험",
+    "learning_points": "SI 프로젝트 생태계 및 다양한 개발 환경 적응",
+    "motivation": "다양한 실무 환경에서 시스템 구축 경험을 쌓고 싶습니다.",
+    "questions_to_ask": "실제 파견 시 프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 대여 시스템 등 초기부터 단독으로 구현해본 풀스택 역량",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370288": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "프론트엔드"
+    ],
+    "summary": "넥스트그라운드의 집품 플랫폼 프론트엔드 인턴 직무.",
+    "reason": "넥스트그라운드가 운영하는 집품 플랫폼은 사용자 유입과 직관적인 인터페이스가 중요하므로, 웹에이전시에서 초기 고객 요구사항을 제품으로 구현한 감각이 큰 도움이 될 것입니다.",
+    "risk": "인턴 포지션이므로 정규직 전환율 확인 요망",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "B2C 부동산 플랫폼 도메인의 복잡한 데이터 표현 및 상태 관리",
+    "motivation": "사용자 친화적인 부동산 플랫폼 구축을 통해 실생활 문제를 해결하고자 합니다.",
+    "questions_to_ask": "인턴십 종료 후 정규직 프로덕트 엔지니어로의 전환 기준",
+    "portfolio_link_point": "고객 퍼널을 고려해 MVP를 단기간에 구현했던 웹에이전시 사례 강조",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370226": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "AI Agent",
+      "Backend"
+    ],
+    "summary": "소크라에이아이의 교육용 AI 에이전트 개발 인턴.",
+    "reason": "소크라에이아이는 글로벌 에듀테크 스타트업이지만, 모집 분야가 에이전트 개발 자체이므로 프론트엔드보다 백엔드 모델링 비중이 커 보입니다. (확인 필요)",
+    "risk": "전문 AI 모델 개발 업무로의 편중",
+    "feature_project": "AI-native workflow",
+    "learning_points": "프롬프트 엔지니어링 및 AI 에이전트 통합 아키텍처",
+    "motivation": "에이전트를 활용한 혁신적인 교육 서비스 구현에 기여하고 싶습니다.",
+    "questions_to_ask": "AI 모델 연동 웹 서비스 개발 비중은 어떻게 배분되는지",
+    "portfolio_link_point": "Hermes Agent 등 개인적인 AI 도구 연동 자동화 경험",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370183": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "B2B SaaS"
+    ],
+    "summary": "아르고스의 B2B 신원확인(KYC) 클라우드 서비스 프론트엔드 직무.",
+    "reason": "아르고스아이덴티티코리아의 기업용 플랫폼은 관리자 권한과 운영 조건이 매우 중요하므로, 쌍청문 대여 시스템에서 복잡한 정책을 단독으로 처리했던 경험을 확실히 어필할 수 있습니다.",
+    "risk": "KYC 도메인의 높은 보안 요구사항 대응",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "금융권 수준의 보안 및 글로벌 B2B SaaS 환경",
+    "motivation": "높은 신뢰성을 요구하는 신원 확인 솔루션의 인터페이스를 개선하고 싶습니다.",
+    "questions_to_ask": "관리자 백오피스와 B2B 고객 접점 중 주로 어떤 쪽을 담당하게 되는지",
+    "portfolio_link_point": "예약 정책 및 권한 기반 관리자 대시보 구축 경험",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370109": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "Flutter",
+      "Frontend"
+    ],
+    "summary": "띵킹프렌즈의 AI 파이프라인 연동 웹/앱 개발 포지션.",
+    "reason": "띵킹프렌즈는 AI 파이프라인을 활용해 외주 서비스를 개발하므로 저의 웹에이전시 MVP 경험과 잘 어울리며, AI 워크플로우 활용 경험을 십분 발휘할 수 있습니다.",
+    "risk": "Flutter 비중이 높을 경우 모바일 네이티브 학습 필요",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "크로스 플랫폼 모바일 아키텍처",
+    "motivation": "자동화 도구와 결합된 투명하고 신속한 제품 개발 과정에 기여하고자 합니다.",
+    "questions_to_ask": "React 기반 웹과 모바일 앱 업무 비율",
+    "portfolio_link_point": "신속하게 랜딩페이지를 배포하고 요구사항을 조율했던 웹에이전시 성과",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370103": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "React",
+      "Next.js",
+      "Commerce"
+    ],
+    "summary": "레브잇의 AI 기반 커머스 서비스 프론트엔드 인턴.",
+    "reason": "레브잇의 공고는 명확히 Product Engineer를 지향하며 소상공인 도메인 특성이 있으므로, 소상상점에서 서비스 흐름 전체를 기획/구현했던 경험이 큰 장점으로 작용할 것입니다.",
+    "risk": "정규직 채용 연계 가능성 타진 필요",
+    "feature_project": "소상상점",
+    "learning_points": "커머스 대규모 트래픽 대응 및 AI 챗봇 연동",
+    "motivation": "AI 쇼핑 비서를 통한 새로운 사용자 쇼핑 경험을 만들어가는 과정에 동참하고 싶습니다.",
+    "questions_to_ask": "A/B 테스트 및 데이터 기반 프로덕트 개선 문화의 구체적 사례",
+    "portfolio_link_point": "비즈니스 지표를 고려하며 협업해 완성한 소상상점 프로젝트",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "jobkorea_49436847": {
+    "fit_score": 6,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "웹개발",
+      "프론트엔드"
+    ],
+    "summary": "하나에이아이 충남 지역 프론트엔드 신입/경력 채용 공고.",
+    "reason": "프론트엔드 개발 직무이기는 하나, 구체적인 기술 스택 정보가 부족하여 React 중심의 업무인지 여부를 파악하는 과정이 선행되어야 합니다. (확인 필요)",
+    "risk": "사용 프레임워크 미상 및 천안 지역 근무",
+    "feature_project": "소상상점",
+    "learning_points": "하나에이아이의 주력 도메인",
+    "motivation": "기본기가 탄탄한 웹 개발을 바탕으로 회사 시스템 발전에 기여하겠습니다.",
+    "questions_to_ask": "실제 서비스에서 주로 사용하는 프론트엔드 라이브러리 및 배포 환경 (확인 필요)",
+    "portfolio_link_point": "안정적인 컴포넌트 설계와 유연한 화면 구현 능력",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "jobkorea_49432381": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Android",
+      "App"
+    ],
+    "summary": "티모넷 프론트엔드 파트 안드로이드 모바일 앱 전담 개발자.",
+    "reason": "티모넷의 본 채용건은 프론트엔드 팀 내부의 안드로이드 네이티브 업무로 추정되어, 웹 기반 기술 생태계를 주로 다뤄온 저와는 스택이 일치하지 않습니다.",
+    "risk": "네이티브 안드로이드 지식 요구",
+    "feature_project": "풀스택 경험",
+    "learning_points": "Kotlin 혹은 Java 기반 네이티브 앱 구조",
+    "motivation": "결제 시스템 기반 모바일 앱 개발 고도화 (지원 우선순위 낮음)",
+    "questions_to_ask": "모바일 웹뷰 연동 등 웹 기술 활용 비중이 어느 정도인지",
+    "portfolio_link_point": "반응형 웹을 통한 모바일 UI 대응 최적화 경험",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "jobkorea_49439983": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "JSP",
+      "Java"
+    ],
+    "summary": "인성회계법인 내부 전산팀의 JSP/Java 기반 유지보수 포지션.",
+    "reason": "인성회계법인의 사내 전산 유지보수 업무로, 명시된 스택이 Java와 JSP 위주이기에 모던 웹 개발 생태계 경험을 살리기가 쉽지 않아 보입니다. (확인 필요)",
+    "risk": "레거시 시스템 기반의 단조로운 운영 업무 가능성",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "회계 분야 비즈니스 로직 및 구형 엔터프라이즈 환경",
+    "motivation": "안정적인 전산 시스템 운영으로 사내 실무 효율성을 향상하겠습니다. (보류)",
+    "questions_to_ask": "전산망을 React 등 모던 환경으로 전환할 중장기 로드맵 유무 (확인 필요)",
+    "portfolio_link_point": "사내 대시보드와 관리자 툴을 운영해본 안정적 문제 해결 이력",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "saramin_54255455": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AI",
+      "ML"
+    ],
+    "summary": "리버에이아이의 딥러닝 기반 AI 모델 연구 및 엔지니어링 직무. (Out of Scope)",
+    "reason": "리버에이아이는 딥러닝과 모델링 등 순수 인공지능 연구 개발에 초점을 맞추는 공고이므로, AI 도구를 활용하는 저의 프론트엔드 지향점과는 상당한 거리가 존재합니다.",
+    "risk": "비개발 직무 혹은 전문 ML 엔지니어링 위주",
+    "feature_project": "AI-native workflow",
+    "learning_points": "머신러닝 기초 모델링 및 데이터 엔지니어링",
+    "motivation": "AI 기술 자체에 대한 깊이 있는 연구 (지원 의사 낮음)",
+    "questions_to_ask": "프론트엔드 애플리케이션 개발 역할이 포함되어 있는지 (확인 필요)",
+    "portfolio_link_point": "AI 기반 작업 방식을 활용한 생산성 향상 사례",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_171889": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "DevOps",
+      "Infra"
+    ],
+    "summary": "매드업의 클라우드 인프라 아키텍처 및 CI/CD 전담 데브옵스 직무. (Out of Scope)",
+    "reason": "매드업의 인프라 구축과 CI/CD 파이프라인 운영을 전담하는 데브옵스 포지션은 저의 핵심 역량인 프론트엔드 개발과 방향성이 다릅니다.",
+    "risk": "인프라/서버 관리에 한정된 업무 범위",
+    "feature_project": "풀스택 경험",
+    "learning_points": "대규모 트래픽 처리를 위한 인프라 아키텍처",
+    "motivation": "클라우드 기반 아키텍처 운영 경험 습득 (보류)",
+    "questions_to_ask": "개발 파트와의 협업 구조 및 데브옵스의 구체적인 책임 범위",
+    "portfolio_link_point": "Vercel 등 배포 경험을 서버 지식으로 최소한 어필",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_218263": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "기획",
+      "교육"
+    ],
+    "summary": "코드잇 부트캠프의 AI 교육 커리큘럼 제작 및 기획 포지션. (Out of Scope)",
+    "reason": "코드잇의 프로듀서 역할은 소프트웨어 개발보다는 강좌 기획과 콘텐츠 생산에 치중되어 있어 프로덕트 엔지니어로서의 성장이 어렵습니다.",
+    "risk": "코딩 및 서비스 개발 실무 기회 부재",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "온라인 교육 콘텐츠 기획 및 제작 노하우",
+    "motivation": "교육을 통한 기술 지식 전파 (개발 직무 아님)",
+    "questions_to_ask": "향후 사내 시스템 혹은 제품 개발 부서로의 전환 가능성 여부 (확인 필요)",
+    "portfolio_link_point": "클라이언트의 요구사항을 반영해 문서를 작성했던 경험",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_353806": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Blockchain",
+      "Security"
+    ],
+    "summary": "빗썸 가상자산거래소의 블록체인 지갑 보안 및 암호학 전문 직무. (Out of Scope)",
+    "reason": "빗썸 거래소의 지갑 보안 엔지니어는 블록체인 및 보안 전문성을 요하는 특수 직무로, Next.js 중심의 UI/UX 개발 경험과는 교집합이 매우 적습니다.",
+    "risk": "프론트엔드 스킬과의 무관함",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "블록체인 암호화 및 핀테크 보안 기술",
+    "motivation": "금융 시스템의 무결성과 보안 강화 (비추천)",
+    "questions_to_ask": "보안 외에 사용자 접점의 서비스 개발 업무가 있는지",
+    "portfolio_link_point": "OAuth 및 기본적인 API 보안 통신 경험",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370301": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Physical AI",
+      "Hardware"
+    ],
+    "summary": "제논의 B2B 솔루션용 생성형 AI 기반 하드웨어 및 임베디드 시스템 연동 직무. (Out of Scope)",
+    "reason": "제논의 하드웨어 연동 중심 인공지능 엔지니어 포지션은 웹 서비스 단의 사용자 경험 설계와는 거리가 멀기 때문에 적합도가 현저히 떨어집니다.",
+    "risk": "로보틱스 혹은 전문 AI 모델 최적화 업무",
+    "feature_project": "AI-native workflow",
+    "learning_points": "임베디드 및 물리적 AI 시스템 인터페이스",
+    "motivation": "물리적 장비와 AI의 결합 연구 (직무 불일치)",
+    "questions_to_ask": "혹시 웹 기반 관제 시스템이나 대시보드를 개발하는 팀이 별도로 존재하는지",
+    "portfolio_link_point": "기술 트렌드를 빠르게 익히는 학습 능력 어필",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370294": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "기획",
+      "커리큘럼"
+    ],
+    "summary": "코드잇 B2C 교육 사업부의 AI 엔지니어링 커리큘럼 설계 직무. (Out of Scope)",
+    "reason": "코드잇의 커리큘럼 기획 매니저 공고는 철저히 부트캠프 설계와 시장 분석에 맞춰져 있어서 실제 코드를 작성하는 엔지니어의 길과는 명백히 어긋납니다.",
+    "risk": "개발 실무 기회 전무",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "교육 기획 및 테크 트렌드 분석",
+    "motivation": "AI 지식을 체계화하여 전달하는 기획 (비추천)",
+    "questions_to_ask": "해당 포지션에서 개발 지식을 활용해 내부 툴을 만들 기회가 주어지는지",
+    "portfolio_link_point": "노션을 활용한 문서화 및 지식 정리 습관",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370169": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Infra",
+      "Call System"
+    ],
+    "summary": "토스뱅크 상담플랫폼 전담 콜 인프라 운영 관리 직무. (Out of Scope)",
+    "reason": "토스뱅크의 본 공고는 CS 상담 시스템 및 콜 인프라 엔지니어링에 국한되어 있어, Next.js 기반 서비스 개발을 원하는 저의 방향성과 완전히 상충합니다.",
+    "risk": "전형적인 네트워크/콜센터 시스템 운영 업무",
+    "feature_project": "소상상점",
+    "learning_points": "대규모 고객 센터 IT 인프라 관리",
+    "motivation": "안정적인 금융 상담 환경 제공 (적합도 낮음)",
+    "questions_to_ask": "콜 시스템 연동용 사내 웹 백오피스 개발 업무가 포함되는지",
+    "portfolio_link_point": "웹 서비스 인프라에 대한 기본적인 이해도",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "wanted_370239": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "ML",
+      "Vision AI"
+    ],
+    "summary": "에이아이구루 반도체 산업용 비전 AI 머신러닝 모델 개발자. (Out of Scope)",
+    "reason": "에이아이구루의 머신러닝 포지션은 반도체 등 제조 산업에 적용되는 컴퓨터 비전 모델 고도화가 핵심이므로, 웹 프론트엔드 역량과는 교차점이 없습니다.",
+    "risk": "제조/임베디드 분야의 수학 및 통계 지식 요구",
+    "feature_project": "AI-native workflow",
+    "learning_points": "비전 AI 기초 및 산업용 데이터 파이프라인",
+    "motivation": "AI 알고리즘의 상용화 적용 (비관련 분야)",
+    "questions_to_ask": "분석 결과를 시각화하기 위한 프론트엔드 기술 수요가 별도로 존재하는지",
+    "portfolio_link_point": "개인 워크플로우 효율화를 위한 AI 활용 경험",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "jobkorea_49439817": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Java",
+      "백엔드"
+    ],
+    "summary": "엑스솔콥코리아의 순수 자바 기반 서버 개발 인턴 직무. (Out of Scope)",
+    "reason": "엑스솔콥코리아의 인턴 공고는 Java 기반의 백엔드 솔루션 환경에 집중되어 있을 가능성이 높아 모던 리액트 환경과의 거리가 존재하여 제외합니다.",
+    "risk": "오직 백엔드 업무로 제한될 여지",
+    "feature_project": "풀스택 경험",
+    "learning_points": "자바 엔터프라이즈 환경 경험",
+    "motivation": "백오피스 서비스 최적화",
+    "questions_to_ask": "프론트 비중 (확인 필요)",
+    "portfolio_link_point": "쌍청문에서의 기본 백엔드 구성",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "jobkorea_49218376": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "학원",
+      "국비지원"
+    ],
+    "summary": "MBC아카데미 컴퓨터교육센터의 국비지원 과정 취업 훈련생 모집. (Out of Scope)",
+    "reason": "본 게시물은 기업의 인재 채용이 아니라 직업 훈련 기관에서 학생을 대규모로 모집하는 국비지원 광고이므로, 일자리를 탐색하는 현재의 목적과 전혀 맞지 않습니다.",
+    "risk": "구직과는 무관한 단순 학원 마케팅 홍보",
+    "feature_project": "소상상점",
+    "learning_points": "기초 웹 개발 스택 재학습",
+    "motivation": "추가적인 국비 훈련 (지원 대상 아님)",
+    "questions_to_ask": "수료 후 연계되는 기업 풀의 퀄리티 (확인 필요)",
+    "portfolio_link_point": "이미 자기주도적으로 학습하고 완성한 프로젝트 포트폴리오의 경쟁력",
+    "analyzed_at": "2026-06-23T23:23:44.983Z"
   }
 }
