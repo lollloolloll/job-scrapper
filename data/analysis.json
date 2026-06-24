@@ -12990,5 +12990,342 @@
     "questions_to_ask": "수료 후 연계되는 기업 풀의 퀄리티 (확인 필요)",
     "portfolio_link_point": "이미 자기주도적으로 학습하고 완성한 프로젝트 포트폴리오의 경쟁력",
     "analyzed_at": "2026-06-23T23:23:44.983Z"
+  },
+  "saramin_54266419": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Frontend",
+      "Robot Platform"
+    ],
+    "summary": "현대오토에버 로봇 플랫폼 분야의 프론트엔드 신입 포지션입니다.",
+    "reason": "대기업의 로봇 플랫폼 화면 및 관리 기능을 구현하는 역할로, 쌍청문 대여 관리 시스템 등에서 보여준 관리자 페이지 경험과 Next.js/React 기반의 사용자 화면 구현 능력이 긍정적으로 작용할 수 있습니다.",
+    "risk": "코딩테스트가 포함된 대기업 공채로 알고리즘 대비가 필요하며, 로봇 제어 도메인 특유의 요구사항이 있을 수 있습니다.",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "로봇 플랫폼이나 IoT 관련 프론트엔드 통신(WebSocket, 실시간 제어 등)에 대한 이해도 확장이 요구됩니다.",
+    "motivation": "쌍청문 시설의 기기 제어 및 상태 모니터링 관리자 화면을 개발했던 경험을 살려, 로봇 플랫폼의 실시간 상태를 직관적으로 제공하는 프론트엔드 개발자가 되겠습니다.",
+    "questions_to_ask": "로봇 상태 모니터링 시 실시간 데이터 통신 방식(예: WebSocket)의 프론트엔드 처리 비중이 어느 정도인지 궁금합니다.",
+    "portfolio_link_point": "쌍청문 대여 관리 시스템의 관리자 대시보드 및 실시간 상태 표출 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "saramin_54267920": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Back-office",
+      "Enterprise IT",
+      "Java",
+      "Spring"
+    ],
+    "summary": "현대오토에버의 엔터프라이즈 백오피스 서비스 개발 직무입니다.",
+    "reason": "내부 운영 시스템 개발에 강점을 보일 수 있는 쌍청문 예약 시스템과 관리자 화면 구현 경험이 이 기업의 백오피스 서비스와 훌륭한 시너지를 낼 것으로 보입니다.",
+    "risk": "프론트 비중보다 Java/Spring 백엔드 역할이 크게 요구될 수 있으므로, 지원 전 기술 스택 확인이 필요합니다.",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "엔터프라이즈 환경에서의 복잡한 권한 관리 및 대규모 트랜잭션 처리에 대한 지식이 필요합니다.",
+    "motivation": "실제 기관의 운영 정책을 코드화하고 권한별 기능을 나눈 쌍청문 프로젝트 경험을 통해, 현대오토에버의 안정적인 백오피스 서비스 구축에 기여하겠습니다.",
+    "questions_to_ask": "백오피스 서비스 개발에서 프론트엔드(React/Next.js 등)와 백엔드 개발의 업무 분담 비율이 궁금합니다.",
+    "portfolio_link_point": "쌍청문 공간대여 시스템의 복잡한 운영 정책 반영 및 권한별 관리자 기능 구현 스토리",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "saramin_54268859": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "IT System",
+      "Operations",
+      "Infra"
+    ],
+    "summary": "현대오토에버 IT시스템 전반을 운영/개발하는 신입 포지션입니다.",
+    "reason": "웹 개발 역량 외에도 시스템 인프라 및 전사적 아키텍처 운영 지식이 요구될 수 있어, 순수 프론트엔드 포지셔닝과는 거리가 있을 가능성이 존재합니다.",
+    "risk": "인프라, 네트워크, 서버 운영 등 DevOps 중심 포지션일 확률이 높아 주의가 필요합니다.",
+    "feature_project": "웹에이전시/MVP 경험",
+    "learning_points": "엔터프라이즈급 IT 인프라 아키텍처 및 대규모 서버 배포 환경에 대한 이해가 부족할 수 있습니다.",
+    "motivation": "AI 도구를 활용해 복잡한 시스템 로그를 분석하고 문제를 해결하는 작업 방식을 바탕으로 IT시스템의 안정성을 높이겠습니다.",
+    "questions_to_ask": "해당 직무가 프론트엔드/백엔드 애플리케이션 개발 중심인지, 아니면 인프라/네트워크 운영 중심인지 정확한 확인이 필요합니다.",
+    "portfolio_link_point": "다양한 도메인의 웹에이전시 MVP 개발 시 환경 구성 및 배포 이슈를 주도적으로 해결한 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "saramin_54268355": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Groupware",
+      "Platform",
+      "Web",
+      "Collaboration"
+    ],
+    "summary": "현대차그룹의 사내 그룹웨어 플랫폼인 Autoway 관련 개발 직무입니다.",
+    "reason": "소상상점 프로젝트에서 다루었던 협업, 권한, 채팅, 그룹 기능을 구현한 경험이 그룹웨어 플랫폼 개발과 직접적으로 이어질 수 있는 훌륭한 강점입니다.",
+    "risk": "사내 망 환경에서의 레거시 시스템 연동이나 기존 솔루션 유지보수 성격이 강할 수 있습니다.",
+    "feature_project": "소상상점",
+    "learning_points": "대규모 사내 시스템 연동 및 레거시 그룹웨어 아키텍처(결재, 메일 등)에 대한 학습이 필요할 수 있습니다.",
+    "motivation": "소상상점 플랫폼에서 사용자 권한과 그룹 간 협업 기능을 구축한 노하우를 바탕으로, 효율적이고 유연한 Autoway 그룹웨어를 만들겠습니다.",
+    "questions_to_ask": "신규 플랫폼 고도화 시 React/Next.js와 같은 최신 프론트엔드 스택을 적극적으로 도입하고 있는지 알고 싶습니다.",
+    "portfolio_link_point": "소상상점에서의 사용자 그룹 관리, 채팅, 협업 기능 구현 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "saramin_54271775": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "Python",
+      "AI Platform"
+    ],
+    "summary": "대전 소재의 JAVA, Python 기반 AI 플랫폼 백엔드/데이터 개발 포지션입니다.",
+    "reason": "주력 기술 스택인 Next.js/React와 달리 Java와 Python 중심의 AI 플랫폼 역할이며, 근무지가 대전으로 지역 요건도 맞지 않을 확률이 높습니다.",
+    "risk": "프론트엔드 비중이 약하고 AI 모델 파이프라인이나 백엔드 위주의 업무일 가능성이 높습니다.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Python 기반 AI 파이프라인 연동 및 Java 백엔드 아키텍처에 대한 전문성이 부족합니다.",
+    "motivation": "평소 AI 에이전트를 적극 활용하여 문제를 분석하는 역량을 살려 AI 플랫폼의 데이터 흐름을 최적화하겠습니다.",
+    "questions_to_ask": "플랫폼의 사용자 인터페이스(UI/UX) 구현에 프론트엔드 전담 인력이 어떻게 구성되어 있는지 궁금합니다.",
+    "portfolio_link_point": "AI 도구(Claude 등)를 활용한 문제 해결 방식과 분석적 사고 과정",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_370021": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "LLM",
+      "vLLM",
+      "GPU",
+      "Python",
+      "Infra"
+    ],
+    "summary": "Python 및 GPU 기반의 AI 인프라 최적화와 LLM 서빙을 담당하는 포지션입니다.",
+    "reason": "이 직무는 고성능 컴퓨팅 및 모델 서빙 인프라에 대한 깊은 지식이 필요한 AI 엔지니어 역할이므로 웹 프론트엔드 경험과 매칭되지 않습니다.",
+    "risk": "웹 개발이 아닌 순수 인프라/AI 모델링 서빙 관련 직무입니다.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "GPU 메모리 관리, vLLM 등의 모델 서빙 프레임워크 및 Python 최적화 경험이 전무합니다.",
+    "motivation": "빠른 학습력을 바탕으로 LLM 서빙 아키텍처의 안정성을 모니터링하는 인터페이스를 구현하겠습니다.",
+    "questions_to_ask": "해당 포지션에서 웹 기반 모니터링 대시보드 개발 업무가 포함되는지 알고 싶습니다.",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_178246": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Consulting",
+      "Operation",
+      "AI"
+    ],
+    "summary": "AI 기반 오퍼레이션 컨설팅을 수행하는 비개발 직무 포지션입니다.",
+    "reason": "프로덕트를 직접 구현하는 엔지니어 역할이 아니라 기업 컨설팅 및 전략 기획 중심의 포지션으로 판단되어 추천하지 않습니다.",
+    "risk": "실제 코드를 작성하는 프론트엔드/웹 개발 업무가 주어지지 않을 가능성이 매우 큽니다.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "비즈니스 프로세스 분석 및 엔터프라이즈 컨설팅 방법론 지식이 필요합니다.",
+    "motivation": "다양한 MVP 기획 단계에서 고객 요구사항을 수집한 경험을 바탕으로 AI 운영 프로세스를 제안하겠습니다.",
+    "questions_to_ask": "개발 리소스 없이 비즈니스 컨설팅과 기획 업무로만 구성된 직무인지 확인 부탁드립니다.",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트의 고객 퍼널 및 요구사항 분석 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_370637": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Technical Support",
+      "CS",
+      "Manager"
+    ],
+    "summary": "고객 기술 지원 및 CS를 담당하는 테크니컬 서포트 직무입니다.",
+    "reason": "직접적인 제품 개발보다는 자사 솔루션을 사용하는 고객의 기술 문의를 응대하고 트러블슈팅을 돕는 지원 역할이므로 제품 엔지니어 지향성과 다릅니다.",
+    "risk": "프론트엔드 개발 커리어를 이어나가기보다는 기술 지원과 커뮤니케이션 중심 업무에 치중될 위험이 있습니다.",
+    "feature_project": "웹에이전시/MVP 경험",
+    "learning_points": "고객 응대 커뮤니케이션 스킬 및 자사 특정 솔루션에 대한 빠른 기술 숙지가 주된 요구사항입니다.",
+    "motivation": "외주 클라이언트의 기술적 문제를 소통하며 해결해 온 경험을 살려, 정확한 기술 지원을 제공하겠습니다.",
+    "questions_to_ask": "지원 업무 외에 사내 툴이나 대시보드 등을 직접 개발할 수 있는 기회가 열려 있는지 궁금합니다.",
+    "portfolio_link_point": "비공개 고객사 프로젝트 진행 시 원활하게 요구사항과 오류를 소통하고 해결한 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_370608": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Solutions Architect",
+      "Field Deployment",
+      "SW"
+    ],
+    "summary": "고객 환경에 자사 소프트웨어 배포 및 아키텍처 설계를 지원하는 SA 포지션입니다.",
+    "reason": "클라이언트 사이트의 인프라 통합, 배포, 솔루션 커스터마이징이 주 업무인 직군으로, 경력자가 주로 수행하는 고난도 인프라/아키텍처 직무일 가능성이 큽니다.",
+    "risk": "Product Engineer 관점에서의 프론트엔드 구현 경험보다는 인프라 및 고객사 시스템 연동(SI 성격) 능력이 필수적입니다.",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "엔터프라이즈 고객사의 다양한 온프레미스/클라우드 환경에 대한 배포 및 통합 경험이 부족합니다.",
+    "motivation": "Docker 및 서버 세팅을 통해 키오스크 환경을 일관성 있게 배포한 경험을 고객사 아키텍처 설계에 응용하겠습니다.",
+    "questions_to_ask": "고객사별 커스터마이징 과정에서 실제 프론트엔드 소스 코드를 수정하고 개발하는 비중이 얼마나 되나요?",
+    "portfolio_link_point": "쌍청문 키오스크 프로젝트의 Docker 배포 및 로컬 DB 구성 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_370605": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Full-stack",
+      "React",
+      "Node.js",
+      "Startup"
+    ],
+    "summary": "스타트업 환경에서 프론트와 백엔드를 아우르는 풀스택 엔지니어 포지션입니다.",
+    "reason": "단독으로 시스템의 처음과 끝을 구현한 쌍청문 예약/대여 시스템 경험을 통해 초기 스타트업의 Product Engineer로서 바로 기여할 수 있는 역량이 돋보입니다.",
+    "risk": "풀스택 포지션이므로 회사에서 요구하는 백엔드 프레임워크(예: Node.js/NestJS 등)와의 정확한 스택 일치 여부를 파악해야 합니다.",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "스타트업 특유의 빠른 이터레이션에서 발생할 수 있는 데이터베이스 성능 최적화 경험 보완이 필요할 수 있습니다.",
+    "motivation": "실제 기관에서 발생한 문제를 풀스택으로 파악해 해결한 실행력을 바탕으로 음양관의 초기 프로덕트를 빠르게 구축하겠습니다.",
+    "questions_to_ask": "개발 중 프론트엔드와 백엔드의 업무 비중을 어떻게 계획하고 계시는지, 주로 집중해야 할 영역이 무엇인지 알고 싶습니다.",
+    "portfolio_link_point": "쌍청문 공간대여 시스템에서 정책 변경에 따른 DB 마이그레이션과 프론트엔드 연동을 동시에 처리한 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_359834": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "AI Agent",
+      "Python",
+      "LLM",
+      "Backend"
+    ],
+    "summary": "LLM 기반의 자동화 AI 에이전트를 개발하는 백엔드 포지션입니다.",
+    "reason": "개인적으로 AI workflow를 구축한 경험은 훌륭한 보조 강점이나, 모델 파이프라인이나 AI 에이전트의 내부 로직 자체를 구현하는 메인 개발 업무와는 차이가 있습니다.",
+    "risk": "프론트엔드 역량을 발휘할 수 있는 UI 컴포넌트 개발보다는, 프롬프트 엔지니어링 및 파이썬 백엔드 구현에 치중될 것입니다.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "LangChain 등 AI 에이전트 구축 프레임워크에 대한 백엔드적 구현 실무 경험이 부족합니다.",
+    "motivation": "평소 Claude, OpenCode 등을 활용해 개인 지식 관리용 에이전트 워크플로우를 구성한 감각을 상용 AI 서비스에 녹여내겠습니다.",
+    "questions_to_ask": "에이전트가 동작하는 사용자 화면이나 웹 대시보드를 직접 설계하고 구현하는 역할도 포함되어 있나요?",
+    "portfolio_link_point": "Obsidian 및 Graphify를 연동한 개인 맞춤형 AI memory workflow 구축 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_346789": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "LLM Application",
+      "Frontend",
+      "Backend",
+      "AI"
+    ],
+    "summary": "LLM을 활용한 어플리케이션의 웹 인터페이스와 서비스를 연동하는 역할입니다.",
+    "reason": "AI 기반 웹 어플리케이션 구현에 있어 React/Next.js 스택을 활용할 가능성이 있으나, 백엔드 LLM 연동 경험이 깊게 요구될 수 있습니다.",
+    "risk": "단순 프론트엔드보다 랭체인, RAG 아키텍처 등 AI 응용 파트의 이해를 강하게 요구할 경우 러닝커브가 존재합니다.",
+    "feature_project": "AI-native workflow",
+    "learning_points": "LLM 추론 지연이나 스트리밍 응답 등 AI 어플리케이션 특유의 프론트엔드 비동기 처리에 대한 깊은 이해가 필요합니다.",
+    "motivation": "다양한 AI 에이전트의 응답을 프론트엔드 로직에 통합해 본 사용자 경험을 LLM 기반 어플리케이션 서비스에 적용하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중과 LLM 모델 튜닝/연동 업무의 밸런스가 어떻게 잡혀 있는지 확인하고 싶습니다.",
+    "portfolio_link_point": "여러 AI 툴을 업무 프로세스 및 문서 자동화와 결합해본 AI-native 지향성 스토리",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_369849": {
+    "fit_score": 10,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Full-stack",
+      "Junior",
+      "React",
+      "Next.js"
+    ],
+    "summary": "스타트업 환경의 주니어(신입~3년) 대상 프론트엔드 중심 풀스택 개발자 공고입니다.",
+    "reason": "Next.js/React 생태계에 강점을 가지면서 단독으로 관리자와 사용자 단을 아우르는 구현을 해본 현재의 Product Engineer 포지셔닝에 가장 완벽하게 부합합니다.",
+    "risk": "초기 조직일 경우 시니어 개발자의 멘토링이 부족해 스스로 아키텍처 방향을 찾아가야 할 수 있는 환경입니다.",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "운영 규모가 커짐에 따라 사용자 트래픽 분산과 모니터링 체계를 도입하는 백엔드 안정성 스킬이 요구됩니다.",
+    "motivation": "쌍청문 시설을 위한 대여 시스템을 단독 기획부터 프론트/DB 연동까지 성공적으로 배포한 경험으로 리로아랩스의 성장에 기여하겠습니다.",
+    "questions_to_ask": "프로덕트 초기 단계에서 UI/UX 기획과 개발 결정 과정에 엔지니어가 어느 정도 참여할 수 있나요?",
+    "portfolio_link_point": "Drizzle ORM과 Next.js를 결합하여 단일 스택으로 프론트와 관리자 대시보드를 구축한 사례",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "wanted_370292": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Vision AI",
+      "Automation",
+      "Hardware",
+      "AX Engineer"
+    ],
+    "summary": "머신비전 기술과 자동화 하드웨어 설비를 다루는 제조업 기반 AX 엔지니어 포지션입니다.",
+    "reason": "제조 라인 자동화와 Vision AI를 다루는 하드웨어 및 딥러닝 응용 직군으로 웹 프론트엔드 스킬과 접점이 없는 공고입니다.",
+    "risk": "웹서비스 개발과 완전히 무관한 제조업 장비/설비 프로그래밍 직무입니다.",
+    "feature_project": "소상상점",
+    "learning_points": "공장 자동화 프로세스, 하드웨어 제어 통신 및 머신비전 알고리즘 적용 경험이 일체 없습니다.",
+    "motivation": "웹 환경에서 복잡한 상태 관리를 해결한 집중력을 바탕으로 생산 현장의 문제를 분석하는 데 보탬이 되겠습니다.",
+    "questions_to_ask": "소프트웨어 비중 중 웹 기반 모니터링 인터페이스 개발이 별도로 분리되어 있는지 궁금합니다.",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "jobkorea_49446018": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Frontend",
+      "CMS",
+      "React",
+      "Next.js"
+    ],
+    "summary": "광고 운영 시스템과 CMS 대시보드를 전문적으로 구현할 프론트엔드 개발자 포지션입니다.",
+    "reason": "복잡한 정책과 상태를 관리하는 CMS(콘텐츠 관리 시스템) 개발은 쌍청문 공간대여 시스템에서 다양한 관리자 화면을 구성한 경험과 매우 훌륭하게 매칭됩니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "다양한 광고 데이터와 통계 지표를 렌더링하기 위한 프론트엔드 차트 라이브러리 및 렌더링 최적화 경험이 필요할 수 있습니다.",
+    "motivation": "쌍청문 시스템에서 관리자 대시보드와 대여 통계 테이블을 구현하며 습득한 복잡한 데이터 관리 노하우를 CMS 고도화에 녹여내겠습니다.",
+    "questions_to_ask": "CMS 플랫폼의 주요 사용자층이 내부 운영팀인지, 외부 광고주인지에 따라 UI 기획 방향이 어떻게 달라지는지 궁금합니다.",
+    "portfolio_link_point": "쌍청문 대여 시스템에서 TanStack Table 기반의 관리자 필터 UI 및 데이터 관리 기능 구축 내용",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "jobkorea_49435790": {
+    "fit_score": 6,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Enterprise",
+      "Group IT",
+      "TBD"
+    ],
+    "summary": "현대오토에버의 분기 통합 신입 공채 모집 건입니다.",
+    "reason": "대기업의 다양한 도메인 중 하나로 배치될 공채 성격이 강하며, 지원 시 프론트엔드 관련 직무(모빌리티 웹 등)를 명확하게 선택해야 강점을 발휘할 수 있습니다.",
+    "risk": "부서 배치에 따라 백엔드, 인프라, 보안 등 원하지 않는 영역으로 발령될 가능성을 내포합니다.",
+    "feature_project": "소상상점",
+    "learning_points": "엔터프라이즈 레벨의 개발 표준 가이드 및 대규모 SI 업무 프로세스에 적응하는 능력이 요구됩니다.",
+    "motivation": "소상상점과 같은 장기 프로젝트에서 Storybook과 문서화를 통해 팀 협업을 이끌었던 꼼꼼함으로 대규모 조직의 프로세스에 빠르게 적응하겠습니다.",
+    "questions_to_ask": "프론트엔드 개발 경험을 가장 잘 살릴 수 있는 B2C 모빌리티 서비스나 사내 플랫폼 부서로의 배치 가능성이 열려 있나요?",
+    "portfolio_link_point": "소상상점 개발 과정에서의 Storybook 기반 문서화 및 체계적인 브랜치 관리 경험",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "jobkorea_49432268": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "JSP",
+      "ReactJS",
+      "SI"
+    ],
+    "summary": "Java/JSP 백엔드와 React를 함께 다루는 중소 SI 기업의 웹 개발자 공고입니다.",
+    "reason": "SI 파견 중심의 비즈니스 모델일 가능성이 높아, 자체 프로덕트를 운영하고 개선하며 성장하길 원하는 Product Engineer 지향성에는 다소 아쉬운 환경입니다.",
+    "risk": "Java/Spring 기반의 유지보수 파견 업무가 주를 이룰 확률이 있어 프론트엔드 기술 성장이 정체될 수 있습니다.",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "레거시 SI 환경의 JSP/Servlet 코드 이해 및 고객사 파견지에서의 독립적인 업무 수행 역량이 중요합니다.",
+    "motivation": "풀스택으로 프로젝트의 요구사항부터 배포까지 경험한 과정을 바탕으로 고객사의 시스템 구축 목표를 안정적으로 달성하겠습니다.",
+    "questions_to_ask": "고객사 파견과 자사 솔루션 개발의 업무 비율이 어떻게 나뉘어져 있는지 알고 싶습니다.",
+    "portfolio_link_point": "외부 기관(쌍청문 등)의 요구사항을 반영해 기존 키오스크 솔루션을 새 환경에 맞추어 마이그레이션한 사례",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "jobkorea_49441927": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "OracleDB",
+      "Spring",
+      "Powerbuilder",
+      "Operations"
+    ],
+    "summary": "해운 기업 내 전산 직무로 시스템 개발 및 사내 인프라 유지보수를 담당하는 신입 자리입니다.",
+    "reason": "Powerbuilder, Oracle 등 레거시 시스템 운영 비중이 크고 전산 장비 지원 업무가 혼재되어 있을 가능성이 있어 최신 프론트엔드 커리어와 어울리지 않습니다.",
+    "risk": "Next.js/React와 같은 모던 스택보다는 오래된 기술 기반의 단순 전산 관리 및 사내 지원 업무 위주가 될 위험이 있습니다.",
+    "feature_project": "소상상점",
+    "learning_points": "Powerbuilder 등 생소한 레거시 툴 사용법 및 물류/해운 도메인 지식의 학습이 선행되어야 합니다.",
+    "motivation": "시스템 장애를 추적하고 문제를 꼼꼼하게 문서화했던 이력을 통해 사내 전산 시스템의 운영 효율을 높이는 데 기여하겠습니다.",
+    "questions_to_ask": "Powerbuilder 유지보수 외에 사내 신규 웹 프로젝트를 모던 프레임워크로 기획할 여지가 있는지 확인이 필요합니다.",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-06-24T23:21:32.105Z"
   }
 }
