@@ -13327,5 +13327,219 @@
     "questions_to_ask": "Powerbuilder 유지보수 외에 사내 신규 웹 프로젝트를 모던 프레임워크로 기획할 여지가 있는지 확인이 필요합니다.",
     "portfolio_link_point": "해당 없음",
     "analyzed_at": "2026-06-24T23:21:32.105Z"
+  },
+  "saramin_54282510": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "웹개발",
+      "퍼블리셔",
+      "React"
+    ],
+    "summary": "인프라시스템의 웹 프론트엔드 신입 직무로, 사용자 웹 개발 경험을 살리기 좋은 포지션입니다.",
+    "reason": "해당 프론트엔드 공고는 소상상점에서 수행한 웹 UI 및 컴포넌트 개발 경험을 어필하기에 완벽한 접점을 제공합니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "퍼블리셔 요구사항 대비 CSS 심화 및 웹 접근성",
+    "motivation": "인프라시스템의 웹 프론트엔드 직무에서 컴포넌트 재사용성과 사용성을 고려한 UI를 개발하고 싶습니다.",
+    "questions_to_ask": "프론트엔드와 백엔드의 업무 분담 기준 및 퍼블리싱 비중은 어떻게 되나요?",
+    "portfolio_link_point": "Storybook을 활용한 소상상점의 재사용 UI 컴포넌트 문서화 사례 연결",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "saramin_54284088": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "그래픽디자인",
+      "실내디자인"
+    ],
+    "summary": "디자인예인의 실내인테리어 직무는 개발과 무관한 비개발 포지션입니다.",
+    "reason": "디자인예인의 인테리어 디자인 직무는 개발 경험보다는 그래픽과 실내 디자인을 요구하므로 제 커리어 방향과 맞지 않습니다.",
+    "risk": "비개발 직무 (실내인테리어 디자인)",
+    "feature_project": "AI workflow",
+    "learning_points": "실내 디자인 툴 및 도메인 지식",
+    "motivation": "인테리어 디자인 분야에는 지원하지 않습니다.",
+    "questions_to_ask": "웹 개발 조직이 따로 있는지 확인 필요",
+    "portfolio_link_point": "관련 없음",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "wanted_370848": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Quant",
+      "백엔드",
+      "데이터분석"
+    ],
+    "summary": "웨이브릿지의 Quant Developer 포지션은 금융 데이터 및 퀀트 개발을 요구하는 백엔드 성향이 강합니다.",
+    "reason": "웨이브릿지의 퀀트 개발 직무는 프론트엔드 역량보다 고도화된 수리 모델링과 백엔드 데이터 처리에 집중되어 적합도가 낮습니다.",
+    "risk": "퀀트 개발 및 데이터 엔지니어링 중심의 백엔드 직무",
+    "feature_project": "AI workflow",
+    "learning_points": "금융 공학 및 퀀트 모델링 기초",
+    "motivation": "프론트엔드 중심의 제품 개발을 선호하여 보류합니다.",
+    "questions_to_ask": "조직 내 프론트엔드 개발자의 역할이 따로 존재하는지 여부 확인 필요",
+    "portfolio_link_point": "데이터 분석 경험보다는 AI-native 접근 방식을 가볍게 소개",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "wanted_370841": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "QA",
+      "테스트"
+    ],
+    "summary": "엔카닷컴의 계약직 QA 포지션으로 주니어 프론트엔드 엔지니어 방향과는 거리가 있습니다.",
+    "reason": "엔카닷컴의 QA Tester 계약직 공고는 직접적인 제품 개발보다 테스트 실행에 초점이 맞춰져 있어 메인 진로로 삼기 어렵습니다.",
+    "risk": "비개발 직무(QA) 및 계약직 형태",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "전문 QA 프로세스 및 테스트 자동화 툴",
+    "motivation": "사용자 웹 구축 및 기능 구현에 더 집중하고 싶습니다.",
+    "questions_to_ask": "개발 직무로의 전환 가능성이 있는지 확인 필요",
+    "portfolio_link_point": "예약 시스템 테스트 코드 작성 경험 어필 가능하지만 메인은 아님",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "wanted_370872": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React Native",
+      "앱개발",
+      "Product Engineer"
+    ],
+    "summary": "호패의 RN Product Engineer 포지션은 제품 지향적인 강점을 살릴 수 있으나 모바일 앱 단독 개발일 가능성이 높습니다.",
+    "reason": "호패의 프로덕트 엔지니어 공고는 제 제품 중심 사고와 맞지만, 웹이 아닌 React Native 단독 포지션일 리스크가 커서 보류합니다.",
+    "risk": "React Native 단독 개발일 수 있음",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "모바일 앱 환경의 네이티브 모듈 및 RN 생태계 지식",
+    "motivation": "호패에서 기획부터 개발까지 참여하며 사용자 문제를 직접 해결하는 프로덕트 엔지니어로 기여하고 싶습니다.",
+    "questions_to_ask": "웹 개발과 앱 개발의 비중 및 웹 기술스택 혼용 여부 확인 필요",
+    "portfolio_link_point": "키오스크 대여 시스템에서 요구사항을 파악해 풀스택으로 제품 구현 경험 연결",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "jobkorea_49455040": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "네트워크엔지니어",
+      "시스템엔지니어"
+    ],
+    "summary": "나오빌리의 프리랜서 네트워크 운영 직무는 인프라 관리에 치중되어 있습니다.",
+    "reason": "나오빌리의 네트워크 운영 인력 공고는 프론트엔드 제품 개발이 아닌 인프라 통신 서비스 관리 직무라 커리어 핏이 맞지 않습니다.",
+    "risk": "네트워크 인프라 운영 단독 및 프리랜서 고용",
+    "feature_project": "소상상점",
+    "learning_points": "L2/L3 스위치 및 라우터 등 심화 네트워크 장비 운영",
+    "motivation": "네트워크 인프라보다는 프론트엔드 서비스 개발에 집중하고 싶습니다.",
+    "questions_to_ask": "지원 전 개발과 운영 조직이 분리되어 있는지 확인 필요",
+    "portfolio_link_point": "해당사항 없음",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "jobkorea_49454541": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "백엔드개발자",
+      "시니어",
+      "파트장"
+    ],
+    "summary": "메테오그리드의 커뮤니케이션 파트장 포지션은 리더급 백엔드 운영 직무로 보입니다.",
+    "reason": "메테오그리드의 파트장 공고는 리더십과 시니어 역량을 요구하므로 주니어 프론트엔드 포지션과 크게 다릅니다.",
+    "risk": "리드/시니어 포지션 및 백엔드 단독 성향",
+    "feature_project": "쌍청문 공간대여 예약 시스템",
+    "learning_points": "조직 관리 및 리드 레벨의 커뮤니케이션 역량",
+    "motivation": "현재는 개별 기여자로서 개발 실무에 더 집중하고자 합니다.",
+    "questions_to_ask": "주니어 개발자를 위한 별도 TO가 있는지 확인 필요",
+    "portfolio_link_point": "해당사항 없음",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "jobkorea_49448692": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "클라우드엔지니어",
+      "AWS",
+      "운영"
+    ],
+    "summary": "우나프론트의 클라우드 운영 직무는 AWS 인프라 환경 관리에 맞춰져 있습니다.",
+    "reason": "우나프론트 공고는 프론트엔드 서비스 구현보다 AWS 인프라 유지보수와 클라우드 서비스 관리에 초점이 맞춰져 있어 추천하지 않습니다.",
+    "risk": "클라우드 인프라 운영 단독 직무",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "AWS 아키텍처 및 클라우드 전문 지식",
+    "motivation": "인프라 관리보다는 고객 접점의 사용자 인터페이스 개발을 선호합니다.",
+    "questions_to_ask": "클라우드 팀 내에서 웹 프론트엔드 구축 역할이 필요한지 확인 필요",
+    "portfolio_link_point": "에이전시 경험에서의 간단한 배포 이력을 언급할 수는 있으나 핵심은 아님",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "jobkorea_49427046": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "시스템엔지니어",
+      "Kubernetes",
+      "클라우드엔지니어"
+    ],
+    "summary": "우나프론트의 K8s 클라우드 운영 직무로 백엔드/인프라 전문성이 강하게 요구됩니다.",
+    "reason": "이 우나프론트 포지션은 쿠버네티스 운영과 아키텍처 설계 등 인프라 엔지니어링을 핵심으로 하여 프론트 지망자와 핏이 떨어집니다.",
+    "risk": "쿠버네티스 및 클라우드 아키텍트 직무",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "Docker Compose를 넘어선 K8s 오케스트레이션 실무",
+    "motivation": "인프라 설계보다는 React 기반 프론트엔드 생태계에 더 기여하고 싶습니다.",
+    "questions_to_ask": "클라우드 부서와 협력하는 프론트엔드 개발팀의 별도 채용이 있는지 확인 필요",
+    "portfolio_link_point": "키오스크 시스템을 Docker로 배포한 경험이 있지만 역부족",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "jobkorea_49421274": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "하드웨어개발자",
+      "회로설계"
+    ],
+    "summary": "부영일렉트로닉스의 직무는 하드웨어 및 회로 설계를 담당하는 비웹개발 포지션입니다.",
+    "reason": "부영일렉트로닉스의 연구개발 직무는 웹 기술이 아닌 회로 설계 중심의 하드웨어 개발이므로 제 역량과 완전히 무관합니다.",
+    "risk": "하드웨어 및 회로설계 직무",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "전자 공학 및 하드웨어 회로 설계 지식",
+    "motivation": "웹 프론트엔드 소프트웨어 개발에 전념하고자 합니다.",
+    "questions_to_ask": "지원 전 직무 혼선이 없는지 채용 부문 재확인 필요",
+    "portfolio_link_point": "관련 없음",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "jobkorea_49450086": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "금융사무",
+      "백엔드개발자",
+      "프론트엔드개발자"
+    ],
+    "summary": "한국산업은행의 청년 인턴 채용으로 금융 및 사무 직무에 프론트엔드 일부가 포함되어 애매합니다.",
+    "reason": "한국산업은행 인턴 포지션은 금융 사무 및 범용 IT 인력을 폭넓게 구하는 성격이라 개발 환경이나 프론트엔드 비중을 확신하기 어렵습니다.",
+    "risk": "실제 프론트엔드 개발 비중이 불확실한 금융 인턴",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "은행 시스템 및 금융 도메인의 특수성",
+    "motivation": "한국산업은행 인턴으로 참여하여 안정적인 금융 서비스의 UI를 고민해보고 싶습니다.",
+    "questions_to_ask": "인턴 기간 동안 실제 코드 레벨의 프론트엔드 제품 개발에 참여할 수 있는지 확인 필요",
+    "portfolio_link_point": "웹에이전시 경험을 통해 사용자의 요구사항을 체계적으로 수집한 역량 강조",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
+  },
+  "jobkorea_49445468": {
+    "fit_score": 6,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "웹기획",
+      "웹개발"
+    ],
+    "summary": "이지샵의 신규 서비스 및 POS 개발 직무는 React 기반 결제 및 운영 플랫폼을 경험할 기회로 보입니다.",
+    "reason": "이지샵 공고는 React와 웹 기술을 요구하며, 상점 관리 및 POS 성격이 제 키오스크 시스템 운영 경험과 잘 맞닿아 있습니다.",
+    "risk": "자바 백엔드 및 다양한 포지션 통합 공고로 프론트엔드 전담 여부 확인 필요",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "결제 정산 시스템의 안정성 설계 및 금융망 연동 지식",
+    "motivation": "이지샵의 결제/POS 서비스에서 직관적인 React 기반 관리자 화면을 구축하고 싶습니다.",
+    "questions_to_ask": "결제망 관련 도메인 지식이 주니어 단계에서 얼마나 깊게 요구되는지 확인 필요",
+    "portfolio_link_point": "쌍청문 키오스크 대여 관리 시스템을 구현하고 관리자 대시보드를 만든 경험과 매칭",
+    "analyzed_at": "2026-06-25T23:29:47.706Z"
   }
 }
