@@ -14574,5 +14574,350 @@
     "questions_to_ask": "해당사항 없음",
     "portfolio_link_point": "해당사항 없음",
     "analyzed_at": "2026-06-30T23:29:35.539Z"
+  },
+  "wanted_324408": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AI"
+    ],
+    "summary": "AI 포지션으로 현재 진로와 불일치",
+    "reason": "컷백(Cutback)의 AI Engineer 직무는 제가 지향하는 프론트엔드 및 Product Engineer 포지션과 맞지 않아 지원을 고려하지 않습니다.",
+    "risk": "비개발/타 도메인 직무",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "프론트엔드 업무 여부 확인 필요",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.165Z"
+  },
+  "wanted_372195": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Network"
+    ],
+    "summary": "네트워크 인프라 중심 업무",
+    "reason": "링네트의 네트워크 엔지니어 (IDC) 채용 건은 웹 프론트엔드 역량을 발휘하기 어려운 인프라 포지션이므로 우선순위가 매우 낮습니다.",
+    "risk": "인프라 직무",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "웹 개발 비중 확인 필요",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372183": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Network"
+    ],
+    "summary": "네트워크 운영 관련 직무",
+    "reason": "링네트에서 모집하는 네트워크 운영 엔지니어 직군은 저의 주요 기술 스택인 React 및 UI 개발 방향과 완전히 다릅니다.",
+    "risk": "네트워크 운영",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372186": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "System"
+    ],
+    "summary": "시스템 엔지니어 공고",
+    "reason": "링네트의 시스템 엔지니어 공고는 백엔드 및 서버 인프라 중심의 업무가 예상되어 현재 커리어 방향과 부합하지 않습니다.",
+    "risk": "서버 인프라 업무",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372147": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "ML"
+    ],
+    "summary": "머신러닝 연구 포지션",
+    "reason": "로민의 ML(머신러닝) 엔지니어 역할은 전문적인 AI 연구 역량이 요구되므로 프론트엔드 엔지니어인 제게는 적합하지 않은 직무입니다.",
+    "risk": "전문 AI 연구 직무",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372151": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Data"
+    ],
+    "summary": "데이터 관련 업무",
+    "reason": "로민 데이터 매니저 공고는 데이터 관리 및 전처리가 주된 업무일 것으로 판단되어 서비스 사용자 웹 개발 경험과 거리가 멉니다.",
+    "risk": "비 프론트엔드 직무",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372152": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AI"
+    ],
+    "summary": "순수 AI 모델 관련 업무",
+    "reason": "로민에서 채용 중인 AI 엔지니어 포지션은 Next.js 기반 제품 개발을 추구하는 저의 진로 전략과 상당한 차이가 있습니다.",
+    "risk": "AI 전담 포지션",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372154": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "PO"
+    ],
+    "summary": "기획/총괄 역할의 비개발 포지션",
+    "reason": "로민의 PO (프로덕트 오너) 직무는 기획 및 사업 총괄 역할로, 현재 코드 기반의 개발 포지션을 찾는 제 목적과는 맞지 않습니다.",
+    "risk": "기획 포지션",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372087": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Full Stack",
+      "Web"
+    ],
+    "summary": "풀스택 엔지니어 포지션",
+    "reason": "링글잉글리시에듀케이션서비스의 풀스택 포지션은 쌍청문 공간대여 시스템에서 경험한 엔드투엔드 개발 및 문제 해결 역량을 적극적으로 어필하기 좋은 기회입니다.",
+    "risk": "백엔드 비중이 높을 경우 인프라 지식 부담",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "본격적인 백엔드 시스템 설계",
+    "motivation": "실제 운영 문제를 풀스택 환경에서 해결한 경험을 교육 도메인의 시스템 최적화에 바로 적용해보고 싶습니다.",
+    "questions_to_ask": "입사 후 프론트엔드와 백엔드의 업무 배분 비율 및 협업 구조가 어떻게 되는지 확인 필요합니다.",
+    "portfolio_link_point": "쌍청문 키오스크 및 관리자 기능 기획/구현 과정",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372076": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "LLM",
+      "AI"
+    ],
+    "summary": "대규모 언어 모델 관련 엔지니어링",
+    "reason": "벙커키즈의 Tech- LLM Engineer 직무는 LLM 모델 튜닝 및 인프라 구축 중심이어서 웹 어플리케이션 개발 경험과 맞지 않다고 판단됩니다.",
+    "risk": "AI 모델 튜닝 포지션",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_371996": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Backend"
+    ],
+    "summary": "백엔드 특화 전문 역할",
+    "reason": "포스타입의 백엔드 엔지니어 공고는 서버 전문성이 강하게 요구되는 자리이므로, 프론트엔드 중심 풀스택을 지향하는 저에게는 다소 버거울 수 있습니다.",
+    "risk": "서버 개발 중심",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "대규모 백엔드 트래픽 처리",
+    "motivation": "해당 없음",
+    "questions_to_ask": "프론트엔드 비중 확인 필요",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372046": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "VR",
+      "XR"
+    ],
+    "summary": "VR 및 3D 콘텐츠 중심",
+    "reason": "렛유인에듀에서 찾는 XR/VR 콘텐츠 개발자는 3D 그래픽스와 유니티 등의 스택이 필요해 저의 React 중심 웹 서비스 경험과 무관합니다.",
+    "risk": "3D/게임 개발 직무",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_371902": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Cloud"
+    ],
+    "summary": "클라우드 인프라 아키텍처 역할",
+    "reason": "지바이크(gbike)의 Cloud Engineer 채용 건은 클라우드 인프라 운영 및 구축 위주이므로 프로덕트 개발 지향성에 부합하지 않습니다.",
+    "risk": "클라우드 운영 직무",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372012": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Frontend",
+      "React",
+      "Backoffice"
+    ],
+    "summary": "백오피스 운영툴 프론트엔드 포지션",
+    "reason": "더스윙의 Web-Front Engineer 직무는 백오피스 운영 개선에 초점이 맞춰져 있어, 소상상점 관리자 페이지 및 쌍청문 키오스크 운영툴 개발 경험을 강력히 연결할 수 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "대규모 사내 마이크로 모빌리티 데이터 처리 및 효율화",
+    "motivation": "실무 담당자의 업무를 혁신하는 사내 운영 효율화 툴의 중요성을 깊이 이해하며, 관련된 이전 경험을 토대로 생산성을 높이고 싶습니다.",
+    "questions_to_ask": "운영 및 백오피스 외에 일반 사용자 향(B2C/B2B) 서비스 개발에도 참여할 기회가 있는지 확인 필요합니다.",
+    "portfolio_link_point": "쌍청문 시스템의 관리자 기록 페이지 및 예약 대기열 상태 관리 로직",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_372007": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AI",
+      "Optimization"
+    ],
+    "summary": "AI 딥러닝 최적화 업무",
+    "reason": "모티프드라이브의 AI 모델 경량화/가속화 엔지니어는 딥러닝 최적화 기술이 필수적이므로 웹 프론트엔드 주력인 제 이력에서 확실히 벗어납니다.",
+    "risk": "AI 경량화 특화 지식",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_251713": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "QA"
+    ],
+    "summary": "품질 보증 테스트 직무",
+    "reason": "밀리만코리아(Milliman)의 QA Engineer 자리는 품질 보증 중심의 소프트웨어 테스트 업무가 메인이라 개발 포지션을 찾는 현재 커리어 패스와 다릅니다.",
+    "risk": "QA 전담 포지션",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "wanted_369980": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "DevOps"
+    ],
+    "summary": "배포 자동화 인프라 역할",
+    "reason": "캐스트이즈의 DevOps 개발자 신입 공고는 배포 파이프라인 관리 및 서버 설정 업무이기에 제 프론트엔드 서비스 개발 방향과 결이 다릅니다.",
+    "risk": "DevOps 전문 역할",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "jobkorea_49484008": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Robotics",
+      "Embedded"
+    ],
+    "summary": "로봇 제어 임베디드 포지션",
+    "reason": "㈜라이온로보틱스 로봇 S/W 개발자 직군은 하드웨어 임베디드 및 로봇 제어 시스템과 연관되어 웹 기반 프로덕트 엔지니어를 지향하는 저와 맞지 않습니다.",
+    "risk": "하드웨어 제어 역량 요구",
+    "feature_project": "소상상점",
+    "learning_points": "해당 없음",
+    "motivation": "해당 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "jobkorea_49494356": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Frontend",
+      "React"
+    ],
+    "summary": "프론트엔드 신입 개발자 공고",
+    "reason": "㈜비케이고의 신입 프론트엔드 개발자 공고는 소상상점 프로젝트에서 다져온 React 웹앱 아키텍처 설계와 컴포넌트 역량을 명확히 증명할 수 있는 포지션입니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "회사 도메인의 비즈니스 로직 최적화",
+    "motivation": "재사용 가능한 UI 컴포넌트를 설계하고 SEO 최적화 이슈를 해결한 사례를 바탕으로 귀사 제품의 안정성을 더하겠습니다.",
+    "questions_to_ask": "사내 프론트엔드 팀의 규모와 멘토링 프로세스, 그리고 주요 기술 스택 버전이 어떻게 되는지 확인이 필요합니다.",
+    "portfolio_link_point": "소상상점의 Storybook 도입 사례 및 Vercel 빌드 성능 개선 경험",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "jobkorea_49455107": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Multiple"
+    ],
+    "summary": "범용 직무를 포괄하는 종합 채용 건",
+    "reason": "샘표식품㈜의 수시채용 공고는 모집 분야가 매우 방대하여 명확한 프론트엔드 전담 업무 비중이 불분명하기 때문에 제 커리어 집중 방향과 거리가 있습니다.",
+    "risk": "비개발 부서 위주의 채용 가능성 다분",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "대기업의 대규모 전사 ERP 프로세스",
+    "motivation": "해당 없음",
+    "questions_to_ask": "웹 서비스 개발 조직이 독립적으로 운영되는지에 대한 원본 확인 필요.",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "jobkorea_49482362": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Web",
+      "Intern"
+    ],
+    "summary": "웹 개발 인턴 전환형 직무",
+    "reason": "한국기술신용평가㈜의 전환형 인턴 공고는 웹에이전시 MVP 프로젝트에서 겪은 사용자 중심 웹 기획 경험을 활용해 B2B 서비스 고도화에 기여할 만한 기회라고 평가합니다.",
+    "risk": "신용 평가 관련 복잡한 금융 도메인 장벽",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "엄격한 금융 및 신용 데이터 관련 보안 규정과 정책",
+    "motivation": "스타트업에서 제품 초기를 세팅하며 고민했던 접근성을 활용하여 복잡한 기업 요건을 깔끔한 웹 인터페이스로 구현하는 과정을 돕고 싶습니다.",
+    "questions_to_ask": "인턴 기간 중 어떤 구체적인 웹 서비스 신규 과제나 레거시 개선 업무가 주어지는지 상세 내용 확인 필요합니다.",
+    "portfolio_link_point": "웹에이전시 프로젝트의 고객 상담 랜딩 페이지 퍼널 구성 사례",
+    "analyzed_at": "2026-07-02T01:34:26.235Z"
   }
 }
