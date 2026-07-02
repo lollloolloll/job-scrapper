@@ -7419,18 +7419,20 @@
     "analyzed_at": "2026-05-22T23:07:50.044Z"
   },
   "wanted_337720": {
-    "fit_score": 2,
+    "fit_score": 1,
     "recommendation": "비추천",
-    "core_stack_tags": [],
-    "summary": "캐리마텍 3D 프린터 제어 프로그램 개발 포지션.",
-    "reason": "웹 서비스 개발이 아닌 하드웨어 제어 소프트웨어 개발 업무이므로, 보유한 프론트엔드 및 Product Engineer 지향점과 맞지 않습니다.",
-    "risk": "제조업 기반 3D 프린터 제어 관련이므로 웹 개발 커리어와 괴리 발생",
-    "feature_project": "쌍청문 키오스크 (제어 경험 일부)",
-    "learning_points": "장비 제어 소프트웨어 설계 요건",
-    "motivation": "물리적 제어 로직에 대한 호기심",
-    "questions_to_ask": "웹 기반 제어 인터페이스 개발 여부 확인 필요.",
-    "portfolio_link_point": "쌍청문 키오스크 운영 경험 활용 여부 불투명",
-    "analyzed_at": "2026-05-22T23:07:50.044Z"
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "캐리마텍의 제어 프로그램 개발자 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "캐리마텍의 제어 프로그램 개발자 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
   },
   "wanted_356931": {
     "fit_score": 7,
@@ -14919,5 +14921,300 @@
     "questions_to_ask": "인턴 기간 중 어떤 구체적인 웹 서비스 신규 과제나 레거시 개선 업무가 주어지는지 상세 내용 확인 필요합니다.",
     "portfolio_link_point": "웹에이전시 프로젝트의 고객 상담 랜딩 페이지 퍼널 구성 사례",
     "analyzed_at": "2026-07-02T01:34:26.235Z"
+  },
+  "saramin_54350140": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "Javascript",
+      "Spring"
+    ],
+    "summary": "Java 중심의 신입 웹프로그래머 직무입니다.",
+    "reason": "(주)인컴의 JAVA 웹프로그래머 웹개발 포지션은 Java 중심 스택이 강하여 프론트엔드 비중 확인이 필요합니다.",
+    "risk": "프론트엔드보다 백엔드(Java/Spring) 개발 비중이 높을 가능성이 큽니다.",
+    "feature_project": "소상상점",
+    "learning_points": "Java 생태계 및 Spring Framework 경험.",
+    "motivation": "React와 웹 서비스 경험을 바탕으로 안정적인 Java 웹 개발 환경에서 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 업무 비중과 사용 중인 JS 프레임워크가 무엇인지 확인 필요.",
+    "portfolio_link_point": "소상상점의 전체 웹 서비스 구축 경험 어필.",
+    "analyzed_at": "2026-07-02T23:26:22.597Z"
+  },
+  "saramin_54331216": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "Javascript",
+      "Java"
+    ],
+    "summary": "유통 및 예약 시스템 성격의 교보문고 신입 개발자 공고입니다.",
+    "reason": "(주)교보문고의 유통시스템 개발 엔지니어 모집 공고는 유통 도메인으로 사용자의 예약/관리 시스템 경험과 잘 연결됩니다.",
+    "risk": "자체 시스템 관리 위주로 레거시 코드가 많을 수 있음.",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "대규모 유통 시스템의 아키텍처 및 Java 연동 지식.",
+    "motivation": "쌍청문 예약 시스템을 직접 운영하며 겪은 문제 해결 경험을 유통시스템 관리에 접목하고 싶습니다.",
+    "questions_to_ask": "React가 신규 프로젝트 위주로 사용되는지, 혹은 레거시 전환용인지 확인 필요.",
+    "portfolio_link_point": "쌍청문 예약 시스템의 관리자 페이지 구축 및 운영 경험.",
+    "analyzed_at": "2026-07-02T23:26:22.597Z"
+  },
+  "jobkorea_49504275": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Frontend"
+    ],
+    "summary": "넥슨 AI본부의 프론트엔드 인턴 직무로 웹 서비스 경험과 잘 맞습니다.",
+    "reason": "넥슨의 웹 프론트엔드 엔지니어 (인턴) 포지션은 사용자의 강점인 프론트엔드 웹 서비스 개발 역량과 완벽히 부합합니다.",
+    "risk": "인턴(계약직 3개월)이므로 정규직 전환 여부가 불투명할 수 있습니다.",
+    "feature_project": "소상상점",
+    "learning_points": "대기업 스케일의 대용량 트래픽 처리 경험.",
+    "motivation": "소상상점 등 실제 웹 서비스를 구축해본 경험을 바탕으로, AI본부의 신규 웹 프로젝트에서 주도적으로 역할을 다하고 싶습니다.",
+    "questions_to_ask": "AI 모델 연동 과정에서 프론트엔드가 담당하는 역할의 범위.",
+    "portfolio_link_point": "소상상점 사용자 웹 구축 및 API 연동 경험.",
+    "analyzed_at": "2026-07-02T23:26:22.597Z"
+  },
+  "saramin_54348539": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "현대오토에버(주)의 [현대오토에버] 로봇 전문가 집중 채용공고 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "현대오토에버(주)의 [현대오토에버] 로봇 전문가 집중 채용공고 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "saramin_54350291": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "넛지헬스케어(주)의 [캐시워크] 데이터엔지니어 채용전환형 인턴 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "넛지헬스케어(주)의 [캐시워크] 데이터엔지니어 채용전환형 인턴 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "saramin_54338253": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "(주)스킨이데아의 [글로벌 스킨케아 브랜드/메디필] Internal FDE(신입) 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "(주)스킨이데아의 [글로벌 스킨케아 브랜드/메디필] Internal FDE(신입) 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372493": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "코어시큐리티의 훈련시스템 오퍼레이팅 엔지니어 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "코어시큐리티의 훈련시스템 오퍼레이팅 엔지니어 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372470": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "씨메스로보틱스의 Physical AI 엔지니어 (전문연구요원 가능) 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "씨메스로보틱스의 Physical AI 엔지니어 (전문연구요원 가능) 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372472": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "씨메스로보틱스의 로보틱스 SW 엔지니어 (전문연구요원 가능) 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "씨메스로보틱스의 로보틱스 SW 엔지니어 (전문연구요원 가능) 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372403": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "씨메스로보틱스의 Vision Field Application Engineer 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "씨메스로보틱스의 Vision Field Application Engineer 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372423": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "피아이코퍼레이션의 백엔드 개발자 (5 ~ 7년) 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "피아이코퍼레이션의 백엔드 개발자 (5 ~ 7년) 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372331": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "플레이스앤의 [네이버 계열사] 사내 IT 인프라/Helpdesk 매니저 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "플레이스앤의 [네이버 계열사] 사내 IT 인프라/Helpdesk 매니저 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372361": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "매니패스트의 프로덕트 오너 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "매니패스트의 프로덕트 오너 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372341": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "크래블의 임베디드(펌웨어) 개발자 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "크래블의 임베디드(펌웨어) 개발자 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372316": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "스콘에이아이(SconAI)의 AI 통역 서비스 프론트엔드 개발자 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "스콘에이아이(SconAI)의 AI 통역 서비스 프론트엔드 개발자 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372249": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "윈드폴리(Windfallycorp.)의 [오디바이스] Data Engineer (1~5년) 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "윈드폴리(Windfallycorp.)의 [오디바이스] Data Engineer (1~5년) 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372254": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "스콘에이아이(SconAI)의 AI 통역 서비스 QA 담당 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "스콘에이아이(SconAI)의 AI 통역 서비스 QA 담당 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "jobkorea_49504728": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Other"
+    ],
+    "summary": "㈜엔이에스의 엔이에스 채용(Python, 네트워크, 웹개발, 아두이노,인프라) 공고는 프론트엔드 포지션과 무관한 직무입니다.",
+    "reason": "㈜엔이에스의 엔이에스 채용(Python, 네트워크, 웹개발, 아두이노,인프라) 공고는 사용자의 프론트엔드 역량과 무관한 도메인으로 파악됩니다.",
+    "risk": "개발 스택 불일치",
+    "feature_project": "AI workflow",
+    "learning_points": "해당 도메인 지식",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "직무 세부 내용",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-02T23:28:05.407Z"
   }
 }
