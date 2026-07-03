@@ -15216,5 +15216,91 @@
     "questions_to_ask": "직무 세부 내용",
     "portfolio_link_point": "없음",
     "analyzed_at": "2026-07-02T23:28:05.407Z"
+  },
+  "wanted_372715": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "Java"
+    ],
+    "summary": "널리소프트의 백엔드 직무, 프론트엔드 비중 확인 필요.",
+    "reason": "널리소프트의 [쌤157] 백엔드 개발자 (Java) 포지션은 백엔드에 특화되어 있어 저의 프론트 중심 풀스택 경험과 완벽히 맞지 않을 수 있어 보류합니다. (wanted_372715)",
+    "risk": "프론트엔드 기여 기회가 적을 수 있음",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "Java 백엔드 특화 기술 및 아키텍처",
+    "motivation": "안정적인 백엔드 시스템 구축 경험을 통해 풀스택 역량을 높이고자 합니다.",
+    "questions_to_ask": "프론트엔드와 백엔드 업무의 비율이 어떻게 되나요?",
+    "portfolio_link_point": "이전 웹에이전시 프로젝트의 백엔드 기여 부분",
+    "analyzed_at": "2026-07-03T23:34:10.079Z"
+  },
+  "wanted_372669": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "AI-Native",
+      "Product Engineer"
+    ],
+    "summary": "블록에스의 AI-Native Product Engineer 포지션, AI 활용 경험과 핏.",
+    "reason": "블록에스의 AI-Native Product Engineer 포지션은 제품 전반의 개발을 담당하며, AI-native workflow 도구를 활용한 생산성 향상 경험을 녹일 수 있습니다. (wanted_372669)",
+    "risk": "개발보다 기획에 치중될 가능성 확인 필요",
+    "feature_project": "AI workflow",
+    "learning_points": "AI API 연동 및 서비스 고도화 기술",
+    "motivation": "AI 기술을 제품 개발 프로세스에 통합하는 환경에서 일하고 싶습니다.",
+    "questions_to_ask": "서비스 프론트엔드 비중은 어느 정도 되나요?",
+    "portfolio_link_point": "AI를 활용한 빠른 MVP 구축 사례",
+    "analyzed_at": "2026-07-03T23:34:10.079Z"
+  },
+  "wanted_371407": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "AI/AX",
+      "개발"
+    ],
+    "summary": "원정대의 사업운영팀 개발, 직무 전문성 확인 필요.",
+    "reason": "원정대의 사업운영팀 AI/AX 개발자 1년 이상 공고는 제품보다는 사내 툴 개발에 집중될 수 있어, 웹 서비스 개발 비중을 확인해야 합니다. (wanted_371407)",
+    "risk": "사내 지원 업무 위주일 가능성",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "운영 최적화를 위한 시스템 통합",
+    "motivation": "내부 프로세스 자동화를 통해 실질적인 가치를 창출하고 싶습니다.",
+    "questions_to_ask": "고객 접점(B2C) 프로덕트 개발도 함께 진행하나요?",
+    "portfolio_link_point": "쌍청문 키오스크 및 관리자 페이지 구축 경험",
+    "analyzed_at": "2026-07-03T23:34:10.079Z"
+  },
+  "wanted_372107": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Fullstack",
+      "Web"
+    ],
+    "summary": "한다글다글의 Fullstack Engineer (1년차 ~ 5년차) 직무, 웹에이전시 MVP 개발 경험과 잘 부합.",
+    "reason": "한다글다글의 Fullstack Engineer (1년차 ~ 5년차) 직무는 프론트와 백엔드 전체를 아우르는 포지션으로, 웹에이전시 MVP 기획 및 구축 경험을 살리기 좋습니다. (wanted_372107)",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "대규모 트래픽을 고려한 풀스택 구조 최적화",
+    "motivation": "A부터 Z까지 제품을 책임지는 풀스택 환경에서 기여하고자 합니다.",
+    "questions_to_ask": "주된 프론트엔드 기술 스택이 React/Next.js 기반인가요?",
+    "portfolio_link_point": "초기 고객사 웹 프로젝트의 풀스택 구현 사례",
+    "analyzed_at": "2026-07-03T23:34:10.079Z"
+  },
+  "jobkorea_49498994": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "퍼블리셔",
+      "그누보드",
+      "PHP"
+    ],
+    "summary": "기적기획의 퍼블리셔 및 프론트엔드 직무, 레거시 스택 중심.",
+    "reason": "기적기획의 [신입/경력] 웹 퍼블리셔 및 프론트엔드 개발자 채용(그누보드) 공고는 그누보드와 PHP 기반의 레거시 퍼블리싱 업무에 가까워 모던 프론트엔드 지향점과 맞지 않습니다. (jobkorea_49498994)",
+    "risk": "레거시 기술 스택 고착화 우려",
+    "feature_project": "소상상점",
+    "learning_points": "레거시 환경에서의 UI/UX 유지보수",
+    "motivation": "다양한 기술 환경에서의 적응력을 키우고자 합니다.",
+    "questions_to_ask": "신규 프로젝트에서 모던 프론트엔드 도입 계획이 있나요?",
+    "portfolio_link_point": "소상상점 프로젝트의 순수 UI/UX 구현 사례",
+    "analyzed_at": "2026-07-03T23:34:10.079Z"
   }
 }
