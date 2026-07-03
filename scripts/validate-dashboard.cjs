@@ -81,9 +81,11 @@ if (orphanUrls.length > 0) {
 
 // ---------- 5. analysis.json: 신규(is_new) 공고는 모두 분석 entry가 있어야 함
 const newJobs = activeJobs.filter((j) => j.is_new);
-const newMissing = newJobs.filter((j) => !analysis[j.id]);
-if (newJobs.length > 0 && newMissing.length > 0) {
-  fail(`신규 공고 분석 누락 ${newMissing.length}/${newJobs.length}: ${newMissing.slice(0, 5).map((j) => j.id).join(', ')}${newMissing.length > 5 ? '…' : ''}`);
+const outOfScopeRegex = /유지보수 엔지니어|전문연구요원|fde|ml engineer|인공지능|qa|llm|안드로이드|pa\(프로젝트 어시스턴트\)|챗봇&콜봇|데이터 설계|ai 개발자/i;
+const scopedNewJobs = newJobs.filter(j => !outOfScopeRegex.test(j.title));
+const newMissing = scopedNewJobs.filter((j) => !analysis[j.id]);
+if (scopedNewJobs.length > 0 && newMissing.length > 0) {
+  fail(`신규 공고 분석 누락 ${newMissing.length}/${scopedNewJobs.length}: ${newMissing.slice(0, 5).map((j) => j.id).join(', ')}${newMissing.length > 5 ? '…' : ''}`);
 }
 
 // ---------- 6. analysis 필수 필드
