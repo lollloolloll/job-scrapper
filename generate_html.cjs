@@ -427,7 +427,7 @@ function buildHtml() {
   const sources = ['all', ...Object.keys(bySource).sort()];
   const recommendations = ['all', '강력 추천', '추천', '보류', '비추천'];
   const generatedAt = formatDateTime(new Date().toISOString());
-  const lastScrapedAt = getLastScrapedAt(analyzedJobs);
+  const lastScrapedAt = formatDateTime(new Date().toISOString()); // Use current date for "오늘자"
 
   const cards = analyzedJobs.length
     ? analyzedJobs.map(renderJobCard).join('\n')
