@@ -15302,5 +15302,222 @@
     "questions_to_ask": "신규 프로젝트에서 모던 프론트엔드 도입 계획이 있나요?",
     "portfolio_link_point": "소상상점 프로젝트의 순수 UI/UX 구현 사례",
     "analyzed_at": "2026-07-03T23:34:10.079Z"
+  },
+  "saramin_54378146": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "IT 인프라"
+    ],
+    "summary": "(주)크리스아이티의 AI와 함께 사내 IT 인프라를 만들어갈 개발자(신입) 공고는 웹 프론트엔드 포지션이 아닙니다.",
+    "reason": "(주)크리스아이티의 AI와 함께 사내 IT 인프라를 만들어갈 개발자(신입) 직무는 인프라 중심이어서 저의 웹에이전시 MVP 개발 경험과 맞지 않습니다.",
+    "risk": "인프라 전문 직무로 웹 개발 기회 부재",
+    "feature_project": "AI workflow",
+    "learning_points": "사내 IT 인프라 운영",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중이 있나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_85836": {
+    "fit_score": 3,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Node.js",
+      "Backend"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] 백엔드 개발자(Node.js)는 백엔드 전담 직무입니다.",
+    "reason": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] 백엔드 개발자(Node.js) 공고는 백엔드 위주로, 저의 프론트엔드(Next.js) 강점을 살리기 어렵습니다.",
+    "risk": "프론트엔드 경험 활용 불가",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "Node.js 백엔드 고도화",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "풀스택 전환 기회가 있나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_373073": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "SaaS",
+      "Web"
+    ],
+    "summary": "마드라스체크(플로우)의 SaaS 개발자 포지션은 B2B 웹 서비스 개발 경험을 쌓기에 적합합니다.",
+    "reason": "마드라스체크(플로우)의 SaaS 개발자 공고는 소상상점에서 다룬 협업 플랫폼 개발 경험을 확장할 수 있는 좋은 기회입니다.",
+    "risk": "B2B SaaS 특유의 복잡한 비즈니스 로직 적응 필요",
+    "feature_project": "소상상점",
+    "learning_points": "SaaS 아키텍처 및 권한 관리 모델",
+    "motivation": "성장하는 SaaS 환경에서 확장성 있는 프론트엔드를 구축하고 싶습니다.",
+    "questions_to_ask": "메인 프론트엔드 스택이 무엇인가요?",
+    "portfolio_link_point": "소상상점 협업 플랫폼 구축 경험",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_95315": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Infra",
+      "Server"
+    ],
+    "summary": "라이트뷰의 Server/Infra/Web Engineer 공고는 인프라 및 서버 비중이 너무 높습니다.",
+    "reason": "라이트뷰의 Server/Infra/Web Engineer 포지션은 백엔드 및 서버 인프라에 중점을 두어 프론트엔드 지향점과 거리가 있습니다.",
+    "risk": "인프라 위주의 업무 할당",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "서버/인프라 통합 운영",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "프론트엔드 전담 조직이 별도로 있나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_372983": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "QA"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] QA 엔지니어 공고는 품질 보증 직무입니다.",
+    "reason": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] QA 엔지니어 직무는 개발 포지션이 아니므로 제외합니다.",
+    "risk": "비개발 직무",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "QA 프로세스",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "자동화 테스트 스크립트 개발 업무가 포함되나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_373030": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Android",
+      "Kotlin"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특레 현역/보충역] 안드로이드앱(Kotlin) 개발자 공고는 모바일 네이티브 앱 직무입니다.",
+    "reason": "넛지헬스케어(캐시워크)의 [병역특레 현역/보충역] 안드로이드앱(Kotlin) 개발자 포지션은 네이티브 안드로이드 앱 개발이므로 웹 프론트엔드 역량과 맞지 않습니다.",
+    "risk": "웹 스택 불일치",
+    "feature_project": "소상상점",
+    "learning_points": "Kotlin 안드로이드 개발",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "웹 뷰 기술을 사용하는 기능이 있나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_372985": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AI"
+    ],
+    "summary": "한국딥러닝의 AI 솔루션 운영 엔지니어(AI Field Engineer)는 웹 개발 직무가 아닙니다.",
+    "reason": "한국딥러닝의 AI 솔루션 운영 엔지니어(AI Field Engineer) 포지션은 웹 서비스 개발이 아닌 현장 솔루션 운영이므로 제 커리어 방향과 맞지 않습니다.",
+    "risk": "웹 프론트엔드 개발 경험 부재",
+    "feature_project": "AI workflow",
+    "learning_points": "AI 솔루션 현장 구축",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "사내 웹 서비스 개발 업무도 있나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_372978": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Flutter",
+      "App"
+    ],
+    "summary": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] Flutter개발자 공고는 모바일 앱 직무입니다.",
+    "reason": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] Flutter개발자 공고는 React/Next.js 기반 웹 개발이 아닌 크로스플랫폼 앱 개발이므로 지원을 보류합니다.",
+    "risk": "웹 기술 스택과의 불일치",
+    "feature_project": "소상상점",
+    "learning_points": "Flutter 프레임워크",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "React Native나 웹 뷰 도입 계획이 있나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_372958": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "AI",
+      "Data"
+    ],
+    "summary": "애자일소다의 AI 문서 분석 전문가 공고는 데이터 및 문서 분석 특화 직무입니다.",
+    "reason": "애자일소다의 AI 문서 분석 전문가 직무는 웹 프론트엔드가 아닌 데이터/AI 특화 역할이어서 제 전문성과 다릅니다.",
+    "risk": "데이터 분석 위주의 업무",
+    "feature_project": "AI workflow",
+    "learning_points": "문서 데이터 파싱 및 AI 적용",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "문서 분석 결과를 보여주는 웹 페이지 개발도 포함되나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_372936": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "JSP"
+    ],
+    "summary": "디비아이엔씨(DB Inc)의 [인턴] S/W엔지니어 (대외프로젝트) 공고, Java/JSP 기반의 레거시 환경이 예상됩니다.",
+    "reason": "디비아이엔씨(DB Inc)의 [인턴] S/W엔지니어 (대외프로젝트) 포지션은 SI 성격이 강하며 Java/JSP 중심이라 모던 프론트엔드 커리어에 보류를 권장합니다.",
+    "risk": "레거시 SI 환경",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "대기업 SI 프로젝트 수행 프로세스",
+    "motivation": "대형 시스템 환경에서의 개발 경험을 쌓고 싶습니다.",
+    "questions_to_ask": "신규 프로젝트에서 모던 JS 프레임워크를 사용하나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_372934": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "Oracle"
+    ],
+    "summary": "디비아이엔씨(DB Inc)의 [인턴] S/W엔지니어 (금융계열사) 공고, 금융 IT 환경의 백엔드 특화 직무입니다.",
+    "reason": "디비아이엔씨(DB Inc)의 [인턴] S/W엔지니어 (금융계열사) 포지션은 금융 도메인의 백엔드 중심이어서 프론트엔드 전문성을 키우기에는 애매합니다.",
+    "risk": "프론트엔드 비중 약함",
+    "feature_project": "쌍청문 관리자",
+    "learning_points": "금융권 데이터베이스(Oracle) 최적화",
+    "motivation": "금융 IT 시스템의 안정성을 배우고 싶습니다.",
+    "questions_to_ask": "금융 시스템 UI/UX 개선 작업도 진행하나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_372932": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Java",
+      "Spring"
+    ],
+    "summary": "디비아이엔씨(DB Inc)의 [인턴] S/W엔지니어 (보험계열사) 공고, 보험 도메인의 시스템 운영 중심입니다.",
+    "reason": "디비아이엔씨(DB Inc)의 [인턴] S/W엔지니어 (보험계열사) 직무는 보험 IT 서비스 운영 및 백엔드에 초점이 맞춰져 있어 지원을 보류합니다.",
+    "risk": "모던 웹 기술 스택 부족",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "보험 비즈니스 도메인 지식",
+    "motivation": "복잡한 도메인 기반의 시스템 운영을 경험하고 싶습니다.",
+    "questions_to_ask": "웹 기술 활용 시 어떤 프론트엔드 도구를 쓰나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
+  },
+  "wanted_372890": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "ASP.NET"
+    ],
+    "summary": "오엠티아이코리아의 ASP.NET 개발자(신입) 공고는 닷넷 기반의 백엔드 직무입니다.",
+    "reason": "오엠티아이코리아의 ASP.NET 개발자(신입) 포지션은 React/Next.js 생태계와 다른 닷넷 스택이므로 추천하지 않습니다.",
+    "risk": "C#/ASP.NET 스택",
+    "feature_project": "웹에이전시 MVP",
+    "learning_points": "ASP.NET 생태계",
+    "motivation": "직무 불일치로 지원하지 않습니다.",
+    "questions_to_ask": "클라이언트 사이드 기술로 무엇을 사용하나요?",
+    "portfolio_link_point": "없음",
+    "analyzed_at": "2026-07-07T00:35:04.048Z"
   }
 }
