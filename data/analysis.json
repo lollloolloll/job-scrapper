@@ -15612,5 +15612,329 @@
     "questions_to_ask": "백엔드 개발 실무 내 프론트엔드(노코드 플랫폼 UI) 기여 비중 확인 필요",
     "portfolio_link_point": "AI-native workflow를 활용한 생산성 향상 및 자동화 문제 해결 경험",
     "analyzed_at": "2026-07-08T22:00:00Z"
+  },
+  "saramin_54426462": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "알디에스(주)의 알디에스(오뚜기 IT 자회사) IT 운영 개발 신입사원 포지션.",
+    "reason": "[알디에스(주)] 알디에스(오뚜기 IT 자회사) IT 운영 개발 신입사원 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #saramin_54426462",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "알디에스(주)의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "saramin_54427736": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "(주)인실리코젠의 (주)인실리코젠 JAVA(자바) 개발자 신입 채용 포지션.",
+    "reason": "[(주)인실리코젠] (주)인실리코젠 JAVA(자바) 개발자 신입 채용 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #saramin_54427736",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "(주)인실리코젠의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "saramin_54432550": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "summary": "에이에스이천안(주)의 [ASE Cheonan] 1yr Internship-Web Developer 포지션.",
+    "reason": "[에이에스이천안(주)] [ASE Cheonan] 1yr Internship-Web Developer 공고 지원을 검토합니다. 프론트엔드 포지션으로 보이며, 소상상점 프로젝트의 Next.js 및 React 경험을 잘 살릴 수 있어 지원을 추천합니다. #saramin_54432550",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "에이에스이천안(주)의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발팀의 개발 문화 및 코드 리뷰",
+    "portfolio_link_point": "소상상점 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "saramin_54433302": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "(주)디써클의 [Kotlin/Python] 백엔드 엔지니어 전환형 인턴 포지션.",
+    "reason": "[(주)디써클] [Kotlin/Python] 백엔드 엔지니어 전환형 인턴 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #saramin_54433302",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "(주)디써클의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "saramin_54428294": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "(주)엔엑스엔랩스의 [Intern] Software Engineer (전환형) 포지션.",
+    "reason": "[(주)엔엑스엔랩스] [Intern] Software Engineer (전환형) 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #saramin_54428294",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "(주)엔엑스엔랩스의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_362373": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "인플루엔셜(윌라)의 백엔드 개발자 포지션.",
+    "reason": "[인플루엔셜(윌라)] 백엔드 개발자 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_362373",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "인플루엔셜(윌라)의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374251": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "아마존(Amazon)의 Data Center Operations Engineer, DCO (Data Center Operations), ICN - DCO 포지션.",
+    "reason": "[아마존(Amazon)] Data Center Operations Engineer, DCO (Data Center Operations), ICN - DCO 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374251",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "아마존(Amazon)의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_345413": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "스쿨버스의 클라이언트(flutter) 개발자 포지션.",
+    "reason": "[스쿨버스] 클라이언트(flutter) 개발자 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_345413",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "스쿨버스의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374086": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "summary": "넥스트그라운드의 [인턴] 프론트엔드 개발자 포지션.",
+    "reason": "[넥스트그라운드] [인턴] 프론트엔드 개발자 공고 지원을 검토합니다. 프론트엔드 포지션으로 보이며, 소상상점 프로젝트의 Next.js 및 React 경험을 잘 살릴 수 있어 지원을 추천합니다. #wanted_374086",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "넥스트그라운드의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발팀의 개발 문화 및 코드 리뷰",
+    "portfolio_link_point": "소상상점 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374078": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "모빌린트의 [AI반도체] Deep Learning Optimization Engineer 포지션.",
+    "reason": "[모빌린트] [AI반도체] Deep Learning Optimization Engineer 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374078",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "모빌린트의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374077": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "모빌린트의 [AI반도체] Deep Learning Research Engineer 포지션.",
+    "reason": "[모빌린트] [AI반도체] Deep Learning Research Engineer 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374077",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "모빌린트의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374076": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "모빌린트의 [AI반도체] NPU Core Engineer (RTL) 포지션.",
+    "reason": "[모빌린트] [AI반도체] NPU Core Engineer (RTL) 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374076",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "모빌린트의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374075": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "모빌린트의 [AI반도체] SoC Design Engineer 포지션.",
+    "reason": "[모빌린트] [AI반도체] SoC Design Engineer 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374075",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "모빌린트의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374074": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "모빌린트의 [AI반도체] NPU Compiler Engineer 포지션.",
+    "reason": "[모빌린트] [AI반도체] NPU Compiler Engineer 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374074",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "모빌린트의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374073": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "모빌린트의 [AI반도체] Software Engineer (NPU SDK) 포지션.",
+    "reason": "[모빌린트] [AI반도체] Software Engineer (NPU SDK) 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374073",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "모빌린트의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374069": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "모빌린트의 [AI반도체] NPU Core Architect 포지션.",
+    "reason": "[모빌린트] [AI반도체] NPU Core Architect 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374069",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "모빌린트의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "wanted_374068": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "모빌린트의 [AI반도체] SoC Architect 포지션.",
+    "reason": "[모빌린트] [AI반도체] SoC Architect 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #wanted_374068",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "모빌린트의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
+  },
+  "jobkorea_49532250": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Backend",
+      "AI",
+      "Other"
+    ],
+    "summary": "대성산업㈜대성그룹의 대성 7월 수시채용 부문별 신입/경력 채용 포지션.",
+    "reason": "[대성산업㈜대성그룹] 대성 7월 수시채용 부문별 신입/경력 채용 공고 지원을 검토합니다. 프론트엔드 비중이 낮거나 다른 직무로 보이며, 프론트엔드 업무 비중이 얼마나 되는지 확인이 필요합니다. #jobkorea_49532250",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "새로운 도메인 지식 습득 및 관련 경험 필요",
+    "motivation": "대성산업㈜대성그룹의 서비스 성장에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 비중",
+    "portfolio_link_point": "쌍청문 공간대여 경험 및 성과 강조",
+    "analyzed_at": "2026-07-10T23:07:35.908Z"
   }
 }
