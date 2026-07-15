@@ -16136,5 +16136,309 @@
     "questions_to_ask": "프론트엔드 역할이 어느정도 비중인지 확인",
     "portfolio_link_point": "해당사항 없음",
     "analyzed_at": "2026-07-13T23:22:08.355Z"
+  },
+  "saramin_54462986": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[풀스택/신입] (주)씨브이쓰리의 풀스택 개발자(신입) 공고로, 프론트엔드와 백엔드를 아우르는 역량이 필요합니다.",
+    "reason": "(주)씨브이쓰리의 풀스택 개발자(신입) 공고입니다. 이 포지션은 Next.js 기반의 프론트엔드 역량과 함께 백엔드 연동 경험이 요구되므로, 쌍청문 키오스크 및 공간대여 시스템에서 프론트와 DB를 단독으로 설계하고 운영한 경험을 강점으로 내세우기 좋습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "회사에서 사용하는 특정 백엔드 프레임워크나 인프라 환경에 대한 추가 학습",
+    "motivation": "서비스의 전체 구조를 이해하고 프론트엔드를 중심으로 시스템의 완성도를 높이는 Product Engineer로 성장하고 싶습니다.",
+    "questions_to_ask": "프론트엔드와 백엔드 업무의 실제 배분 비율이 어떻게 되나요?",
+    "portfolio_link_point": "단독으로 기획 및 구현하여 운영 문제를 해결한 쌍청문 공간대여 시스템의 성과",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "saramin_54459793": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[백엔드] (주)파일러니어의 (주)파일러니어에서 백엔드 개발자를 찾고 있어요 공고로, 주니어 또는 Java 백엔드 개발자를 모집합니다.",
+    "reason": "(주)파일러니어의 (주)파일러니어에서 백엔드 개발자를 찾고 있어요 공고입니다. 본 공고는 백엔드 중심의 업무이므로, 제 핵심 강점인 프론트엔드 역량보다는 쌍청문 프로젝트에서의 API 설계 및 DB 연동 등 풀스택 경험을 강조해야 합니다. 다만 깊은 서버/인프라 지식을 요구할 가능성이 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여 시스템",
+    "learning_points": "대규모 트래픽 처리 및 백엔드 전문 아키텍처, Java/Spring 스택 (해당하는 경우)",
+    "motivation": "백엔드 개발 팀 내에서 프론트엔드와의 협업 효율을 극대화할 수 있는 시야를 제공하고자 합니다.",
+    "questions_to_ask": "업무 중 요구되는 트래픽 최적화나 인프라 관리의 난이도는 어느 정도인가요?",
+    "portfolio_link_point": "Supabase를 활용한 API 및 DB 구조 설계 과정",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "saramin_54447566": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[인턴/기타 직무] 예이린 사회적협동조합의 직무별 인턴 또는 Analog Design 인턴 공고입니다.",
+    "reason": "예이린 사회적협동조합의 예이린 사회적협동조합 직무별 인턴 모집 공고입니다. 이 직무는 Next.js/React 기반의 프론트엔드 개발이라는 저의 주력 커리어 방향(Product Engineer)과 직접적인 연관성이 매우 낮아 보입니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "직무에 따른 비개발 또는 하드웨어/기획 관련 지식 습득",
+    "motivation": "다양한 도메인에서의 경험을 통해 넓은 시야를 가지기 위함입니다.",
+    "questions_to_ask": "향후 정규직 전환 시 개발 직무로의 이동 가능성이 있나요?",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트 경험으로 빠른 적응력 어필",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "saramin_54459757": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[인턴/기타 직무] (주)엘엑스세미콘의 직무별 인턴 또는 Analog Design 인턴 공고입니다.",
+    "reason": "(주)엘엑스세미콘의 2026년 7월 석사 채용연계형 인턴(Interface - Analog Design) 공고입니다. 이 직무는 Next.js/React 기반의 프론트엔드 개발이라는 저의 주력 커리어 방향(Product Engineer)과 직접적인 연관성이 매우 낮아 보입니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "직무에 따른 비개발 또는 하드웨어/기획 관련 지식 습득",
+    "motivation": "다양한 도메인에서의 경험을 통해 넓은 시야를 가지기 위함입니다.",
+    "questions_to_ask": "향후 정규직 전환 시 개발 직무로의 이동 가능성이 있나요?",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트 경험으로 빠른 적응력 어필",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_370980": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[AI/Data 애플리케이션] 디자이노블의 주니어 백엔드/AI 애플리케이션 개발자 공고입니다.",
+    "reason": "디자이노블의 주니어 백엔드/AI 애플리케이션 개발자 공고입니다. 이 공고는 AI 및 Data 역량, 백엔드 애플리케이션 개발을 요구합니다. 평소 Claude Code나 Hermes Agent를 활용하는 AI-native workflow 경험을 보조적으로 어필할 수 있으나, 본격적인 RAG/Data 파이프라인 경험은 부족할 수 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "AI-native workflow 경험 (개인 프로젝트)",
+    "learning_points": "RAG 아키텍처 및 데이터 엔지니어링 파이프라인 상세",
+    "motivation": "AI 기술을 활용하여 사용자에게 실질적인 가치를 제공하는 애플리케이션을 만들고 싶습니다.",
+    "questions_to_ask": "핵심 모델 개발과 애플리케이션 서비스 개발 중 어느 쪽에 더 무게를 두고 있나요?",
+    "portfolio_link_point": "AI 도구를 활용해 개발 생산성을 높였던 사례들",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_374948": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[풀스택/신입] 씨브이쓰리의 풀스택 개발자 (신입) 공고로, 프론트엔드와 백엔드를 아우르는 역량이 필요합니다.",
+    "reason": "씨브이쓰리의 풀스택 개발자 (신입) 공고입니다. 이 포지션은 Next.js 기반의 프론트엔드 역량과 함께 백엔드 연동 경험이 요구되므로, 쌍청문 키오스크 및 공간대여 시스템에서 프론트와 DB를 단독으로 설계하고 운영한 경험을 강점으로 내세우기 좋습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "회사에서 사용하는 특정 백엔드 프레임워크나 인프라 환경에 대한 추가 학습",
+    "motivation": "서비스의 전체 구조를 이해하고 프론트엔드를 중심으로 시스템의 완성도를 높이는 Product Engineer로 성장하고 싶습니다.",
+    "questions_to_ask": "프론트엔드와 백엔드 업무의 실제 배분 비율이 어떻게 되나요?",
+    "portfolio_link_point": "단독으로 기획 및 구현하여 운영 문제를 해결한 쌍청문 공간대여 시스템의 성과",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_366127": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[데이터 엔지니어링] 백패커의 [아이디어스] 추천 개발 엔지니어 (주니어) 공고입니다.",
+    "reason": "백패커의 [아이디어스] 추천 개발 엔지니어 (주니어) 공고입니다. 추천 시스템 및 데이터 엔지니어링 역량을 깊이 있게 요구하는 포지션으로 판단됩니다. 프론트엔드 위주의 개발 경험보다는 별도의 데이터 처리 전문성이 필요하므로 제 주력 스택과 거리가 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "웹에이전시 MVP 경험",
+    "learning_points": "본격적인 대용량 데이터 처리 기술 및 추천 알고리즘",
+    "motivation": "사용자 데이터를 분석하여 서비스 퍼널을 개선하는 데 관심이 많습니다.",
+    "questions_to_ask": "데이터 분석가와 엔지니어 간의 역할 분담은 어떻게 되나요?",
+    "portfolio_link_point": "MVP 프로젝트에서 고객 유입 데이터를 분석하고 서비스를 개선한 과정",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_374796": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[전환형 인턴 풀스택] 링글잉글리시에듀케이션서비스의 Software Engineer - Full Stack 공고입니다.",
+    "reason": "전환형 인턴으로서 제 프론트엔드 강점(Next.js/React)을 메인으로 활용하면서 쌍청문 공간대여 시스템에서 증명한 풀스택 설계 역량을 추가로 보여줄 수 있는 좋은 기회입니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여 시스템",
+    "learning_points": "팀 내에서 사용하는 백엔드 아키텍처 및 배포 파이프라인",
+    "motivation": "프론트엔드 중심의 풀스택 개발 경험을 바탕으로 실무 환경에서 빠르게 기여하는 Product Engineer가 되고 싶습니다.",
+    "questions_to_ask": "프론트엔드와 백엔드 중 어느 쪽에 더 많은 기여를 기대하시나요?",
+    "portfolio_link_point": "쌍청문 공간대여 시스템의 전체 아키텍처 설계와 문제 해결 과정",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_374771": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[인턴/기타 직무] 딥세일즈의 직무별 인턴 또는 Analog Design 인턴 공고입니다.",
+    "reason": "딥세일즈의 [인턴] GTM엔지니어 공고입니다. 이 직무는 Next.js/React 기반의 프론트엔드 개발이라는 저의 주력 커리어 방향(Product Engineer)과 직접적인 연관성이 매우 낮아 보입니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "직무에 따른 비개발 또는 하드웨어/기획 관련 지식 습득",
+    "motivation": "다양한 도메인에서의 경험을 통해 넓은 시야를 가지기 위함입니다.",
+    "questions_to_ask": "향후 정규직 전환 시 개발 직무로의 이동 가능성이 있나요?",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트 경험으로 빠른 적응력 어필",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_374884": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[AI/Data 애플리케이션] 애자일소다의 RAG/Data 엔지니어 공고입니다.",
+    "reason": "애자일소다의 RAG/Data 엔지니어 공고입니다. 이 공고는 AI 및 Data 역량, 백엔드 애플리케이션 개발을 요구합니다. 평소 Claude Code나 Hermes Agent를 활용하는 AI-native workflow 경험을 보조적으로 어필할 수 있으나, 본격적인 RAG/Data 파이프라인 경험은 부족할 수 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "AI-native workflow 경험 (개인 프로젝트)",
+    "learning_points": "RAG 아키텍처 및 데이터 엔지니어링 파이프라인 상세",
+    "motivation": "AI 기술을 활용하여 사용자에게 실질적인 가치를 제공하는 애플리케이션을 만들고 싶습니다.",
+    "questions_to_ask": "핵심 모델 개발과 애플리케이션 서비스 개발 중 어느 쪽에 더 무게를 두고 있나요?",
+    "portfolio_link_point": "AI 도구를 활용해 개발 생산성을 높였던 사례들",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_374876": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[AI/Data 애플리케이션] 애자일소다의 AI Agent Engineer 공고입니다.",
+    "reason": "애자일소다의 AI Agent Engineer 공고입니다. 이 공고는 AI 및 Data 역량, 백엔드 애플리케이션 개발을 요구합니다. 평소 Claude Code나 Hermes Agent를 활용하는 AI-native workflow 경험을 보조적으로 어필할 수 있으나, 본격적인 RAG/Data 파이프라인 경험은 부족할 수 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "AI-native workflow 경험 (개인 프로젝트)",
+    "learning_points": "RAG 아키텍처 및 데이터 엔지니어링 파이프라인 상세",
+    "motivation": "AI 기술을 활용하여 사용자에게 실질적인 가치를 제공하는 애플리케이션을 만들고 싶습니다.",
+    "questions_to_ask": "핵심 모델 개발과 애플리케이션 서비스 개발 중 어느 쪽에 더 무게를 두고 있나요?",
+    "portfolio_link_point": "AI 도구를 활용해 개발 생산성을 높였던 사례들",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_374747": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[백엔드] 파일러니어의 백엔드 개발자 (주니어) 공고로, 주니어 또는 Java 백엔드 개발자를 모집합니다.",
+    "reason": "파일러니어의 백엔드 개발자 (주니어) 공고입니다. 본 공고는 백엔드 중심의 업무이므로, 제 핵심 강점인 프론트엔드 역량보다는 쌍청문 프로젝트에서의 API 설계 및 DB 연동 등 풀스택 경험을 강조해야 합니다. 다만 깊은 서버/인프라 지식을 요구할 가능성이 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여 시스템",
+    "learning_points": "대규모 트래픽 처리 및 백엔드 전문 아키텍처, Java/Spring 스택 (해당하는 경우)",
+    "motivation": "백엔드 개발 팀 내에서 프론트엔드와의 협업 효율을 극대화할 수 있는 시야를 제공하고자 합니다.",
+    "questions_to_ask": "업무 중 요구되는 트래픽 최적화나 인프라 관리의 난이도는 어느 정도인가요?",
+    "portfolio_link_point": "Supabase를 활용한 API 및 DB 구조 설계 과정",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_159691": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[풀스택 Nodejs] 선데이띵커의 Nodejs 기반 풀스택 개발자 공고입니다.",
+    "reason": "Next.js/React와 Node.js 풀스택 생태계는 제 핵심 스택과 정확히 일치하며, 소상상점과 쌍청문 키오스크 프로젝트에서 얻은 운영 문제 해결 경험이 이 포지션에서 가장 빛을 발할 것입니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "소상상점",
+    "learning_points": "서비스 확장에 따른 백엔드 성능 최적화 방법론",
+    "motivation": "주력 스택인 Node.js 기반 환경에서 프론트엔드 역량을 발휘하여 사용자와 비즈니스 모두에 기여하는 Product Engineer로 함께 성장하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 시 중요하게 생각하는 최적화 포인트(SEO 등)가 있나요?",
+    "portfolio_link_point": "소상상점의 SEO 및 컴포넌트 최적화 경험, 그리고 Node.js 기반 API 개발 성과",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_374859": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[데이터 엔지니어링] 플리토의 Data Engineer (2년 이상) 공고입니다.",
+    "reason": "플리토의 Data Engineer (2년 이상) 공고입니다. 추천 시스템 및 데이터 엔지니어링 역량을 깊이 있게 요구하는 포지션으로 판단됩니다. 프론트엔드 위주의 개발 경험보다는 별도의 데이터 처리 전문성이 필요하므로 제 주력 스택과 거리가 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "웹에이전시 MVP 경험",
+    "learning_points": "본격적인 대용량 데이터 처리 기술 및 추천 알고리즘",
+    "motivation": "사용자 데이터를 분석하여 서비스 퍼널을 개선하는 데 관심이 많습니다.",
+    "questions_to_ask": "데이터 분석가와 엔지니어 간의 역할 분담은 어떻게 되나요?",
+    "portfolio_link_point": "MVP 프로젝트에서 고객 유입 데이터를 분석하고 서비스를 개선한 과정",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_374823": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[백엔드] 널리소프트의 [쌤157] 백엔드 개발자 (Java) 공고로, 주니어 또는 Java 백엔드 개발자를 모집합니다.",
+    "reason": "널리소프트의 [쌤157] 백엔드 개발자 (Java) 공고입니다. 본 공고는 백엔드 중심의 업무이므로, 제 핵심 강점인 프론트엔드 역량보다는 쌍청문 프로젝트에서의 API 설계 및 DB 연동 등 풀스택 경험을 강조해야 합니다. 다만 깊은 서버/인프라 지식을 요구할 가능성이 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "쌍청문 공간대여 시스템",
+    "learning_points": "대규모 트래픽 처리 및 백엔드 전문 아키텍처, Java/Spring 스택 (해당하는 경우)",
+    "motivation": "백엔드 개발 팀 내에서 프론트엔드와의 협업 효율을 극대화할 수 있는 시야를 제공하고자 합니다.",
+    "questions_to_ask": "업무 중 요구되는 트래픽 최적화나 인프라 관리의 난이도는 어느 정도인가요?",
+    "portfolio_link_point": "Supabase를 활용한 API 및 DB 구조 설계 과정",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
+  },
+  "wanted_359901": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "summary": "[데이터 엔지니어링] 넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] 데이터엔지니어 공고입니다.",
+    "reason": "넛지헬스케어(캐시워크)의 [병역특례 현역/보충역] 데이터엔지니어 공고입니다. 추천 시스템 및 데이터 엔지니어링 역량을 깊이 있게 요구하는 포지션으로 판단됩니다. 프론트엔드 위주의 개발 경험보다는 별도의 데이터 처리 전문성이 필요하므로 제 주력 스택과 거리가 있습니다.",
+    "risk": "큰 위험 신호 없음",
+    "feature_project": "웹에이전시 MVP 경험",
+    "learning_points": "본격적인 대용량 데이터 처리 기술 및 추천 알고리즘",
+    "motivation": "사용자 데이터를 분석하여 서비스 퍼널을 개선하는 데 관심이 많습니다.",
+    "questions_to_ask": "데이터 분석가와 엔지니어 간의 역할 분담은 어떻게 되나요?",
+    "portfolio_link_point": "MVP 프로젝트에서 고객 유입 데이터를 분석하고 서비스를 개선한 과정",
+    "analyzed_at": "2026-07-15T01:54:34.367Z"
   }
 }
