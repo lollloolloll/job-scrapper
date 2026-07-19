@@ -16496,5 +16496,59 @@
     "questions_to_ask": "개발 조직 내에서 백엔드와 프론트엔드 업무가 명확히 분리되는지, 아니면 크로스펑셔널하게 진행되는지 질문. (확인 필요)",
     "portfolio_link_point": "웹에이전시에서 초기 MVP를 구축하고 클라우드에 배포하여 운영해본 풀사이클 경험을 적극적으로 강조.",
     "analyzed_at": "2026-07-18T23:28:21.995Z"
+  },
+  "saramin_54498777": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Javascript",
+      "프론트엔드",
+      "웹개발"
+    ],
+    "summary": "엑시스아이티(주)의 Application 개발 인턴 포지션으로 다양한 경험이 가능하나 스택 명시가 부족함",
+    "reason": "엑시스아이티(주)의 Application 개발 인턴 채용 공고는 Javascript 기반의 프론트엔드 개발을 포함하지만, 주력인 Next.js/React 명시가 없고 울산이라는 근무지 제약이 있어 적합도를 4점으로 평가했습니다. (확인 필요)",
+    "risk": "근무지(울산) 제약 및 Next.js/React 등 모던 프레임워크 도입 여부 불확실",
+    "feature_project": "쌍청문 키오스크/대여 관리 시스템",
+    "learning_points": "레거시 환경 및 다양한 어플리케이션(웹/앱) 통합 운영 경험",
+    "motivation": "프론트엔드 중심의 개발 경험을 바탕으로 인턴 기간 동안 실제 서비스 운영에 필요한 다방면의 기술(프론트/백/앱)을 폭넓게 경험하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 시 Next.js나 React 같은 모던 프레임워크를 사용할 수 있는 환경인지 궁금합니다. (확인 필요)",
+    "portfolio_link_point": "쌍청문 대여 관리 시스템에서 프론트엔드부터 관리자 기능까지 구축해 운영 문제를 해결한 경험",
+    "analyzed_at": "2026-07-19T23:40:36.907Z"
+  },
+  "jobkorea_49598509": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "PHP",
+      "ASP",
+      "웹개발"
+    ],
+    "summary": "㈜웹모아의 PHP/ASP 기반 웹에이전시 포지션으로, 모던 프론트엔드 스택과 동떨어짐",
+    "reason": "㈜웹모아의 [웹에이전시] 웹개발자(PHP/ASP)채용 공고는 PHP와 ASP 기술을 메인으로 요구하므로, 프론트엔드(Next.js/React) 위주의 방향성을 가진 사용자의 커리어 목표와 완전히 일치하지 않습니다.",
+    "risk": "PHP/ASP 중심의 레거시 개발 환경으로 모던 웹 생태계 성장에 큰 제약",
+    "feature_project": "웹에이전시 MVP 홈페이지",
+    "learning_points": "레거시 웹 서버(ASP/PHP) 및 템플릿 엔진 기반의 개발 구조 이해",
+    "motivation": "(스택 불일치로 적극 지원은 보류하나, 에이전시 특유의 고객 응대 경험을 쌓기엔 나쁘지 않음)",
+    "questions_to_ask": "향후 React나 Next.js와 같은 모던 프론트엔드 스택으로의 기술 마이그레이션 계획이 있는지 궁금합니다. (확인 필요)",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트 당시 고객 요구사항을 정리하고 웹사이트 퍼널을 기획했던 경험",
+    "analyzed_at": "2026-07-19T23:40:36.907Z"
+  },
+  "jobkorea_49571666": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "사이버보안",
+      "보안엔지니어",
+      "네트워크엔지니어"
+    ],
+    "summary": "㈜윈스테크넷의 2026년 사이버보안 전문인력 양성과정 교육생 공고로 비개발 직무임",
+    "reason": "㈜윈스테크넷의 2026년 사이버보안 전문인력 양성과정 교육생 9기 모집(부산) 공고는 실제 개발 실무 채용이 아닌 보안 교육 과정이므로 프론트엔드(React/Next.js) 구직 목적과 무관합니다.",
+    "risk": "프론트엔드 개발 직무가 아닌 보안 교육과정",
+    "feature_project": "확인 필요",
+    "learning_points": "해당사항 없음",
+    "motivation": "지원하지 않음",
+    "questions_to_ask": "해당사항 없음",
+    "portfolio_link_point": "해당사항 없음",
+    "analyzed_at": "2026-07-19T23:40:36.907Z"
   }
 }
