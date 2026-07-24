@@ -17028,5 +17028,59 @@
     "questions_to_ask": "신입 지원자의 기대 역할과 주로 다루게 될 AI 서비스의 형태",
     "portfolio_link_point": "AI-native workflow 및 소상상점",
     "analyzed_at": "2026-07-23T23:06:14.450Z"
+  },
+  "jobkorea_49647484": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "시스템엔지니어",
+      "네트워크엔지니어",
+      "클라우드엔지니어"
+    ],
+    "summary": "클라우드 자바 IT국비지원 교육생 모집 공고로 채용 포지션이 아닙니다.",
+    "reason": "[IT 취업연계 국비교육] [더존비즈온] 클라우드엔지니어 공고는 신입 교육 과정이므로 프론트엔드 개발 채용과는 거리가 멉니다.",
+    "risk": "정규직 채용이 아닌 교육 연수생 모집 공고",
+    "feature_project": "소상상점",
+    "learning_points": "클라우드 인프라 (AWS, Docker, k8s) 구축 기초 경험",
+    "motivation": "클라우드 인프라 구조를 전반적으로 파악하여 배포 과정을 개선하고자 합니다.",
+    "questions_to_ask": "교육 수료 후 채용 연계 가능성 및 처우 수준 확인",
+    "portfolio_link_point": "소상상점 Vercel 배포 및 클라우드 서비스 연동 경험",
+    "analyzed_at": "2026-07-24T23:05:42.481Z"
+  },
+  "jobkorea_49531129": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "AI/ML",
+      "PM",
+      "스마트팩토리"
+    ],
+    "summary": "컨포트랩의 제조 AI 프로젝트 엔지니어 직무로, AI-native workflow 강점을 살릴 수 있습니다.",
+    "reason": "컨포트랩의 제조 AI 프로젝트 엔지니어(FDE) 직무는 저의 AI-native workflow 경험과 연결될 수 있는 지점이 있습니다.",
+    "risk": "스마트팩토리 및 제조 도메인 지식이 부족할 수 있습니다.",
+    "feature_project": "AI workflow",
+    "learning_points": "제조 현장의 IoT 및 스마트팩토리 도메인 지식",
+    "motivation": "AI 기술을 제조 산업 현장의 실제 문제 해결에 적용하는 엔지니어로 성장하고 싶습니다.",
+    "questions_to_ask": "개발과 PM 업무의 비중이 어떻게 나뉘나요?",
+    "portfolio_link_point": "AI-native workflow를 활용한 생산성 향상 경험",
+    "analyzed_at": "2026-07-24T23:01:43.562Z"
+  },
+  "jobkorea_49572703": {
+    "fit_score": 3,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "경영지원",
+      "마케팅기획",
+      "사무담당자"
+    ],
+    "summary": "파이브스페이스(아더에러)의 부문별 채용으로, 비개발 직무 중심이라 우선순위가 낮습니다.",
+    "reason": "파이브스페이스 신입/경력 부문별 채용은 디자인 및 기획 위주여서, 제 주력인 프론트엔드 개발과는 거리가 있습니다.",
+    "risk": "순수 개발보다는 기획/마케팅 등 비개발 업무 비중이 높을 가능성",
+    "feature_project": "소상상점",
+    "learning_points": "패션/리테일 도메인의 비즈니스 로직 및 기획 실무",
+    "motivation": "패션 브랜드 아더에러의 디지털 프로덕트 환경을 개선해보고 싶습니다.",
+    "questions_to_ask": "프론트엔드 개발 직무의 실질적인 개발 범위는 어디까지인가요?",
+    "portfolio_link_point": "소상상점 프로젝트에서의 UI/UX 개선 및 기획 협업 경험",
+    "analyzed_at": "2026-07-24T23:01:43.562Z"
   }
 }
