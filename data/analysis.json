@@ -17082,5 +17082,23 @@
     "questions_to_ask": "프론트엔드 개발 직무의 실질적인 개발 범위는 어디까지인가요?",
     "portfolio_link_point": "소상상점 프로젝트에서의 UI/UX 개선 및 기획 협업 경험",
     "analyzed_at": "2026-07-24T23:01:43.562Z"
+  },
+  "saramin_54564469": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "프론트엔드",
+      "백엔드",
+      "AI/AX"
+    ],
+    "summary": "(주)퍼스트앤탑의 (주)청연컨설팅에서 SI·DX·AI·AX 개발 신입 사원 채용으로 다양한 스택이 요구됩니다.",
+    "reason": "(주)퍼스트앤탑의 (주)청연컨설팅에서 SI·DX·AI·AX 개발 신입 사원 채용은 SI 특성상 백엔드와 프론트엔드의 비중이 모호하며, AI-native workflow 경험을 살릴 여지가 있으나 풀스택 파견 가능성이 우려되어 보류합니다.",
+    "risk": "SI 파견 및 프론트엔드 개발 비중이 불확실함",
+    "feature_project": "AI-native workflow",
+    "learning_points": "백엔드 및 인프라 구축 경험 부족",
+    "motivation": "AI 및 DX 도입을 통한 비즈니스 자동화에 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드와 백엔드의 업무 비중 및 SI 파견 여부(근무지)를 확인해야 합니다.",
+    "portfolio_link_point": "웹에이전시 MVP 제작 경험과 AI-native workflow를 통한 생산성 향상 경험을 강조.",
+    "analyzed_at": "2026-07-26T00:00:00Z"
   }
 }
