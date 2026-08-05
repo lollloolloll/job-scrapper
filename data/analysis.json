@@ -17734,5 +17734,33 @@
     "questions_to_ask": "지원 전 직무 범위가 웹 시스템과 무관함을 최종 확인",
     "portfolio_link_point": "웹 프론트엔드 포트폴리오 활용 불가",
     "analyzed_at": "2026-08-05T00:00:00Z"
+  },
+  "saramin_54662495": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [],
+    "summary": "어플라이드머티어리얼즈코리아(주)의 Global Software Support Engineer 신입 채용 포지션은 프론트엔드 방향성과 맞지 않습니다.",
+    "reason": "어플라이드머티어리얼즈코리아(주)의 Global Software Support Engineer 신입 채용 공고는 현재 주력하는 웹에이전시 MVP 및 React/Next.js 기반 프론트엔드 개발 경험을 살리기 어려운 비개발 직무로 판단되어 추천하지 않습니다.",
+    "risk": "Global Software Support Engineer 신입 채용 직무는 프론트엔드 전문성을 쌓는 목표에 부합하지 않습니다.",
+    "feature_project": "소상상점",
+    "learning_points": "어플라이드머티어리얼즈코리아(주)에서 요구하는 해당 분야 실무 경험이 상대적으로 부족합니다.",
+    "motivation": "Global Software Support Engineer 신입 채용 관련 지원 동기를 당장 명확히 찾기 어렵습니다.",
+    "questions_to_ask": "직무 내용이 개발인지 운영/지원인지 다시 한번 확인 필요.",
+    "portfolio_link_point": "연결하기 애매함",
+    "analyzed_at": "2026-08-06T00:00:00Z"
+  },
+  "saramin_54660001": {
+    "fit_score": 1,
+    "recommendation": "비추천",
+    "core_stack_tags": [],
+    "summary": "넛지헬스케어(주)의 [캐시워크] 정보보호 담당 채용전환형 인턴 포지션은 프론트엔드 방향성과 맞지 않습니다.",
+    "reason": "넛지헬스케어(주)의 [캐시워크] 정보보호 담당 채용전환형 인턴 공고는 현재 주력하는 웹에이전시 MVP 및 React/Next.js 기반 프론트엔드 개발 경험을 살리기 어려운 비개발 직무로 판단되어 추천하지 않습니다.",
+    "risk": "[캐시워크] 정보보호 담당 채용전환형 인턴 직무는 프론트엔드 전문성을 쌓는 목표에 부합하지 않습니다.",
+    "feature_project": "소상상점",
+    "learning_points": "넛지헬스케어(주)에서 요구하는 해당 분야 실무 경험이 상대적으로 부족합니다.",
+    "motivation": "[캐시워크] 정보보호 담당 채용전환형 인턴 관련 지원 동기를 당장 명확히 찾기 어렵습니다.",
+    "questions_to_ask": "직무 내용이 개발인지 운영/지원인지 다시 한번 확인 필요.",
+    "portfolio_link_point": "연결하기 애매함",
+    "analyzed_at": "2026-08-06T00:00:00Z"
   }
 }
