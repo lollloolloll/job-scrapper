@@ -7,7 +7,7 @@ import { scrapeJobkorea } from "../scrapers/jobkorea.js";
 
 const SCRAPERS = [
   ["saramin", scrapeSaramin],
-  ["wanted", scrapeWanted],
+  // ["wanted", scrapeWanted], // Disabled due to CloudFront IP block
   ["jobkorea", scrapeJobkorea],
 ];
 
