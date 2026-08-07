@@ -17762,5 +17762,258 @@
     "questions_to_ask": "직무 내용이 개발인지 운영/지원인지 다시 한번 확인 필요.",
     "portfolio_link_point": "연결하기 애매함",
     "analyzed_at": "2026-08-06T00:00:00Z"
+  },
+  "saramin_54673997": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "React"
+    ],
+    "summary": "(주)에코마케팅의 [에코마케팅]프론트엔드 개발자 신입사원 채용 공고. 마케팅/광고대행사 도메인에서의 웹 경험.",
+    "reason": "(주)에코마케팅은 광고대행사이므로 웹에이전시 MVP 프로젝트에서 쌓은 빠른 구현 능력과 고객 유입 퍼널 이해도가 잘 맞을 것으로 보입니다.",
+    "risk": "마케팅 중심 환경이므로 개발 문화나 코드리뷰 체계가 약할 수 있음",
+    "feature_project": "웹에이전시 MVP 경험",
+    "learning_points": "광고 도메인 지식",
+    "motivation": "(주)에코마케팅의 성장에 저의 제품 개발 지향적인 프론트엔드 역량과 빠른 구현 경험을 보태고자 지원합니다.",
+    "questions_to_ask": "사내 개발팀 규모, 사용 중인 프론트엔드 프레임워크(Next.js 여부), 코드리뷰 진행 방식",
+    "portfolio_link_point": "웹에이전시 MVP 프로젝트의 고객 상담 퍼널 개선 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "saramin_54679793": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "Javascript",
+      "React"
+    ],
+    "summary": "다원컴퓨팅(주)의 [신입] 개발자 채용 공고. 풀스택(백엔드/프론트엔드) 요구 가능성.",
+    "reason": "다원컴퓨팅(주)의 공고가 프론트엔드와 백엔드를 모두 포괄하고 있어, 프론트 중심의 제 기술 스택과 일부 불일치할 수 있지만 풀스택 경험을 어필할 여지가 있습니다.",
+    "risk": "프론트/백엔드 구분이 명확하지 않아 인프라/서버 업무 비중이 높을 우려",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "백엔드 프레임워크(Spring 등) 요구 여부 확인",
+    "motivation": "다원컴퓨팅(주)에서 사용자 중심의 웹 개발을 주도하며 서비스 안정성을 높이고 싶습니다.",
+    "questions_to_ask": "실제 입사 시 프론트엔드 개발 비중, 팀 내 프론트/백 역할 분담",
+    "portfolio_link_point": "쌍청문 키오스크 프로젝트에서 혼자 프론트와 로컬 DB를 연결해본 풀스택 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "saramin_54683486": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "소프트웨어 개발"
+    ],
+    "summary": "새솔테크(주)의 [새솔테크] 연구소 소프트웨어 개발자 채용 [신입] 공고. 연구소/데이터 중심 가능성.",
+    "reason": "새솔테크(주) 연구소 직무는 정보보안이나 데이터엔지니어링 등 제 주력인 Next.js/React 웹 개발과 도메인이 약간 다를 수 있으나 신입 포지션이므로 검토 대상입니다.",
+    "risk": "웹 프론트엔드 비중이 낮고 서버/보안 중심일 가능성 높음",
+    "feature_project": "AI-native workflow",
+    "learning_points": "정보보안 및 데이터 관련 기반 지식",
+    "motivation": "새솔테크(주) 연구소에서 데이터를 다루는 소프트웨어 개발에 제 꼼꼼한 워크플로우를 적용하고 싶습니다.",
+    "questions_to_ask": "연구소 내 웹 프론트엔드 직무의 유무와 주 사용 스택, 연구 과제의 성격",
+    "portfolio_link_point": "AI 도구를 활용해 디버깅 방향을 찾고 새로운 기술(Drizzle, SQLite)에 빠르게 적응한 학습 역량",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49719500": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "교육"
+    ],
+    "summary": "제이에스엘인재개발원㈜의 일본 IT취업 연수생 모집 공고.",
+    "reason": "제이에스엘인재개발원㈜ 공고는 개발자 직접 채용이 아닌 국비지원 연수생 모집 공고이므로 현재 구직 방향과 맞지 않습니다.",
+    "risk": "취업이 아닌 교육 과정 모집",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "지원 의사 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49733434": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "React"
+    ],
+    "summary": "㈜에코마케팅의 잡코리아 공고. 프론트엔드 개발자 신입사원 채용.",
+    "reason": "㈜에코마케팅 공고는 웹에이전시 MVP 경험에서 얻은 빠른 구현 및 고객 요구사항 반영 능력이 광고/홍보 도메인과 긍정적인 시너지를 낼 수 있는 포지션입니다.",
+    "risk": "에이전시 특유의 잦은 스펙 변경이나 일정 압박 가능성",
+    "feature_project": "웹에이전시 MVP 경험",
+    "learning_points": "마케팅 데이터 시각화 요구 가능성",
+    "motivation": "㈜에코마케팅의 다양한 마케팅 솔루션 구축에 프론트엔드 개발자로서 기여하며 빠르고 유연한 UI를 만들고 싶습니다.",
+    "questions_to_ask": "사내 디자인팀과의 협업 방식, 프론트엔드 성능 최적화 경험 여부",
+    "portfolio_link_point": "웹에이전시 MVP 경험 중 빠른 요구사항 대응 사례",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49727450": {
+    "fit_score": 9,
+    "recommendation": "강력 추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "AI"
+    ],
+    "summary": "㈜넥슨의 [AI본부] 웹 프론트엔드 엔지니어 (인턴) 공고. AI와 웹의 결합.",
+    "reason": "㈜넥슨 AI본부 공고는 제 보조 강점인 AI-native workflow 활용 경험과 프론트엔드 역량을 동시에 어필할 수 있는 최적의 기회로 판단됩니다.",
+    "risk": "인턴십 이후 정규직 전환율 확인 필요, 대기업 특성상 특화된 사내 도구 사용 가능성",
+    "feature_project": "AI-native workflow",
+    "learning_points": "대용량 트래픽 처리 경험, 게임 도메인 이해도",
+    "motivation": "㈜넥슨 AI본부에서 AI 기반 웹 서비스를 구현하며, 제가 가진 에이전트 활용 워크플로우 경험을 실무에 녹여내고 싶습니다.",
+    "questions_to_ask": "정규직 전환 비율, AI본부 내 프론트엔드 개발자의 구체적인 업무 범위(내부 툴 vs 대고객 서비스)",
+    "portfolio_link_point": "Claude Code/Hermes 등을 활용한 개인 지식관리 파이프라인(Graphify) 운영 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49599563": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "프론트엔드",
+      "Next.js"
+    ],
+    "summary": "㈜클래스101의 [인턴] 프론트엔드 엔지니어 공고. B2C 플랫폼 중심.",
+    "reason": "㈜클래스101은 B2C 플랫폼 서비스로서 소상상점 프로젝트에서 다룬 사용자 중심의 UI/UX 고민 및 상점/주문 흐름 경험이 좋은 무기가 될 것입니다.",
+    "risk": "인턴직이며 전환형인지 명시 확인 필요",
+    "feature_project": "소상상점",
+    "learning_points": "비디오 스트리밍 관련 프론트엔드 지식 필요성",
+    "motivation": "㈜클래스101의 학습 환경을 개선하는 프론트엔드 엔지니어로 합류하여, 소상상점 경험을 바탕으로 매끄러운 유저 경험을 제공하고 싶습니다.",
+    "questions_to_ask": "인턴의 주요 프로젝트 투입 여부(실 서비스 투입 vs 독립 과제), React 외 사용하는 스택",
+    "portfolio_link_point": "소상상점에서 Storybook으로 UI 컴포넌트를 문서화하고 사용자 웹 템플릿을 구성한 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49741164": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "프론트엔드",
+      "SI"
+    ],
+    "summary": "㈜에이블짐정보의 프론트엔드개발자 채용 공고. 솔루션/SI 성격 가능성.",
+    "reason": "㈜에이블짐정보 공고는 체육/헬스 도메인일 가능성이 있으며 SI 성격이 혼재될 수 있어, 제 Product Engineer 성향과 맞는지 상세 업무 원본 확인이 요구됩니다.",
+    "risk": "파견 근무 가능성, SI 특유의 짧은 프로젝트 주기 우려",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "도급/파견 환경에서의 개발 협업 프로세스",
+    "motivation": "㈜에이블짐정보의 솔루션 개발에 제 웹 구현 경험을 바탕으로 안정적이고 사용성 높은 UI를 제공하고 싶습니다.",
+    "questions_to_ask": "자체 솔루션 개발인지 파견 SI인지, 주력 프론트엔드 프레임워크",
+    "portfolio_link_point": "쌍청문 공간대여 예약 시스템을 단독 구현하며 익힌 요구사항 분석 능력",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49710013": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "React",
+      "JAVA"
+    ],
+    "summary": "㈜라임컴퍼니의 JAVA React.JS 기반 백엔드,프론트엔드 SI 모집 공고.",
+    "reason": "㈜라임컴퍼니는 Java 중심의 백엔드 SI 포지션에 프론트엔드가 섞인 형태일 수 있어, 프론트/Next.js 위주인 제 성향과 다소 거리가 있을 수 있습니다.",
+    "risk": "Java/Spring 기반 백엔드 업무 비중이 높을 가능성 큼",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "Java 언어 기반 백엔드 환경 지식",
+    "motivation": "㈜라임컴퍼니의 SI 프로젝트에서 React 프론트엔드 영역을 주도적으로 구현해 프로젝트 완성도를 높이고 싶습니다.",
+    "questions_to_ask": "프론트엔드 전담 인력 배정 여부, Java 백엔드 개발 병행 필수 여부",
+    "portfolio_link_point": "쌍청문 키오스크 개발 시 로컬 DB/관리자 페이지를 동시에 고려한 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49730351": {
+    "fit_score": 5,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "웹기획",
+      "마케팅"
+    ],
+    "summary": "㈜안랩의 신입/경력 채용 공고. 보안업계 개발 외 기획/마케팅 등 포함.",
+    "reason": "㈜안랩 공고는 직군이 웹기획/PM 등 비개발 직무가 다수 포함된 대규모 채용으로 보여, 순수 프론트엔드 개발 포지션인지 명확히 확인이 필요합니다.",
+    "risk": "개발 직무가 아닌 운영/기획 위주의 직무일 가능성 있음",
+    "feature_project": "웹에이전시 MVP 경험",
+    "learning_points": "보안 솔루션 도메인 관련 지식",
+    "motivation": "㈜안랩의 탄탄한 보안 서비스 라인업에 걸맞은 사용자 친화적인 웹 환경을 조성하는 데 기여하고 싶습니다.",
+    "questions_to_ask": "프론트엔드 순수 개발 포지션 TO가 있는지, 주 사용 기술 스택은 무엇인지",
+    "portfolio_link_point": "요구사항 기획부터 구현까지 진행한 웹에이전시 MVP 구축 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49706343": {
+    "fit_score": 6,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "ERP",
+      "서비스"
+    ],
+    "summary": "㈜이카운트의 서비스본부 신입 채용 공고. ERP 도메인.",
+    "reason": "㈜이카운트는 ERP 솔루션 중심이라 복잡한 폼/데이터 처리가 중요하며, 관리자 툴/운영 문제 해결 경험이 있는 저에게 도전해 볼 만하지만 직무(기획/개발) 세부 확인이 선행되어야 합니다.",
+    "risk": "순수 개발이 아닌 기술지원/컨설턴트 직무일 가능성 다분함",
+    "feature_project": "쌍청문 공간대여",
+    "learning_points": "복잡한 회계/ERP 비즈니스 로직 및 대량 데이터 렌더링 최적화",
+    "motivation": "㈜이카운트의 방대한 ERP 시스템에서 발생할 수 있는 복잡한 UI를 효율적으로 개선해보고자 합니다.",
+    "questions_to_ask": "해당 포지션이 코드 레벨의 프론트엔드 구현을 다루는지, 주요 사용하는 라이브러리",
+    "portfolio_link_point": "쌍청문 공간대여/키오스크 프로젝트에서 TanStack Table 기반의 관리자 테이블 화면 구성 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49686372": {
+    "fit_score": 7,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "AI",
+      "웹개발"
+    ],
+    "summary": "랜드소프트㈜의 AI 기반 공공 IT/문화예술 확장 인재 모집 공고.",
+    "reason": "랜드소프트㈜ 공고는 공공 도메인과 AI를 결합하려는 비전이 있어, 제가 가진 AI-native workflow와 쌍청문에서의 공공적 기관 시스템 개발 경험이 시너지를 발휘할 것입니다.",
+    "risk": "공공 SI 성격이 강해 기술 스택이 보수적(전자정부프레임워크 등)일 수 있음",
+    "feature_project": "쌍청문 키오스크",
+    "learning_points": "공공/문화예술 분야의 특수한 보안 및 접근성 요건",
+    "motivation": "랜드소프트㈜에서 AI를 문화·예술 IT 서비스에 접목시키는 과정에 저의 AI 활용 워크플로우 능력을 더하고 싶습니다.",
+    "questions_to_ask": "자체 프론트엔드 프레임워크 사용 여부(React/Vue 가능성), 개발팀 내 AI 기술 도입 단계",
+    "portfolio_link_point": "청소년 시설 운영 문제를 해결한 쌍청문 키오스크 시스템 및 AI 로그 분석 파이프라인 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49690646": {
+    "fit_score": 4,
+    "recommendation": "보류",
+    "core_stack_tags": [
+      "웹개발",
+      "백엔드"
+    ],
+    "summary": "㈜이음텍의 경력 웹개발자 모집 공고. 풀스택/솔루션.",
+    "reason": "㈜이음텍 공고는 경력을 요구하고 있으며 프론트/백엔드를 모두 아우르는 SI/솔루션 개발로 보여 신입/주니어인 제 포지셔닝과 다소 엇갈릴 수 있습니다.",
+    "risk": "3년 이상 경력자 위주의 포지션이거나 구형 스택 유지보수 위주 가능성",
+    "feature_project": "웹에이전시 MVP 경험",
+    "learning_points": "경력직 수준의 아키텍처 설계와 트러블슈팅 경험",
+    "motivation": "㈜이음텍의 서비스 고도화에 기여하며 풀스택 역량과 책임감을 증명해 보이고 싶습니다.",
+    "questions_to_ask": "신입/주니어의 지원 및 면접 가능성, 현재 팀의 기술 부채 해결 방식",
+    "portfolio_link_point": "웹에이전시 MVP 구축 중 프론트와 API 연동 로직 분리(Service Layer) 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49678589": {
+    "fit_score": 2,
+    "recommendation": "비추천",
+    "core_stack_tags": [
+      "경영기획",
+      "비개발"
+    ],
+    "summary": "㈜에스파워의 [삼천리그룹] 직원채용 공고. 기계/비즈니스 기획 등 웹개발과 무관함.",
+    "reason": "㈜에스파워 공고는 기계/화학/경영지원 위주의 모집으로, 제 프론트엔드 및 Product Engineer 커리어 방향과 완전히 무관합니다.",
+    "risk": "개발 직군이 아님",
+    "feature_project": "없음",
+    "learning_points": "해당 없음",
+    "motivation": "지원 의사 없음",
+    "questions_to_ask": "해당 없음",
+    "portfolio_link_point": "해당 없음",
+    "analyzed_at": "2026-08-08T00:00:00Z"
+  },
+  "jobkorea_49666437": {
+    "fit_score": 8,
+    "recommendation": "추천",
+    "core_stack_tags": [
+      "웹개발",
+      "프론트엔드"
+    ],
+    "summary": "㈜이노디스의 웹개발 신입 채용 공고. AI(Claude) 활용자 우대.",
+    "reason": "㈜이노디스 공고는 AI(Claude)를 활용한 개발 가능자를 우대하므로, 제 핵심 경쟁력인 AI-native workflow(Claude Code, Hermes 등 활용)가 매우 직접적인 강점이 됩니다.",
+    "risk": "SI/솔루션 특성상 Java/전자정부 비중이 프론트(React)보다 훨씬 클 수 있음",
+    "feature_project": "AI-native workflow",
+    "learning_points": "Java, Spring, 전자정부프레임워크 적응력 향상",
+    "motivation": "㈜이노디스의 웹 개발 실무에 저의 AI-native workflow를 접목해, 문제 해결과 코드 구현 속도를 획기적으로 높이겠습니다.",
+    "questions_to_ask": "프론트엔드 구현 시 최신 프레임워크(React 등) 도입 현황, 사내 AI 도구 활용 문화",
+    "portfolio_link_point": "Obsidian/Graphify를 통해 AI 대화 로그를 정리하고 디버깅에 적극 활용해 온 개인 지식관리 경험",
+    "analyzed_at": "2026-08-08T00:00:00Z"
   }
 }
